@@ -22,9 +22,15 @@ Hay que mantener el espacio y el LID, oficina que desarrolla proyectos.
 
 Estandarizar los instrumentos del LID, criterios y sistemas para tener mayor control, con manuales e inducciones.
 
+### Creacion pagina web
+
+Subir los prototipos que se van a desarrollar
+
 Aarón mencionó que tiene ya un listado de instrumentos del LID y una página web.
 
 Ejemplo de esto: se menciona agregar un sistema de QR para los libros.
+
+estaria increible escanear los sintes y los pedales y ahi agregar los manualees.
 
 ## Crear testeos
 
