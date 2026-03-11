@@ -1,3 +1,0 @@
-# Taller de investigacion y desarrollo material
-
-...
