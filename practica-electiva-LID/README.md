@@ -2,9 +2,7 @@
 
 Profesores Aarón Montoya y Joaquin Gonzales
 
-## Crecimiento del LID
-
-Ayudar al LID a que crezca y se aproveche para la nueva mención, podemos conversar y proponer.
+## Introduccion
 
 Investigación en pregrado, proyectos en serio.
 
@@ -13,6 +11,12 @@ Laboratorio 360, editorial, ya han tenido estas prácticas.
 ¿Primera vez que se hace práctica en el LID?
 
 Sin horario definido, ya que no es un curso.
+
+Responsabilidades y tareas, de las responsabilidades nunca se liberan.
+
+## Crecimiento del LID
+
+Ayudar al LID a que crezca y se aproveche para la nueva mención, podemos conversar y proponer.
 
 Hay que mantener el espacio y el LID, oficina que desarrolla proyectos.
 
