@@ -59,3 +59,5 @@ Cómo postular a fondos, pedir plata.
 Concursos: cómo convocar sin sesgos, lenguaje que atraiga y no decepcione.
 
 Una serie de proyectos reconocidos con diferentes categorías a destacar, diseñar proceso curatorial y cómo exhibir las cosas.
+
+[Mitchel Resnick](https://web.media.mit.edu/~mres/)
