@@ -30,6 +30,8 @@ Ejemplo de esto: se menciona agregar un sistema de QR para los libros.
 
 Muestreos de proyectos para darle más visibilidad al laboratorio / mención.
 
+Documentacion de prototipos.
+
 ## Evento Processing Community Day 
 
 [Processing Community Day](https://darc.au.dk/projects/processing-community-day)
