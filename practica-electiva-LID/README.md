@@ -54,13 +54,17 @@ Examen de pensamiento computacional.
 
 Posicionarnos con un carácter internacional y también crear comunidad, momento de encuentro.
 
+Una serie de proyectos reconocidos con diferentes categorías a destacar, diseñar proceso curatorial y cómo exhibir las cosas.
+
 Gestión
 
 Cómo postular a fondos, pedir plata.
 
-Concursos: cómo convocar sin sesgos, lenguaje que atraiga y no decepcione.
+Concursos: cómo convocar sin sesgos, lenguaje que atraiga y no decepcione. glosa, justificacion presupuestro, una categoria de fondos para algo
 
-Una serie de proyectos reconocidos con diferentes categorías a destacar, diseñar proceso curatorial y cómo exhibir las cosas.
+necesitamos apoyon de alguien academico, privado y publico y agrupacione de personas (sociedad civil)
+
+relaciomatriz
 
 ## Bibliografia y referencias
 
