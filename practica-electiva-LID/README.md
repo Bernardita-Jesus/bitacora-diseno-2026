@@ -34,6 +34,8 @@ Ejemplo de esto: se menciona agregar un sistema de QR para los libros.
 
 estaria increible escanear los sintes y los pedales y ahi agregar los manualees.
 
+Página web de [intelligent instruments](https://intelligentinstruments.notion.site/a3963e0f894e46e7a43eadd17d69a857?v=8bad66a774774f9b9549a76da6edd450)
+
 ---
 
 ## Crear testeos
