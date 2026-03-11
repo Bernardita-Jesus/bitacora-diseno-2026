@@ -48,6 +48,8 @@ Documentacion de prototipos.
 
 ## Evento Processing Community Day 
 
+fines de JUNIO 27 aprox
+
 [Processing Community Day](https://darc.au.dk/projects/processing-community-day)
 
 Examen de pensamiento computacional.
@@ -64,7 +66,7 @@ Concursos: cómo convocar sin sesgos, lenguaje que atraiga y no decepcione. glos
 
 necesitamos apoyon de alguien academico, privado y publico y agrupacione de personas (sociedad civil)
 
-relaciomatriz
+relacionatriz
 
 ## Bibliografia y referencias
 
