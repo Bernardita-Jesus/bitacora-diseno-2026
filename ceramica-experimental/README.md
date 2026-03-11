@@ -24,6 +24,23 @@ acabados superficiales color
 
 proyecto cerámico
 
+### materiales
+
+pasta laguna clay 210. ceracart
+
+pasta bt, casa ceramista
+
+pulverizador y frascos
+
+palos de maqueta 5x5
+
+
+### encargo l
+
+sinstema de quema, preguntar si me pueden enseñar a ocupar el ehorno
+
+preguntar por impresora en 3d
+
 
 
 
