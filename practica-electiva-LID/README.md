@@ -62,4 +62,10 @@ Concursos: cómo convocar sin sesgos, lenguaje que atraiga y no decepcione.
 
 Una serie de proyectos reconocidos con diferentes categorías a destacar, diseñar proceso curatorial y cómo exhibir las cosas.
 
+## Bibliografia y referencias
+
+[Processing Community Day](https://darc.au.dk/projects/processing-community-day)
+
+[intelligent instruments](https://intelligentinstruments.notion.site/a3963e0f894e46e7a43eadd17d69a857?v=8bad66a774774f9b9549a76da6edd450)
+
 [Mitchel Resnick](https://web.media.mit.edu/~mres/)
