@@ -1,0 +1,1 @@
+# bitacora-diseno-2026
