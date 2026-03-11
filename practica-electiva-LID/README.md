@@ -1,6 +1,6 @@
 # Practica electiva laboratorio de interaccion
 
-profesores Aarón Montoya y Joaquin Gonzales
+Profesores Aarón Montoya y Joaquin Gonzales
 
 ## Crecimiento del LID
 
