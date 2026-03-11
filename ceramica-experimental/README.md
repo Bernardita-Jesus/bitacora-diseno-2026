@@ -16,9 +16,13 @@ Sebastian Figueroa, alquimista de la casa del ceramista
 
 Fancisca Rojas, Antonieta Aguirre, trabajan tecnicas y materiales tradicionales son la arcilla.
 
-## Materiales
+## Contenidos
 
-ceramica, porcelana
+unidad l extructura y textura
+
+acabados superficiales color
+
+proyecto cerámico
 
 
 
