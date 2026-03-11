@@ -2,7 +2,7 @@
 
 Profesores Aarón Montoya y Joaquin Gonzales
 
-## Introduccion
+## Introducción
 
 Investigación en pregrado, proyectos en serio.
 
