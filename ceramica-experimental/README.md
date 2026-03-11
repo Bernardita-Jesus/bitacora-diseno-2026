@@ -10,9 +10,9 @@ Mostral esculturas y temperaturas, tipos de pastlas, materiales, tecnicas
 
 yo lo separaria en dods partes, tecnicas y materiales
 
-dita cossio, andres sepulveda
+dita cossio, andres sepulveda, pilar maturana, teresita marín
 
-Materiales
+## Materiales
 
 ceramica, porcelana
 
