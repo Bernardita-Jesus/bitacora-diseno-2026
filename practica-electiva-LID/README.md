@@ -1,6 +1,6 @@
 # Practica electiva laboratorio de interaccion
 
-Profesores Aarón Montoya y Joaquin Gonzales
+Profesores [Aarón Montoya](https://github.com/montoyamoraga) y Joaquin Gonzales
 
 ## Introducción
 
