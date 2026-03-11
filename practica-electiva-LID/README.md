@@ -14,6 +14,8 @@ Sin horario definido, ya que no es un curso.
 
 Responsabilidades y tareas, de las responsabilidades nunca se liberan.
 
+---
+
 ## Crecimiento del LID
 
 Ayudar al LID a que crezca y se aproveche para la nueva mención, podemos conversar y proponer.
@@ -32,11 +34,15 @@ Ejemplo de esto: se menciona agregar un sistema de QR para los libros.
 
 estaria increible escanear los sintes y los pedales y ahi agregar los manualees.
 
+---
+
 ## Crear testeos
 
 Muestreos de proyectos para darle más visibilidad al laboratorio / mención.
 
 Documentacion de prototipos.
+
+---
 
 ## Evento Processing Community Day 
 
