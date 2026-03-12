@@ -81,11 +81,11 @@ Dependiendo de los minerales que contenga —como Cuarzo, Feldespato o óxidos d
 
 ### Contexto histórico
 
-La cerámica es una de las tecnologías materiales más antiguas desarrolladas por el ser humano, con orígenes en la prehistoria. Desde sus inicios se pueden identificar dos líneas principales de desarrollo:
+La cerámica es una de las tecnologías materiales más antiguas desarrolladas por el ser humano, een el paleontolitico. Desde sus inicios se pueden identificar dos líneas principales de desarrollo:
 
-Utilitaria: recipientes para almacenar agua, alimentos o cocinar.
+Utilitaria: vasijas, recipientes para almacenar agua, alimentos o cocinar.
 
-Espiritual o simbólica: figuras rituales, instrumentos y pequeñas piezas decoradas.
+Espiritual o simbólica: pequeñas figuras rituales, instrumentos y pequeñas piezas decoradas.
 
 En estas piezas comenzaron a aparecer pigmentos minerales que permitían generar color, patrones y narrativas visuales, lo que impulsó una exploración material y estética más compleja.
 
