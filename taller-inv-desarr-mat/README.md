@@ -28,6 +28,10 @@ tornetas, planas de madera
 
 ## material y adquisiscion
 
+la ceramica es un material de alta dureza, tiene resistencia termica, poca resistencia al impacto, que se obtiene de la coccion de la arcilla con otros minerrales que van variando como cuarzo o calcita, principalmente de piedras, oxido de hierroillitia, caolinitaque es un silicato de aluminio.
+
+hay hartos colores y depende de los minerales por ejemplo la roja tiene oxido de hierro
+
 Nicaragua, [documental las formas del barro | documetal completo](https://youtu.be/9ASyLJUi5B4?si=L-xQRqdtUEzP1oJn)
 
 ## reutilizacion y composiscion
