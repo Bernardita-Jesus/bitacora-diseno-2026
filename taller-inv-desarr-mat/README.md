@@ -61,6 +61,14 @@ otra tecnica que vi en el documental de ceramica tradicional en nicarahua, es qu
 - sintetizacion - bizcocho 800-1000
 - vitrificacion de 900-1200
 
+diferencia arcilla y ceramica
+
+### formas y tecnicas
+
+la ceramica no puede quedar con particulas de oxigeno en su interior ya que este puede explotar en el horno, por tanto las formas y tecnicas siguen esa funcion, como la tecnica de lulo, moldeo con tecnica de ahuecado, moldes siempre solo se quedn en las paredes y se deja una salida para el aire
+
+
+
 
 
 
