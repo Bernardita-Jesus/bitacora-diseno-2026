@@ -75,7 +75,7 @@ la ceramica no puede quedar con particulas de oxigeno en su interior ya que este
 
 ### La cerámica como material
 
-La cerámica es un material inorgánico obtenido a partir de arcilla que ha sido sometida a un proceso de cocción a altas temperaturas. La arcilla es una mezcla natural de minerales finos, principalmente silicatos de aluminio como la Caolinita, junto con otros minerales presentes en el suelo.
+La cerámica es un material inorgánico obtenido a partir de arcilla que ha sido sometida a un proceso de cocción a altas temperaturas. La arcilla es una mezcla natural de minerales finos, principalmente silicatos de aluminio hidratado, estos minerales vienen de la descomposicion de las rocas, como la Caolinita, que tiene una estructura que cuando se hidrata tiene una gran plasticidad, junto con otros minerales presentes en el suelo.
 
 Dependiendo de los minerales que contenga —como Cuarzo, Feldespato o óxidos de hierro— la arcilla puede presentar diferentes colores, niveles de porosidad y comportamiento en el horno.
 
