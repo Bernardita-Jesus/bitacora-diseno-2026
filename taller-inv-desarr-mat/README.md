@@ -81,13 +81,17 @@ Dependiendo de los minerales que contenga —como Cuarzo, Feldespato o óxidos d
 
 ### Contexto histórico
 
-La cerámica es una de las tecnologías materiales más antiguas desarrolladas por el ser humano, een el paleontolitico y el neolitico. Desde sus inicios se pueden identificar dos líneas principales de desarrollo:
+La cerámica es una de las tecnologías materiales más antiguas desarrolladas por el ser humano
 
-Utilitaria: vasijas, recipientes para almacenar agua, alimentos o cocinar.
+palenteolitico y neolitico: primeras piezas ceramicas,funsion utilitarias, cocinar, almacenar agua y alimentos, modeladas a mano y quemadas al fuego, decoraciones basicas, algunos picmentos y minerales simples
 
-Espiritual o simbólica: pequeñas figuras, que representaban deidades, narrativas simbolos y patrones rituales, instrumentos y pequeñas piezas decoradas.
+edad antigua: funsion utilitaria, vasijas, anforas, almacenaje, decoracion mas elaborada, desarrollo de mas picmentos minerales y pinturas, representacion dioses, animaless, escenas mitologicas cotidianas, exploracion formas y proporciones
 
-En estas piezas comenzaron a aparecer pigmentos minerales que permitían generar color, patrones y narrativas visuales, lo que impulsó una exploración material y estética más compleja.
+Edad media: inovacion tecnica y material, nuevas tecnicas de esmaltado, se perfeccionan los hornos, aparece la ceramica vidriada y menos porosa, harta cultura ceramica islamica y asiatica, china desarrolla la porcelana
+
+Edad moderna: expancion de comercio, globalizacion, la porcelana de china inspira a europa, nacen talleres y manufactura mas especializada, produccion mas sistematica
+
+Edad contemporanea: industrializacion, produccion masiva de vasillas, baldosas, ceramica artistica y experimental, desarrollo de nuevas tecnologias como la impresion por polimeros.
 
 ### Desarrollo cultural
 
