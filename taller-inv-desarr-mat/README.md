@@ -69,6 +69,8 @@ diferencia arcilla y ceramica
 
 ### formas y tecnicas
 
+1 bloque de pasta plastica o polvo granulado, se hecha agua para modelar con molde o inyeccion
+
 la ceramica no puede quedar con particulas de oxigeno en su interior ya que este puede explotar en el horno, por tanto las formas y tecnicas siguen esa funcion, como la tecnica de lulo, moldeo con tecnica de ahuecado, moldes siempre solo se quedn en las paredes y se deja una salida para el aire
 
 ## orden presentacion
