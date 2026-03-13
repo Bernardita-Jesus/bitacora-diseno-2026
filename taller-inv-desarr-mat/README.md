@@ -93,20 +93,6 @@ Edad moderna: expancion de comercio, globalizacion, la porcelana de china inspir
 
 Edad contemporanea: industrializacion, produccion masiva de vasillas, baldosas, ceramica artistica y experimental, desarrollo de nuevas tecnologias como la impresion por polimeros.
 
-### Desarrollo cultural
-
-A lo largo de la historia, muchas culturas desarrollaron técnicas cerámicas propias. Por ejemplo:
-
-culturas de China con el desarrollo de porcelanas
-
-civilizaciones de Mesoamérica con cerámica ritual y escultórica
-
-culturas del Mediterráneo con vasijas decoradas
-
-pueblos originarios de América del Sur con cerámica utilitaria y ceremonial
-
-La cerámica siempre ha estado vinculada a usos utilitarios, religiosos, artísticos y culturales.
-
 ### Industrialización y exploración artística
 
 Con el tiempo la cerámica pasó de ser una práctica artesanal a integrarse también en procesos industriales, ampliando sus aplicaciones y escalas de producción.
