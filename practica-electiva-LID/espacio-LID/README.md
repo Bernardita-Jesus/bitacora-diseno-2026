@@ -1,10 +1,10 @@
 # Ordenando la casa
 
-Primera reunión 
+Primera reunión Jueves 19 de Marzo, 2026.
 
-19-03-2026
+en esta reunion en conjunto con Yamna, definimos como podiamos dividir los enfoques que le tenemos que dar a mejorar el laboratorio, y desicimos catalogarlo en cuatro areas, primero tendriamos un desarrollo de bibliotecas de los libros, luego de bibliotecas de instrumentos, trabajando con los sintes pedales, y guitarras, en tercer lugar tendriamos la biblioteca de herramientas, como cautin, y por ultimo 
 
-Nota: Reunión de pares junto a mi compañera bernardita-jesus
+retorica, 
 
 ## Electronica
 
@@ -15,6 +15,8 @@ Clasificación
 Docs
 
 ## Biblioteca libros 
+
+libros en general y libro de musica?
 
 Sistemas de préstamos mediante a QR
  
