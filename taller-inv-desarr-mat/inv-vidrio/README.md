@@ -35,3 +35,61 @@ en mi opnion creo que estaria interezante mandar a cortar por ejemplo un cuadrad
 esa mescla de un proseso de fabricacion digital, atraves del corte y el molde tambien el digital pero como el material es tan fluido, lo hace versatil, tien e una caracteristica de aleatoridad que lo hace un material rico, por esto y considerenado que nungun proceso de fabricacion es perfecto, estaria ineteresante ir testeando un pco los limites y lo que podemos controlar.
 
 por otro lado tambien estan las formas de vidrio soplado que suelen ser las delicadas ya que son bastante delgadas las paredes
+
+## testeos y iteraciones
+
+#### VF.20
+
+Fusión entre vidrios de distinta composición y color (vidrio laminado y vidrio de botella) en hrono a 800 °C
+Observación: evaluar si ambos materiales se fusionan pese a sus diferencias compositivas y cómo se comporta la integración entre colores verde y café.
+
+#### VF.21
+
+Prueba de adherencia entre vidrios de distinta composición y color (vidrio laminado y botella) en sucesión de piezas en hrono a 800 °C
+Observación: analizar la capacidad de unión o “soldadura” entre materiales distintos al integrarse en una secuencia de vidrios.
+
+#### VF.22
+
+Ensayo tipo sándwich entre vidrios de distinta composición y color (vidrio laminado y vidrio de botella) en horno a 800 °C
+Observación: observar el comportamiento en la interfaz entre materiales y evaluar la formación de burbujas internas.
+
+#### VF.23
+
+Fusión en molde trapezoidal (vidrio laminado) en horno a 800 °C
+Observación: analizar cómo el material se derrite, se acumula y fluye por gravedad hacia un contenedor.
+
+#### VF.24
+
+Fusión en sucesión de capas en molde trapezoidal (vidrio lamiando) en horno a 800 °C
+Observación: evaluar cómo la acumulación por capas afecta el derretimiento y la adhericion, el flujo y la caída del material.
+
+#### VF.25
+
+Moldeo de vidrio en geometría curva en horno ( vidrio laminado) a 800 °C
+Observación: identificar puntos de tensión y zonas de fragilidad en el material al adoptar una forma curva.
+
+#### VF.26
+
+Fusión por sucesión de capas (vidrio lainado) en horno a 800 °C
+Observación: determinar cuántas capas logran adherirse, cuánto desciende el material y cómo la cantidad de capas influye en la deformación.
+
+#### VF.27
+
+Caída de capas en molde curvo (vidrio laminado) en horno a 800 °C
+Observación: evaluar la adherencia entre capas y la resistencia del material durante el proceso de deformación por gravedad.
+
+#### VF.28
+
+Fusión de vidrio de distinta composición y color (vidrio de botella verde y café) en horno a 800 °C
+Observación: analizar la unión entre fragmentos del mismo color y entre colores distintos bajo una temperatura regulada.
+
+#### Vf.29 
+
+fundicion de vidrio de distinta composicion y color, para ver integración (vidrio de botella transparente, vidrio de vaso celeste y de botella verde) en horno de microfucion a 1000 °C
+observacion: probar la capacidad de fundicion y inestabilidade de una mescla de tres vidrios, en el orden , transpatente, celeste y verde y buscar generar fractura en el material
+
+#### VF. 30
+
+fundicion de vidrio de distinta composicion y color para buscar fractura visble (vidrio de botella transparente y de botella verde) en horno de microfucion a 1000 °C
+observacion: probar la capacidad de fundicion y inestabilidade de una mescla de dos vidrios y buscar generar fractura visible en el material
+
