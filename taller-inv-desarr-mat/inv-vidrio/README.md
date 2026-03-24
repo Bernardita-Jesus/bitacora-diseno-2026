@@ -40,12 +40,12 @@ por otro lado tambien estan las formas de vidrio soplado que suelen ser las deli
 
 #### VF.20
 
-Fusión entre vidrios de distinta composición y color (vidrio laminado y vidrio de botella) en hrono a 800 °C
+Fusión entre vidrios de distinta composición y color (vidrio laminado y vidrio de botella) en horno a 800 °C
 Observación: evaluar si ambos materiales se fusionan pese a sus diferencias compositivas y cómo se comporta la integración entre colores verde y café.
 
 #### VF.21
 
-Prueba de adherencia entre vidrios de distinta composición y color (vidrio laminado y botella) en sucesión de piezas en hrono a 800 °C
+Prueba de adherencia entre vidrios de distinta composición y color (vidrio laminado y botella) en sucesión de piezas en horno a 800 °C
 Observación: analizar la capacidad de unión o “soldadura” entre materiales distintos al integrarse en una secuencia de vidrios.
 
 #### VF.22
@@ -60,17 +60,17 @@ Observación: analizar cómo el material se derrite, se acumula y fluye por grav
 
 #### VF.24
 
-Fusión en sucesión de capas en molde trapezoidal (vidrio lamiando) en horno a 800 °C
-Observación: evaluar cómo la acumulación por capas afecta el derretimiento y la adhericion, el flujo y la caída del material.
+Fusión en sucesión de capas en molde trapezoidal (vidrio laminado) en horno a 800 °C
+Observación: evaluar cómo la acumulación por capas afecta el derretimiento y la adherición, el flujo y la caída del material.
 
 #### VF.25
 
-Moldeo de vidrio en geometría curva en horno ( vidrio laminado) a 800 °C
+Moldeo de vidrio en geometría curva en horno (vidrio laminado) a 800 °C
 Observación: identificar puntos de tensión y zonas de fragilidad en el material al adoptar una forma curva.
 
 #### VF.26
 
-Fusión por sucesión de capas (vidrio lainado) en horno a 800 °C
+Fusión por sucesión de capas (vidrio laminado) en horno a 800 °C
 Observación: determinar cuántas capas logran adherirse, cuánto desciende el material y cómo la cantidad de capas influye en la deformación.
 
 #### VF.27
@@ -83,13 +83,13 @@ Observación: evaluar la adherencia entre capas y la resistencia del material du
 Fusión de vidrio de distinta composición y color (vidrio de botella verde y café) en horno a 800 °C
 Observación: analizar la unión entre fragmentos del mismo color y entre colores distintos bajo una temperatura regulada.
 
-#### Vf.29 
+#### VF.29
 
-fundicion de vidrio de distinta composicion y color, para ver integración (vidrio de botella transparente, vidrio de vaso celeste y de botella verde) en horno de microfucion a 1000 °C
-observacion: probar la capacidad de fundicion y inestabilidade de una mescla de tres vidrios, en el orden , transpatente, celeste y verde y buscar generar fractura en el material
+Fundición de vidrio de distinta composición y color, para ver integración (vidrio de botella transparente, vidrio de vaso celeste y de botella verde) en horno de microfusión a 1000 °C
+Observación: probar la capacidad de fundición e inestabilidad de una mezcla de tres vidrios, en el orden, transparente, celeste y verde, y buscar generar fractura en el material.
 
-#### VF. 30
+#### VF.30
 
-fundicion de vidrio de distinta composicion y color para buscar fractura visble (vidrio de botella transparente y de botella verde) en horno de microfucion a 1000 °C
-observacion: probar la capacidad de fundicion y inestabilidade de una mescla de dos vidrios y buscar generar fractura visible en el material
+Fundición de vidrio de distinta composición y color para buscar fractura visible (vidrio de botella transparente y de botella verde) en horno de microfusión a 1000 °C
+Observación: probar la capacidad de fundición e inestabilidad de una mezcla de dos vidrios y buscar generar fractura visible en el material.
 
