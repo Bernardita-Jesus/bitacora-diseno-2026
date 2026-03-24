@@ -8,17 +8,21 @@ Para estos procesos, al igual que la cerámica, el vidrio puede trabajarse en ho
 
 ## Moldes
 
-respecto a los moldes que se pueden utiizar en el horno, siempre aplicando cilice, espolvoreando en el molde para que no se pegue y tomando las precausiones para el mismo horno poniendo una placa refractaria para que no se derrita y dañe el horno.
+Respecto a los moldes que se pueden utilizar en el horno, siempre aplicando caolín como agente separador, espolvoreando en el molde con un tamizador para que no se pegue y tomando las precauciones para el mismo horno, poniendo una placa refractaria para que no se derrita y dañe el horno.
 
-pueden ser de yeso o cerso ceramico, espolvoreando cilicepero la pieza de yeso se tiene que haber secado, metido al horno antes para que no quede humedad y afecte al vidrio o lo opaque
+Pueden ser de yeso o yeso refractario, espolvoreando caolín, pero la pieza de yeso se tiene que haber secado, metido al horno antes para que quede completamente deshidratado y no quede humedad y afecte al vidrio con burbujas, fisuras o lo opaque.
 
-tambien se pueden utilizar moldes de acero, espolvoreando cilice, recomendablemente acero inoxidale para que dure mas, podria utilizar aceero plegado
+También se pueden utilizar moldes de acero, espolvoreando caolín. Se recomienda el uso de acero inoxidable AISI 304 o 316, y en condiciones de mayor temperatura, AISI 310, debido a su mejor resistencia térmica.
 
 ## Vitrofusión
 
 respecto a la vtrofusion, hy tres tipos de vidrio y no todos se pueden combinnar, osea si se puede, pero se fracmentarian ya que tiene tiempos de fundicion diferentes por los procesos y las temperatruas a las que estan hechos, esta el vidrio flotado, el bulsai dilcoldroico, expdectrum
 
 para ver si son compatibles se hace una prueba de fractura, en donde se puede ver una pequeña aureola al rededor de la fusion lo que quiere decir que esta fracturado y en un futuro se puede romper o trizar
+
+### Horno iglu de vitrofusion
+
+el horno iglu es un horno de yeso ceramico... cuarzo y dentor pintado por... me gustaria explorar con estos hornos, he incluso hacer uno mas optimizado con forma de cupula o algo asi.
 
 ## Formas y inestabilidad
 
