@@ -12,7 +12,7 @@ El principal enfoque es ayudar a que el LID crezca, a que se haga ver, esto por 
 
 ### Espacio LID
 
-Ayudar al LID a que crezca y se aproveche para la nueva mención. Podemos conversar y proponer. Hay que mantener el espacio y el LID como oficina que desarrolla proyectos. Crear bibliotecas y estandarizar los instrumentos, con criterios y sistemas para tener mayor control, mediante manuales e inducciones.
+Ayudar al LID a que crezca y se aproveche para la nueva mención. Podemos conversar y proponer. Hay que mantener el [espacio LID](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/practica-electiva-LID/espacio-LID) como oficina que desarrolla proyectos. Crear bibliotecas y estandarizar los instrumentos, con criterios y sistemas para tener mayor control, mediante manuales e inducciones.
 
 ### Página web
 
