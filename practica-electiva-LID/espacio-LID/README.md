@@ -52,3 +52,7 @@ La bambú Lab: será utilizada para proyectos más específicos y se requiere ex
 
 Clasificación 
 Herramientas como cautín, medidores de voltaje, etiquetadora, secadora de filamento, visor 3d, pantallas, cargadores de pilas,  etc
+
+## sistema de prestamos
+
+para esta seccion incluir informacion recopilada
