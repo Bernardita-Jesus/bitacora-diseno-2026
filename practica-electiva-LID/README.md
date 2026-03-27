@@ -40,7 +40,7 @@ Registro y documentación de los prototipos desarrollados.
 
 - Primera reunión, jueves 19 de marzo de 2026
 
-En esta reunión, en conjunto con Yamna, definimos cómo podíamos dividir los enfoques para mejorar el laboratorio y decidimos catalogarlo en cuatro áreas. Primero, desarrollo de bibliotecas de libros. Luego, bibliotecas de instrumentos, trabajando con sintetizadores, pedales y guitarras. En tercer lugar, la biblioteca de herramientas, como cautín. Y, por último, una cuarta área por definir.
+En esta reunión, en conjunto con Yamna, definimos cómo podíamos dividir los enfoques para mejorar el laboratorio y decidimos catalogarlo en cuatro áreas. Primero, desarrollo de bibliotecas de libros. Luego, bibliotecas de instrumentos, trabajando con sintetizadores, pedales y guitarras. En tercer lugar, la biblioteca de herramientas como el cautín. Y por último, una cuarta área por definir.
 
 - Segunda reunión, jueves 26 de marzo, 2026
 
