@@ -16,9 +16,11 @@ También se pueden utilizar moldes de acero, espolvoreando caolín. Se recomiend
 
 ## Vitrofusión
 
-respecto a la vtrofusion, hy tres tipos de vidrio y no todos se pueden combinnar, osea si se puede, pero se fracmentarian ya que tiene tiempos de fundicion diferentes por los procesos y las temperatruas a las que estan hechos, esta el vidrio flotado, el bulsai dilcoldroico, expdectrum
+Respecto a la vitrofusión, hay tres tipos de vidrio y no todos se pueden combinar. O sea, sí se puede, pero se fragmentarían, ya que tienen tiempos de fundición diferentes por los procesos y las temperaturas a las que están hechos. Está el vidrio flotado, el Bullseye, el dicroico y Spectrum.
 
-para ver si son compatibles se hace una prueba de fractura, en donde se puede ver una pequeña aureola al rededor de la fusion lo que quiere decir que esta fracturado y en un futuro se puede romper o trizar
+Para ver si son compatibles, se hace una prueba de fractura, en donde se puede ver una pequeña aureola alrededor de la fusión, lo que quiere decir que está fracturado y que en un futuro se puede romper o trizar.
+
+Habría que reconsiderar si, para esta pieza específica de diseño de autor, es realmente un impedimento esto de la fractura, ya que no necesariamente tensionaríamos la pieza.
 
 ### Horno iglu de vitrofusion
 
@@ -26,15 +28,15 @@ el horno iglu es un horno de yeso ceramico... cuarzo y dentor pintado por... me 
 
 ## Formas y inestabilidad
 
-¿que hace que una pieza de vidrio se vuelva inestable?
+¿Qué hace que una pieza de vidrio se vuelva inestable?
 
-respecto a las formas es seguro que tanto por el material mismo por como es su composicion hace que tenga puntos mas inestables como las puntas, que son los puntos de tension del materia, que al momentos de reproducir una piesa utilitaria hay que tomar en cuenta
+Respecto a las formas, es seguro que tanto por el material mismo como por su composición, existen puntos más inestables, como las puntas, que son puntos de tensión del material. Al momento de reproducir una pieza utilitaria, hay que tomar esto en cuenta.
 
-en mi opnion creo que estaria interezante mandar a cortar por ejemplo un cuadrado con fillet en las puntas y luego dejarlo moldearse en un horno, para conseguir menos inestabilidad en las puntas
+En mi opinión, creo que sería interesante mandar a cortar, por ejemplo, un cuadrado con fillet en las puntas y luego dejarlo moldearse en un horno, para conseguir menos inestabilidad en esas zonas.
 
-esa mescla de un proseso de fabricacion digital, atraves del corte y el molde tambien el digital pero como el material es tan fluido, lo hace versatil, tien e una caracteristica de aleatoridad que lo hace un material rico, por esto y considerenado que nungun proceso de fabricacion es perfecto, estaria ineteresante ir testeando un pco los limites y lo que podemos controlar.
+Esa mezcla de un proceso de fabricación digital, a través del corte, y el molde también digital, pero considerando que el material es tan fluido, lo hace versátil. Tiene una característica de aleatoriedad que lo vuelve un material rico. Por esto, y considerando que ningún proceso de fabricación es perfecto, sería interesante ir testeando un poco los límites y lo que podemos controlar.
 
-por otro lado tambien estan las formas de vidrio soplado que suelen ser las delicadas ya que son bastante delgadas las paredes
+Por otro lado, también están las formas de vidrio soplado, que suelen ser más delicadas, ya que tienen paredes bastante delgadas.
 
 ## testeos y iteraciones
 
