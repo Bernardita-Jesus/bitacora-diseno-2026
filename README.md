@@ -16,4 +16,6 @@ Al igual que el año pasado, voy a tomar apuntes de mis ramos en mi séptimo y o
 
 ### Ramos de profundización
 
-[]()
+[Cerámica experimental](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/ceramica-experimental)
+
+[Práctica electiva Laboratorio de Interacción](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/practica-electiva-LID)
