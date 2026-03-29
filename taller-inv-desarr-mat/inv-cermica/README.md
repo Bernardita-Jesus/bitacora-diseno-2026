@@ -1,34 +1,14 @@
 # Investicación en Cerámica
 
-### datos 
-
-- Historias del material
-
-- Composicion
-
-- Fabricacion: Maneras en la que se fabrica, Maquinas
-
-- fabricas 
-
-- Formato
-
-- En que se utiliza
-
-- Limitaciones
-
-ceramica
-
-La cerámica es el arte y técnica de crear objetos mediante la cocción de materiales inorgánicos, generalmente arcilla, a altas temperaturas. Este proceso transforma la arcilla en piezas duraderas y versátiles, como vajillas, azulejos y esculturas.
-
-tornetas, planas de madera
-
-## material y adquisiscion
-
 la ceramica es un material de alta dureza, tiene resistencia termica, poca resistencia al impacto, que se obtiene de la coccion de la arcilla con otros minerrales que van variando como cuarzo o calcita, principalmente de piedras, oxido de hierroillitia, caolinitaque es un silicato de aluminio.
 
 hay hartos colores y depende de los minerales por ejemplo la roja tiene oxido de hierro
 
-Nicaragua, [documental las formas del barro | documetal completo](https://youtu.be/9ASyLJUi5B4?si=L-xQRqdtUEzP1oJn)
+### formas y tecnicas
+
+1 bloque de pasta plastica o polvo granulado, se hecha agua para modelar con molde o inyeccion
+
+la ceramica no puede quedar con particulas de oxigeno en su interior ya que este puede explotar en el horno, por tanto las formas y tecnicas siguen esa funcion, como la tecnica de lulo, moldeo con tecnica de ahuecado, moldes siempre solo se quedn en las paredes y se deja una salida para el aire
 
 ## reutilizacion y composiscion
 
@@ -39,8 +19,6 @@ ya que minerales como la caolinita que quimicamente pierden oxigeno e hidrogen e
 los que hacian en el taller era romper las piesas, pulverizarlas y incorporar ese material a la ceramica, como mencione cuando una piesa tiene diferentes humedades es posible que se agriete o incluso explote, inestigar ue hace que la ceramica explote y ddetalles del horno, pero cuando tiene una composiscion con diferentes propiedades puede salir mal la piesa, no vidrificarse bien y agrietarse
 
 otra tecnica que vi en el documental de ceramica tradicional en nicarahua, es que ttoman el barro que no tiene loas caracteristicas y las pulverisan, y de eso sale un polvo fino que almacenan y una tierra maspiedrosa, luego toman esta tierra pororosa y le van incorporando polvo con el que vulvrn a hacer ceramica, lo tamisan y van retirando lo que no logra ser colado o tamisado y eso si queda como un desperdicio, las particulas gruesas.
-
-
 
 #### crudo 
 
@@ -62,12 +40,6 @@ otra tecnica que vi en el documental de ceramica tradicional en nicarahua, es qu
 - vitrificacion de 900-1200
 
 diferencia arcilla y ceramica
-
-### formas y tecnicas
-
-1 bloque de pasta plastica o polvo granulado, se hecha agua para modelar con molde o inyeccion
-
-la ceramica no puede quedar con particulas de oxigeno en su interior ya que este puede explotar en el horno, por tanto las formas y tecnicas siguen esa funcion, como la tecnica de lulo, moldeo con tecnica de ahuecado, moldes siempre solo se quedn en las paredes y se deja una salida para el aire
 
 ## orden presentacion
 
@@ -162,3 +134,23 @@ ceramica por extruccion de polimero
 La arcilla cruda puede reciclarse fácilmente: el material sobrante o remanente se puede rehidratar y volver a amasar para reutilizarlo.
 
 Sin embargo, una vez cocida, la cerámica ya no puede volver a ser arcilla, por lo que solo puede reutilizarse triturada como chamota o agregado cerámico.
+
+### datos 
+
+- Historias del material
+
+- Composicion
+
+- Fabricacion: Maneras en la que se fabrica, Maquinas
+
+- fabricas 
+
+- Formato
+
+- En que se utiliza
+
+- Limitaciones
+
+## Bibliografia y referencias
+
+- Nicaragua, [documental las formas del barro | documetal completo](https://youtu.be/9ASyLJUi5B4?si=L-xQRqdtUEzP1oJn)
