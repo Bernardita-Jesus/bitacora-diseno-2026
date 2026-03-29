@@ -1,10 +1,12 @@
 # Bitácora en la Escuela de Diseño 2026
 
-Comencé a tomar apuntes en GitHub en tercer año, durante mi quinto semestre de Diseño con mención en Industrial, después de aprender a utilizar la plataforma en el Taller de Máquinas Electrónicas. Desde entonces, he continuado con este ejercicio como una forma de dejar registro de mis ramos y de las inquietudes que han surgido a lo largo del proceso.
+#### Esta bitácora está en constante cambio, ya que tomo apuntes y luego los voy mejorando y editando. Por favor comprender si se ven incompletos!
+
+Al igual que el año pasado, voy a tomar apuntes de mis ramos en mi séptimo y octavo semestre de diseño con mención en industrial, como ejercicio para dejar registro y que sea una oportunidad de investigación para quien lo necesite.
 
 ---
 
-![foto](collage.jpeg)
+![foto](.jpeg)
 
 ## Índice
 
