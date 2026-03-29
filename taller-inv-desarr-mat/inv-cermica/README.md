@@ -1,3 +1,4 @@
+# Investicación en Cerámica
 
 ### datos 
 
@@ -6,8 +7,6 @@
 - Composicion
 
 - Fabricacion: Maneras en la que se fabrica, Maquinas
-
--   
 
 - fabricas 
 
