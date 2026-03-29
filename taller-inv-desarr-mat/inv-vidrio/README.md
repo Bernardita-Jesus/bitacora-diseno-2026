@@ -1,4 +1,4 @@
-# Investigación Vidrio
+# Investigación en Vidrio
 
 El vidrio presenta diversas técnicas y maneras de trabajarlo, pero, en términos generales, es un material que requiere ser calentado para poder deformarse, es decir, debe trabajarse a altas temperaturas.
 
