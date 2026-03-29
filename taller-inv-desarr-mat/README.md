@@ -1,6 +1,6 @@
 # Taller de investigación y desarrollo material
 
-Este es un taller vertical impartido por Vicente Stephens, Margarita Taleb como profesora adjunta y ..., en el semestre vamos a investigar y desarrollar testeos de materiales, conocer sus limitaciones y características propias del material y cómo podemos sacarle provecho. Buscando alguna técnica específica con este material para generar un objeto de diseño de autor, o sea que no tiene que estar pensado para venderlo de manera sistematizada ni utilizar procesos de producción industriales.
+Este es un taller vertical impartido por Vicente Stephens, Margarita Talep como profesora adjunta y Juan Manuel Irie, en el semestre vamos a investigar y desarrollar testeos de materiales, conocer sus limitaciones y características propias del material y cómo podemos sacarle provecho. Buscando alguna técnica específica con este material para generar un objeto de diseño de autor, o sea que no tiene que estar pensado para venderlo de manera sistematizada ni utilizar procesos de producción industriales.
 
 ## Tres materialidades
 
