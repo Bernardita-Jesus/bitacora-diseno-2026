@@ -10,7 +10,9 @@ Bueno, esta práctica electiva es una investigación en pregrado. Ya existen otr
 
 El principal enfoque es ayudar a que el LID crezca, a que se haga ver, esto por medio de tres tareas, un desarrollo del espacio del LID, acompañada de una página web y por último, un cierre de semestre con la gestión del evento del Processing Community Day.
 
-### [Espacio LID](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/practica-electiva-LID/espacio-LID)
+### Espacio LID
+
+[Link espacio LID](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/practica-electiva-LID/espacio-LID)
 
 Ayudar al LID a que crezca y se aproveche para la nueva mención. Podemos conversar y proponer. Hay que mantener el espacio LID como oficina que desarrolla proyectos. Crear bibliotecas y estandarizar los instrumentos, con criterios y sistemas para tener mayor control, mediante manuales e inducciones.
 
