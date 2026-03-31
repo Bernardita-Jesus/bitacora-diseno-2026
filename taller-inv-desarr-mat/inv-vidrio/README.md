@@ -44,19 +44,20 @@ Por otro lado, también están las formas de vidrio soplado, que suelen ser más
 
 ### Pruebas Semana 02
 
-#### VF.20
+#### VF.20 Fusión entre vidrios de distinta composición y color
 
-Fusión entre vidrios de distinta composición y color (vidrio laminado y vidrio de botella) en horno a 800 °C
+(vidrio laminado y vidrio de botella) en horno a 800 °C
 Observación: evaluar si ambos materiales se fusionan pese a sus diferencias compositivas y cómo se comporta la integración entre colores verde y café.
 
-#### VF.21
+#### VF.21: Prueba de adherencia entre vidrios de distinta composición y color
 
-Prueba de adherencia entre vidrios de distinta composición y color (vidrio laminado y botella) en sucesión de piezas en horno a 800 °C
+(vidrio laminado y botella) en sucesión de piezas en horno a 800 °C
+
 Observación: analizar la capacidad de unión o “soldadura” entre materiales distintos al integrarse en una secuencia de vidrios.
 
-#### VF.22
+#### VF.22 Ensayo tipo sándwich entre vidrios de distinta composición y color 
 
-Ensayo tipo sándwich entre vidrios de distinta composición y color (vidrio laminado y vidrio de botella) en horno a 800 °C
+vidrio laminado y vidrio de botella en horno de ceramica a 800 °C
 Observación: observar el comportamiento en la interfaz entre materiales y evaluar la formación de burbujas internas.
 
 #### VF.23
