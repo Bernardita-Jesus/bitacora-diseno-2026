@@ -111,51 +111,75 @@ Después, la idea es hacer moldes de yeso para obtener piezas de vidrio en forma
 
 Finalmente, queremos soldar estas piezas curvas usando otro vidrio, para ver qué tan resistente queda el conjunto y probar esta técnica como sistema de unión.
 
-#### VF.3.0
+#### VS 3.00
+
+Prueba de fusión por soldadura de piezas con soplete a 800 °C
+
+descripcion de dispocicion del material: prueba de vidrio con el soplete para ver vidrio, fusión entre dos vidrios iguales y un vidrio diferentes
+
+Proposito: Lograr una unión mediante calor focalizado con soplete de vidrios de diferentes propiedades y testear la resistencia de la fusión en el material.
+
+No funciono se rompió después de fusionarlos como un sándwich
+
+#### VF.3.01
 
 Prueba de fusión por soldadura de vidrio superpuesto, en horno de microfusión a 1000 °C
 
-Dos vidrios transparentes levemente separados, unidos por un vidrio café superpuesto. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
+descripcion de dispocicion del material: Dos vidrios transparentes levemente separados, unidos por un vidrio café superpuesto. 
 
-Observación: el material logró fusionarse, aunque presenta una interfase visible por incompatibilidad térmica.
+Proposito: Lograr una unión mediante vitrofusión de diferentes propiedades y testear la resistencia de la fusión en el material.
 
 Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
 
-#### VF.3.1
+Observación: el material logró fusionarse, aunque presenta una interfase visible por incompatibilidad térmica.
 
-Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
-
-Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio café entremedio que los une. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
-
-Tiempo: 6 min y 20 min de espera afuera.
-
-Observación: luego de sacarlo enseguida del microondas, el material sonó bastante, como si se estuviera fragmentando internamente, pero no se perciben fracturas visibles.
-
-#### VF.3.2
+#### VF.3.02
 
 Prueba de fusión por soldadura de vidrio superpuesto, en horno de microfusión a 1000 °C
 
-Dos vidrios transparentes levemente separados, unidos por un vidrio verde superpuesto. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
+Descripcion de dispocicion del material: Dos vidrios transparentes levemente separados, unidos por un vidrio verde superpuesto. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
+
+Proposito: Lograr una unión mediante vitrofusión de diferentes propiedades y testear la resistencia de la fusión en el material.
 
 Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
 
 Observación: luego de el tiempo establecido lo expuse al agua y se fracturo visiblemente.
 
-#### VF.3.4
+#### VF.3.03
+
+Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
+
+Descripcion de dispocicion del material: Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio café entremedio que los une. 
+
+Proposito: Lograr una unión mediante vitrofusión de diferentes propiedades en disposición de contacto lateral, y testear la resistencia de la fusión en el material.
+
+Tiempo: 6 min y 20 min de espera afuera.
+
+Observación: luego de sacarlo enseguida del microondas, el material sonó bastante, como si se estuviera fragmentando internamente, pero no se perciben fracturas visibles.
+
+#### VF.3.04
 
 Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
 
 Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio verde entremedio que los une. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
 
+Proposito: lograr una unión mediante vitrofusión de diferentes propiedades en disposición de contacto lateral, y testear la resistencia de la fusión en el material.
+
 Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
 
-Observación: 
+Observación: No se lograron fusionar bien las piezas, por lo que hay que volver a realizar la experimentación.
 
-#### Sp 3.0 
+#### VF.3.05
 
-prueba de vidrio con el soplete para ver vidrio, fusión entre dos vidrios iguales y un vidrio diferentes
+Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
 
-No funciono se rompió después de fusionarlos como un sándwich
+Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio verde entremedio que los une. Se busca replicar con los mismos parametros el testeo de una unión mediante vitrofusión.
+
+Proposito: Se busca repetir la iteración para comprender los resultados de la falta de fusión en el material, mediante una unión por vitrofusión de vidrios de diferentes propiedades en disposición de contacto lateral.
+
+Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
+
+Observación: Se logró fusionar de igual forma que en la prueba con vidrio café; probablemente el resultado anterior se debió a un error de tiempo en el testeo (error humano).
 
 
 
