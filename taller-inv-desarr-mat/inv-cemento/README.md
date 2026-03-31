@@ -134,6 +134,12 @@ Tiempo:
 
 Observación:
 
+### Conducencias iteracion
+
+v4 
+
+la idea  es con esto es conseguir una forma mas organica,  nos gusta le textura
+
 
 
 
