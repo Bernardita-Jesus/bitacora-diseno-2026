@@ -42,6 +42,8 @@ Por otro lado, también están las formas de vidrio soplado, que suelen ser más
 
 ## Testeos e Iteraciones
 
+### Pruebas Semana 02
+
 #### VF.20
 
 Fusión entre vidrios de distinta composición y color (vidrio laminado y vidrio de botella) en horno a 800 °C
@@ -99,7 +101,9 @@ Observación: probar la capacidad de fundición e inestabilidad de una mezcla de
 
 ---
 
-### Congruencia de vidrio en sistema de unión VF.21
+### Pruebas Semana 03
+
+#### Conducencias de vidrio en sistema de unión VF.21
 
 La idea es generar una soldadura entre vidrios de distinta composición, usando un tercer vidrio como material de unión.
 
@@ -111,9 +115,9 @@ Después, la idea es hacer moldes de yeso para obtener piezas de vidrio en forma
 
 Finalmente, queremos soldar estas piezas curvas usando otro vidrio, para ver qué tan resistente queda el conjunto y probar esta técnica como sistema de unión.
 
-#### VS 3.00
+#### VS 3.00: Fusión por soldadura de piezas
 
-Prueba de fusión por soldadura de piezas con soplete a 800 °C
+Con soplete a 800 °C
 
 descripcion de dispocicion del material: prueba de vidrio con el soplete para ver vidrio, fusión entre dos vidrios iguales y un vidrio diferentes
 
@@ -121,9 +125,9 @@ Proposito: Lograr una unión mediante calor focalizado con soplete de vidrios de
 
 No funciono se rompió después de fusionarlos como un sándwich
 
-#### VF.3.01
+#### VF.3.01: Fusión por soldadura de vidrio superpuesto
 
-Prueba de fusión por soldadura de vidrio superpuesto, en horno de microfusión a 1000 °C
+En horno de microfusión a 1000 °C
 
 descripcion de dispocicion del material: Dos vidrios transparentes levemente separados, unidos por un vidrio café superpuesto. 
 
@@ -133,9 +137,9 @@ Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
 
 Observación: el material logró fusionarse, aunque presenta una interfase visible por incompatibilidad térmica.
 
-#### VF.3.02
+#### VF.3.02: Fusión por soldadura de vidrio superpuesto
 
-Prueba de fusión por soldadura de vidrio superpuesto, en horno de microfusión a 1000 °C
+En horno de microfusión a 1000 °C
 
 Descripcion de dispocicion del material: Dos vidrios transparentes levemente separados, unidos por un vidrio verde superpuesto. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
 
@@ -145,9 +149,9 @@ Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
 
 Observación: luego de el tiempo establecido lo expuse al agua y se fracturo visiblemente.
 
-#### VF.3.03
+#### VF.3.03: Fusión por soldadura de vidrio en contacto lateral
 
-Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
+En horno de microfusión a 1000 °C
 
 Descripcion de dispocicion del material: Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio café entremedio que los une. 
 
@@ -157,9 +161,9 @@ Tiempo: 6 min y 20 min de espera afuera.
 
 Observación: luego de sacarlo enseguida del microondas, el material sonó bastante, como si se estuviera fragmentando internamente, pero no se perciben fracturas visibles.
 
-#### VF.3.04
+#### VF.3.04: Fusión por soldadura de vidrio en contacto lateral
 
-Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
+En horno de microfusión a 1000 °C
 
 Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio verde entremedio que los une. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
 
@@ -169,9 +173,9 @@ Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
 
 Observación: No se lograron fusionar bien las piezas, por lo que hay que volver a realizar la experimentación.
 
-#### VF.3.05
+#### VF.3.05: Fusión por soldadura de vidrio en contacto lateral
 
-Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
+En horno de microfusión a 1000 °C
 
 Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio verde entremedio que los une. Se busca replicar con los mismos parametros el testeo de una unión mediante vitrofusión.
 
