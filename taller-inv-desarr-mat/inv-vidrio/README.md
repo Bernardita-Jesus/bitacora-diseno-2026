@@ -18,7 +18,7 @@ También se pueden utilizar moldes de acero, espolvoreando caolín. Se recomiend
 
 Respecto a la vitrofusión, hay tres tipos de vidrio y no todos se pueden combinar. O sea, sí se puede, pero se fragmentarían, ya que tienen tiempos de fundición diferentes por los procesos y las temperaturas a las que están hechos. Está el vidrio flotado, el Bullseye, el dicroico y Spectrum.
 
-Para ver si son compatibles, se hace una prueba de fractura, en donde se puede ver una pequeña aureola alrededor de la fusión, lo que quiere decir que está fracturado y que en un futuro se puede romper o trizar.
+Para ver si son compatibles, se hace una prueba de fractura, en donde se puede ver una pequeña aureola alrededor de la fusión, una interfase visible por incompatibilidad térmica, o tensiones internas. lo que quiere decir que está fracturado y que en un futuro se puede romper o trizar.
 
 Habría que reconsiderar si, para esta pieza específica de diseño de autor, es realmente un impedimento esto de la fractura, ya que no necesariamente tensionaríamos la pieza.
 
@@ -94,4 +94,36 @@ Observación: probar la capacidad de fundición e inestabilidad de una mezcla de
 
 Fundición de vidrio de distinta composición y color para buscar fractura visible (vidrio de botella transparente y de botella verde) en horno de microfusión a 1000 °C
 Observación: probar la capacidad de fundición e inestabilidad de una mezcla de dos vidrios y buscar generar fractura visible en el material.
+
+### congruencia vidrio vf.21 
+
+La idea es generar una soldadura entre vidrios de distinta composición, usando un tercer vidrio como material de unión.
+
+Sabemos que el vidrio se comporta distinto según su color, por tanto composición, sobre todo en cómo y cuándo se derrite. Por eso, nos conviene usar un vidrio que funda antes, para que funcione como “soldadura” entre las piezas.
+
+Primero queremos probar qué tan bien este vidrio más fluido logra unir dos vidrios base, viendo si realmente se adhieren, si queda continuo o si se generan fracturas.
+
+Después, la idea es hacer moldes de yeso para obtener piezas de vidrio en formas curvas. Estas piezas luego se pondrían en algún tipo de soporte o molde que mantenga la forma curva.
+
+Finalmente, queremos soldar estas piezas curvas usando otro vidrio, para ver qué tan resistente queda el conjunto y probar esta técnica como sistema de unión.
+
+#### Vf.3.0
+
+Prueba de fusion de dos fragmentos del mismo vidrios levemente separados unidos por un vidrio diferente, lograr una union mediante vittrofision y testear la fusion en el material, el material finalmente logro fusionarse bien aunque tiene una  que interfase visible por imcompatibilidad termica
+
+6 min y 10 min en el microondas, 10 min de espera afuera
+
+#### Vf.3.1
+
+Prueba de fusion de tres fracmentos, en el medio poniendo un vidrio de otro color, 
+
+6 min y 20 min de espera afuera
+
+#### Sp 3.0 
+
+prueba de vidrio con el soplete para ver vidrio, fusión entre dos vidrios iguales y un vidrio diferentes
+
+No funciono se rompió después de fusionarlos como un sándwich
+
+
 
