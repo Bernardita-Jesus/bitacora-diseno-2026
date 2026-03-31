@@ -40,7 +40,7 @@ Por otro lado, también están las formas de vidrio soplado, que suelen ser más
 
 ---
 
-## Testeos y Iteraciones
+## Testeos e Iteraciones
 
 #### VF.20
 
