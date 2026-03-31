@@ -1,6 +1,6 @@
 # Investigación en Cemento
 
-## Pruebas e iteraciones
+## Testeos e iteraciones
 
 Semana 03
 
