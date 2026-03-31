@@ -107,17 +107,45 @@ Después, la idea es hacer moldes de yeso para obtener piezas de vidrio en forma
 
 Finalmente, queremos soldar estas piezas curvas usando otro vidrio, para ver qué tan resistente queda el conjunto y probar esta técnica como sistema de unión.
 
-#### Vf.3.0
+#### VF.3.0
 
-Prueba de fusion de dos fragmentos del mismo vidrios levemente separados unidos por un vidrio diferente, lograr una union mediante vittrofision y testear la fusion en el material, el material finalmente logro fusionarse bien aunque tiene una  que interfase visible por imcompatibilidad termica
+Prueba de fusión por soldadura de vidrio superpuesto, en horno de microfusión a 1000 °C
 
-6 min y 10 min en el microondas, 10 min de espera afuera
+Dos vidrios transparentes levemente separados, unidos por un vidrio café superpuesto. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
 
-#### Vf.3.1
+Observación: el material logró fusionarse, aunque presenta una interfase visible por incompatibilidad térmica.
 
-Prueba de fusion de tres fracmentos, en el medio poniendo un vidrio de otro color, 
+Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
 
-6 min y 20 min de espera afuera
+#### VF.3.1
+
+Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
+
+Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio café entremedio que los une. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
+
+Tiempo: 6 min y 20 min de espera afuera.
+
+Observación: luego de sacarlo enseguida del microondas, el material sonó bastante, como si se estuviera fragmentando internamente, pero no se perciben fracturas visibles.
+
+#### VF.3.2
+
+Prueba de fusión por soldadura de vidrio superpuesto, en horno de microfusión a 1000 °C
+
+Dos vidrios transparentes levemente separados, unidos por un vidrio verde superpuesto. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
+
+Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
+
+Observación: luego de el tiempo establecido lo expuse al agua y se fracturo visiblemente.
+
+#### VF.3.4
+
+Prueba de fusión por soldadura de vidrio en contacto lateral, en horno de microfusión a 1000 °C
+
+Dos vidrios transparentes seguidos, uno al lado del otro, con un vidrio verde entremedio que los une. Se busca lograr una unión mediante vitrofusión y testear la fusión en el material.
+
+Tiempo: 6 min y 10 min en microondas, 10 min de espera afuera.
+
+Observación: 
 
 #### Sp 3.0 
 
