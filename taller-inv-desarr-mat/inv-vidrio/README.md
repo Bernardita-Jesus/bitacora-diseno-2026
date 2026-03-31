@@ -38,7 +38,9 @@ Esa mezcla de un proceso de fabricación digital, a través del corte, y el mold
 
 Por otro lado, también están las formas de vidrio soplado, que suelen ser más delicadas, ya que tienen paredes bastante delgadas.
 
-## testeos y iteraciones
+---
+
+## Testeos y Iteraciones
 
 #### VF.20
 
@@ -95,7 +97,9 @@ Observación: probar la capacidad de fundición e inestabilidad de una mezcla de
 Fundición de vidrio de distinta composición y color para buscar fractura visible (vidrio de botella transparente y de botella verde) en horno de microfusión a 1000 °C
 Observación: probar la capacidad de fundición e inestabilidad de una mezcla de dos vidrios y buscar generar fractura visible en el material.
 
-### congruencia vidrio vf.21 
+---
+
+### Congruencia de vidrio en sistema de unión VF.21
 
 La idea es generar una soldadura entre vidrios de distinta composición, usando un tercer vidrio como material de unión.
 
