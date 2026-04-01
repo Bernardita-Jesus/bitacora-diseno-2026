@@ -1,8 +1,8 @@
 # Ordenando la casa
 
-## avances por reuniones
+## Avances por reuniones
 
-## areas principales
+## Areas principales
 
 ### Electronica
 
@@ -14,7 +14,7 @@ Docs
 
 ### Biblioteca libros 
 
-#### imaginario y propuestas
+#### Imaginario y propuestas
 
 libros en general y libro de musica?
 
@@ -26,7 +26,7 @@ Alfabetización
 
 Pedir lo libros prestados de vuelta
 
-#### catalogo y registro
+#### Catalogo y registro
 
 yammna fotografio la mayoria de los libros y nos fumos dividiendo para subir sus datos como titulo, subtitulo, autor, editorial, año, y codigos de barras, respecto al codigo de barras aun no hemos registrado nada. eran aproximadamento 50 libros.
 
@@ -53,7 +53,7 @@ La bambú Lab: será utilizada para proyectos más específicos y se requiere ex
 Clasificación 
 Herramientas como cautín, medidores de voltaje, etiquetadora, secadora de filamento, visor 3d, pantallas, cargadores de pilas,  etc
 
-## sistema de prestamos
+## Sistema de prestamos
 
 Para comprender la comoplejidad y nuestros dilemas, queda en, quien puede o no puede utilizar cirtas cosas del laboratorio, como sus libros, o herramientas, pedales... etc, sin una intension de crear separaciones, sino para resguardad las mismas cosas del laboratorio y poder llevar una percepcion del movimiento de las cosas, por esto mismo creo que era necesario estudiar y comparar sistemas de prestamos dentro de las universidades, quiero poner en enfasis, que llevar un registro del movimiento de las herramientas del laboratorios, nos ayuda a valorizar el interes estudiantil y nos puede servir en un futuro como prueba de el crecimiento del laboratorio para postular a mas fondos y apoyo
 
