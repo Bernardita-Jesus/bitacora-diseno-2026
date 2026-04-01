@@ -1,10 +1,8 @@
 # Ordenando la casa
 
-## Avances por reuniones
+Areas principales
 
-## Areas principales
-
-### Electronica
+## Electronica
 
 Láminas identificadoras de componentes en el lid 
 
@@ -12,7 +10,7 @@ Clasificación
 
 Docs
 
-### Biblioteca libros 
+## Biblioteca libros 
 
 #### Imaginario y propuestas
 
@@ -26,17 +24,17 @@ Alfabetización
 
 Pedir lo libros prestados de vuelta
 
-#### Catalogo y registro
+### Catalogo y registro
 
 yammna fotografio la mayoria de los libros y nos fumos dividiendo para subir sus datos como titulo, subtitulo, autor, editorial, año, y codigos de barras, respecto al codigo de barras aun no hemos registrado nada. eran aproximadamento 50 libros.
 
-### Biblioteca Instrumentos 
+## Biblioteca Instrumentos 
 
 Sistemas de préstamos mediante a QR 
 
 Excel público autonomo 
 
-### Impresión 3D
+## Impresión 3D
 
 Catalogo de uso
 
@@ -48,10 +46,12 @@ Instalar NFC con links  de manuales
 
 La bambú Lab: será utilizada para proyectos más específicos y se requiere experiencia y tiene antigüedad en el lid (pensar cómo gestionar eso y sus criterios) 
 
-### Bibliotecas de Herramientas
+## Bibliotecas de Herramientas
 
 Clasificación 
 Herramientas como cautín, medidores de voltaje, etiquetadora, secadora de filamento, visor 3d, pantallas, cargadores de pilas,  etc
+
+---
 
 ## Sistema de prestamos
 
