@@ -54,6 +54,8 @@ Datos que me parecen relevantes de tener, primero el modelo, marca, voltaje, tal
 | Categoría | Modelo | Marca | Voltaje | Función | Recursos |
 |-----------|--------|-------|---------|---------|----------|
 
+Sintetizador analógico, Subharmonicon, Moog, 9V DC, Sintetizador semimodular analógico enfocado en secuenciación polirrítmica y generación de subarmónicos, [Recurso Subharmonicon](https://www-moogmusic-com.translate.goog/synthesizers/subharmonicon/)
+
 ---
 
 ## impresoras
