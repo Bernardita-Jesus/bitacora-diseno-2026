@@ -43,7 +43,8 @@ Para la biblioteca de instrumentos del LID, es necesario definir categorías e i
 - Sintetizadores
 - Pedales
 - Mixers
-- Sintetizadores analógicos y electrónicos
+- Sintetizadores analógicos
+- Sintetizadores digitales
 - Amplificadores
 - Guitarras acústicas
 - Guitarras eléctricas
