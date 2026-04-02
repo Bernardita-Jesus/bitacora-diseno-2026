@@ -1,36 +1,26 @@
 # Ordenando la casa
 
-Areas principales
+Las áreas principales en las que dividimos el LID son las bibliotecas de libros, bibliotecas de instrumentos, herramientas e impresoras.
 
----
+Antes, me gustaría definir que las cuatro áreas en las que vamos a trabajar con Yamna las vamos a ordenar, catalogar y estandarizar, pero son áreas con sus diferencias, así que cada una deberá tener su propio estudio y sistema, siempre buscando que todo finalmente funcione en la misma página web del LID.
 
-## Electronica
-
-Láminas identificadoras de componentes en el lid 
-
-Clasificación
-
-Docs
+De todas maneras, al final profundizo un poco más sobre los sistemas de préstamos, desde una perspectiva más de función y límites.
 
 ---
 
 ## Biblioteca libros 
 
-#### Imaginario y propuestas
+nos cuestionamos si debian ser todos los libros o solo los deisertas categorias como musica, instrumentos, artostas, electronica, programacion, etc, yo creo que finalmente deberiamos definir las categorias luego de hacer la bajada de lo que disponemos, como un ejercicio a la inversa
 
-libros en general y libro de musica?
-
-Sistemas de préstamos mediante a QR
+para los libros seria facil implementar un sistemas de QR para lospestamos, que se vincule con un excelen publico, 
  
-Excel público 
+Pedir lo libros prestados de vuelta en dando avisos en algun punto prestablesido de la investigacion para poder registrar por completo
 
-Alfabetización 
+### Catálogo y registro
 
-Pedir lo libros prestados de vuelta
+Yamna fotografió la mayoría de los libros y nos fuimos dividiendo para subir sus datos como título, subtítulo, autor, editorial, año y códigos de barras. Respecto al código de barras, aún no hemos registrado nada. Eran aproximadamente 50 libros.
 
-### Catalogo y registro
-
-yammna fotografio la mayoria de los libros y nos fumos dividiendo para subir sus datos como titulo, subtitulo, autor, editorial, año, y codigos de barras, respecto al codigo de barras aun no hemos registrado nada. eran aproximadamento 50 libros.
+[Link libros.yaml](https://github.com/lid/blob/main/_data/libros.yaml)
 
 ---
 
