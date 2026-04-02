@@ -2,6 +2,8 @@
 
 Areas principales
 
+---
+
 ## Electronica
 
 Láminas identificadoras de componentes en el lid 
@@ -9,6 +11,8 @@ Láminas identificadoras de componentes en el lid
 Clasificación
 
 Docs
+
+---
 
 ## Biblioteca libros 
 
@@ -28,13 +32,30 @@ Pedir lo libros prestados de vuelta
 
 yammna fotografio la mayoria de los libros y nos fumos dividiendo para subir sus datos como titulo, subtitulo, autor, editorial, año, y codigos de barras, respecto al codigo de barras aun no hemos registrado nada. eran aproximadamento 50 libros.
 
-## Biblioteca Instrumentos 
+---
 
-Sistemas de préstamos mediante a QR 
+## Biblioteca de Instrumentos
 
-Excel público autonomo 
+Para la biblioteca de instrumentos del LID, es necesario definir categorías e implementar un sistema de préstamos mediante código QR, vinculado a un Excel público autónomo. Este sistema permitirá gestionar y hacer seguimiento de los préstamos de forma ordenada, pero profundizaré eso más abajo en sistemas de préstamos.
 
-## Impresión 3D
+¿Qué instrumentos tenemos? en una primera instancia, es importante identificar y clasificar los instrumentos disponibles:
+
+- Sintetizadores
+- Pedales
+- Mixers
+- Sintetizadores analógicos y electrónicos
+- Amplificadores
+- Guitarras acústicas
+- Guitarras eléctricas
+
+Datos que me parecen relevantes de tener, primero el modelo, marca, voltaje, tal vez una especie de descripción de lo que se puede conseguir o algo por el estilo. Por ejemplo, con los pedales, entiendo que tienen categorías de distorsión, entonces hay que resumir un poco eso para hacer más ameno el entendimiento. También yo incluiría links a los catálogos o foros donde expliquen el modo de uso. Y respecto al voltaje, debería haber una especie de descripción de cómo y dónde conectarlos, y también a los amplificadores.
+
+| Categoría | Modelo | Marca | Voltaje | Función | Recursos |
+|-----------|--------|-------|---------|---------|----------|
+
+---
+
+## impresoras
 
 Catalogo de uso
 
@@ -45,6 +66,8 @@ Dos medios USB y archivos STL
 Instalar NFC con links  de manuales 
 
 La bambú Lab: será utilizada para proyectos más específicos y se requiere experiencia y tiene antigüedad en el lid (pensar cómo gestionar eso y sus criterios) 
+
+---
 
 ## Bibliotecas de Herramientas
 
