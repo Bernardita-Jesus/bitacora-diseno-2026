@@ -39,7 +39,10 @@ Para la biblioteca de instrumentos del LID, es necesario definir categorías e i
 - Guitarras acústicas
 - Guitarras eléctricas
 
-Datos que me parecen relevantes de tener, primero el modelo, marca, voltaje, tal vez una especie de descripción de lo que se puede conseguir o algo por el estilo. Por ejemplo, con los pedales, entiendo que tienen categorías de distorsión, entonces hay que resumir un poco eso para hacer más ameno el entendimiento. También yo incluiría links a los catálogos o foros donde expliquen el modo de uso. Y respecto al voltaje, debería haber una especie de descripción de cómo y dónde conectarlos, y también a los amplificadores.
+Datos que me parecen relevantes de tener, primero el modelo, marca, voltaje, tal vez una especie de descripción de lo que se puede conseguir o algo por el estilo. Por ejemplo, con los pedales, entiendo que tienen categorías de distorsión, entonces hay que resumir un poco eso para hacer más ameno el entendimiento. También yo incluiría links a los catálogos o foros donde expliquen el modo de uso. 
+
+Y respecto al voltaje, en mi opinión, desde la experiencia en la incursión a los sintetizadores, creo que debería haber una breve guía de uso que explique cómo y dónde conectar los equipos, tanto sintetizadores como amplificadores. Podría incluir una explicación básica sobre voltajes, entradas y salidas, precauciones y la diferencia entre transformadores y adaptadores. Puede parecer algo simple, pero son justamente estos aspectos los que complejizan una primera aproximación al uso de los instrumentos.
+
 
 | Categoría | Modelo | Marca | Voltaje | Función | Recursos |
 |-----------|--------|-------|---------|---------|----------|
@@ -49,6 +52,16 @@ Sintetizador analógico, Subharmonicon, Moog, 9V DC, Sintetizador semimodular an
 | Categoría              | Modelo        | Marca | Voltaje | Función                                                                                                | Recursos                                                                                      |
 |------------------------|---------------|-------|---------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Sintetizador analógico | Subharmonicon | Moog  | 9V DC   | Sintetizador semimodular analógico enfocado en secuenciación polirrítmica y generación de subarmónicos | [Recurso Subharmonicon](https://www-moogmusic-com.translate.goog/synthesizers/subharmonicon/) |
+
+Para partir voy a hacer un listado rapido por categoria
+
+#### Sintetizadores
+
+- mavis
+- Subharmonicon
+- Mother-32
+- Granmother
+
 
 ---
 
