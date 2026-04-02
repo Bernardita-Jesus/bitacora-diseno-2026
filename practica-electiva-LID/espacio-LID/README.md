@@ -10,11 +10,11 @@ De todas maneras, al final profundizo un poco más sobre los sistemas de présta
 
 ## Biblioteca libros 
 
-nos cuestionamos si debian ser todos los libros o solo los deisertas categorias como musica, instrumentos, artostas, electronica, programacion, etc, yo creo que finalmente deberiamos definir las categorias luego de hacer la bajada de lo que disponemos, como un ejercicio a la inversa
+Nos cuestionamos si debían ser todos los libros o solo ciertas categorías, como música, instrumentos, artistas, electrónica, programación, etc. Yo creo que finalmente deberíamos definir las categorías luego de hacer la bajada de lo que disponemos, como un ejercicio a la inversa.
 
-para los libros seria facil implementar un sistemas de QR para lospestamos, que se vincule con un excelen publico, 
- 
-Pedir lo libros prestados de vuelta en dando avisos en algun punto prestablesido de la investigacion para poder registrar por completo
+Para los libros sería fácil implementar un sistema de QR para los préstamos, que se vincule con un Excel público.
+
+Pedir los libros prestados de vuelta, dando avisos en algún punto preestablecido de la investigación, para poder registrar por completo.
 
 ### Catálogo y registro
 
@@ -73,8 +73,14 @@ Herramientas como cautín, medidores de voltaje, etiquetadora, secadora de filam
 
 ---
 
-## Sistema de prestamos
+## Sistema de préstamos
 
-Para comprender la comoplejidad y nuestros dilemas, queda en, quien puede o no puede utilizar cirtas cosas del laboratorio, como sus libros, o herramientas, pedales... etc, sin una intension de crear separaciones, sino para resguardad las mismas cosas del laboratorio y poder llevar una percepcion del movimiento de las cosas, por esto mismo creo que era necesario estudiar y comparar sistemas de prestamos dentro de las universidades, quiero poner en enfasis, que llevar un registro del movimiento de las herramientas del laboratorios, nos ayuda a valorizar el interes estudiantil y nos puede servir en un futuro como prueba de el crecimiento del laboratorio para postular a mas fondos y apoyo
+Para comprender la complejidad y nuestros dilemas, esto radica en quién puede o no puede utilizar ciertas cosas del laboratorio, como sus libros, herramientas, pedales, etc. No con la intención de crear separaciones, sino para resguardar los mismos elementos del laboratorio y poder llevar una percepción del movimiento de estos.
 
-primero para dar contexto en la universidad diego portales en la escuela de diseño existen dos tipos de inducciones para poder ingresar a laboratorios, esta la induccion para el laboratorio de moda el cual cualquier estudiante de diseño puede realizarlo, independiente de la mencion, al igual que la induccion para el pañol de herramientas y maquinas. una vez realida esta induccion se tiene que enrrolar, la cual es entregar un papel con tus datos y quedas registrado.
+Por esto mismo, creo que es necesario estudiar y comparar sistemas de préstamos dentro de las universidades. Quiero poner énfasis en que llevar un registro del movimiento de las herramientas del laboratorio nos ayuda a valorizar el interés estudiantil y nos puede servir en un futuro como prueba del crecimiento del laboratorio para postular a más fondos y apoyo.
+
+### Inducciones
+
+Primero, para dar contexto, en la Universidad Diego Portales, en la escuela de Diseño, existen dos tipos de inducciones para poder ingresar a laboratorios. Está la inducción para el laboratorio de moda, la cual cualquier estudiante de diseño puede realizar, independiente de la mención, al igual que la inducción para el pañol de herramientas y máquinas.
+
+Una vez realizada esta inducción, se tiene que enrolar, lo cual consiste en entregar un papel con tus datos y quedar registrado.
