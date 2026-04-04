@@ -55,6 +55,8 @@ Sintetizador analógico, Subharmonicon, Moog, 9V DC, Sintetizador semimodular an
 
 Para partir voy a hacer un listado rapido por categoria
 
+tal vez seria importante agregar de alguna manera las entradas y salidas, desarrrollaaaaa *****
+
 #### Sintetizadores
 
 - mavis
