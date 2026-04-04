@@ -47,15 +47,17 @@ Y respecto al voltaje, en mi opinión, desde la experiencia en la incursión a l
 | Categoría | Modelo | Marca | Voltaje | Función | Recursos |
 |-----------|--------|-------|---------|---------|----------|
 
-Sintetizador analógico, Subharmonicon, Moog, 9V DC, Sintetizador semimodular analógico enfocado en secuenciación polirrítmica y generación de subarmónicos, [Recurso Subharmonicon](https://www-moogmusic-com.translate.goog/synthesizers/subharmonicon/)
+Sintetizador analógico, Subharmonicon, Moog, 9V DC, Sintetizador semimodular analógico enfocado en secuenciación polirrítmica y generación de subarmónicos, [Recurso Subharmonicon](https://www.moogmusic.com/synthesizers/subharmonicon/)
 
 | Categoría              | Modelo        | Marca | Voltaje | Función                                                                                                | Recursos                                                                                      |
 |------------------------|---------------|-------|---------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Sintetizador analógico | Subharmonicon | Moog  | 9V DC   | Sintetizador semimodular analógico enfocado en secuenciación polirrítmica y generación de subarmónicos | [Recurso Subharmonicon](https://www-moogmusic-com.translate.goog/synthesizers/subharmonicon/) |
+| Sintetizador analógico | Subharmonicon | Moog  | 9V DC   | Sintetizador semimodular analógico enfocado en secuenciación polirrítmica y generación de subarmónicos | [Recurso Subharmonicon](https://www.moogmusic.com/synthesizers/subharmonicon/) |
 
 Para partir voy a hacer un listado rapido por categoria
 
-tal vez seria importante agregar de alguna manera las entradas y salidas, desarrrollaaaaa *****
+tal vez seria importante agregar de alguna manera las entradas y salidas, desarrrollar*
+
+como suenan los 
 
 #### Sintetizadores
 
