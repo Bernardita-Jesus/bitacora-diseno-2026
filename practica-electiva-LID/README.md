@@ -52,6 +52,10 @@ Organizamos las cosas de acuerdo a las boletas que se entregaron, armamos unos k
 
 Después de esto, nos pusimos un poco al día y definimos organizar y empezar con el catálogo biblioteca de los libros en GitHub.
 
+- Tercera reunión, viernes 10 de abril, 2026
+
+esta fue una reunión / entrevista que le hice a Aarón; Le pedí tareas para seguir avanzando en la práctica electiva. Llegamos un poco a los mismos supuestos que había analizado de la información que se requería para utilizar instrumentos del laboratorio, que era en lo que más me había enfocado. Me dio datos más específicos que se necesitaban de los sintes, y en paralelo, supongo, estuve aprendiendo en profundidad cómo se utiliza el Subharmonicon. Esto me va a ayudar a tener una visión más general, no solo de qué se puede hacer con estos instrumentos, sino realmente cómo aprender a usarlos, encontrar mi método, encontrar recursos y darle énfasis a lo que encuentro indispensable para involucrarse en el mundo de los sintes. En este caso, buscar y hacer manuales más amenos.
+
 ---
 
 ## Bibliografía y referencias
