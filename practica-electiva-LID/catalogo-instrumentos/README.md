@@ -4,6 +4,12 @@ Creo que sería pertinente incluir el nombre del instrumento con una descripció
 
 Además, sería útil tener una tabla con el nombre del modelo, marca, voltaje y salidas.
 
+## sintetizadores
+
+## nombre sinte
+
+descripción, tabla y foto
+
 ![foto uno](./../recursos/registro-01.jpeg)
 
 ![foto uno](./../recursos/registro-02.jpeg)
