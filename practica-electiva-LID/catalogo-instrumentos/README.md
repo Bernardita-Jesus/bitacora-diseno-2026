@@ -10,7 +10,15 @@ Además, sería útil tener una tabla con el nombre del modelo, marca, voltaje y
 
 descripción, tabla y foto
 
+### Dave Smith Instruments Mopho
+
+Sintetizador monofónico analógico
+
 ![foto uno](./../recursos/registro-01.jpeg)
+
+### Grandmother
+
+Sintetizador modular semianalogico
 
 ![foto uno](./../recursos/registro-02.jpeg)
 
