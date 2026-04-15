@@ -44,7 +44,7 @@ Sintetizador semimodular de percutoción analógico de Moog
 
 ![foto uno](./../recursos/registro-05.jpeg)
 
-## Controladores
+## Controladores y Secuenciadores
 
 que son los controladores...
 
@@ -53,8 +53,6 @@ que son los controladores...
 Controlador MIDI de Arturia
 
 https://www.arturia.com/es/products/hybrid-synths/minilab-3/overview
-
-## Secuenciadores
 
 ![foto uno](./../recursos/registro-06.jpeg)
 
