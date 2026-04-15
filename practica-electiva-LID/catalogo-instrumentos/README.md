@@ -56,16 +56,33 @@ https://www.arturia.com/es/products/hybrid-synths/minilab-3/overview
 
 ## Secuenciadores
 
-*por definiiiir*
-
 ![foto uno](./../recursos/registro-06.jpeg)
+
+### 0-CTRL
+
+Controlador y secuenciador de Make Noise
+
+https://www.makenoisemusic.com/synthesizers-and-controllers/0-ctrl/
 
 ![foto uno](./../recursos/registro-07.jpeg)
 
-![foto uno](./../recursos/registro-08.jpeg)
+### Volca sample
+
+Secuenciador sample digital por Korg
+
+https://www.korg.com/cl/products/dj/volca_sample/index.php
 
 ![foto uno](./../recursos/registro-09.jpeg)
 
+### Volca Kick
+
+Generador de bombo analógico de Korg
+
+https://www.korg.com/cl/products/dj/volca_kick/
+
 ![foto uno](./../recursos/registro-10.jpeg)
 
-![foto uno](./../recursos/registro-01.jpeg)
+## POR DEFINIIIR
+
+![foto uno](./../recursos/registro-08.jpeg)
+
