@@ -4,11 +4,15 @@ Creo que sería pertinente incluir el nombre del instrumento con una descripció
 
 Además, sería útil tener una tabla con el nombre del modelo, marca, voltaje y salidas.
 
-## sintetizadores
+## Definición
 
-## nombre sinte
+En sintetizadores, controladores y secuenciadores
 
-descripción, tabla y foto
+descropción, tabla con datos, recursos y foto
+
+## Sintetizadores 
+
+que son los sintetizadores...
 
 ### Dave Smith Instruments Mopho
 
@@ -40,11 +44,19 @@ Sintetizador semimodular de percutoción analógico de Moog
 
 ![foto uno](./../recursos/registro-05.jpeg)
 
+## Controladores
+
+que son los controladores...
+
 ### Minilab 3
 
 Controlador MIDI de Arturia
 
 https://www.arturia.com/es/products/hybrid-synths/minilab-3/overview
+
+## Secuenciadores
+
+*por definiiiir*
 
 ![foto uno](./../recursos/registro-06.jpeg)
 
