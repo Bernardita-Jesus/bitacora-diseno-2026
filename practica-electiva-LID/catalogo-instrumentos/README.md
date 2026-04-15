@@ -12,21 +12,39 @@ descripción, tabla y foto
 
 ### Dave Smith Instruments Mopho
 
-Sintetizador monofónico analógico
+Sintetizador monofónico analógico 
 
 ![foto uno](./../recursos/registro-01.jpeg)
 
 ### Grandmother
 
-Sintetizador modular semianalogico
+Sintetizador semimodular analógico Moog
 
 ![foto uno](./../recursos/registro-02.jpeg)
 
+### Minilogue
+
+Sintetizador polifonico analógico de Korg
+
 ![foto uno](./../recursos/registro-03.jpeg)
+
+### Mother-32
+
+Sintetizador semimodular analógico de Moog
 
 ![foto uno](./../recursos/registro-04.jpeg)
 
+### DFMA
+
+Sintetizador semimodular de percutoción analógico de Moog
+
 ![foto uno](./../recursos/registro-05.jpeg)
+
+### Minilab 3
+
+Controlador MIDI de Arturia
+
+https://www.arturia.com/es/products/hybrid-synths/minilab-3/overview
 
 ![foto uno](./../recursos/registro-06.jpeg)
 
