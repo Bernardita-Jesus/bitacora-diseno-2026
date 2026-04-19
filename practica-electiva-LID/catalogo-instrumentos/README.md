@@ -46,9 +46,19 @@ https://www.korg.com/cl/products/dj/volca_sample/index.php
 
 ![foto](./../recursos/)
 
+Volca sample: Secuenciador sample digital
+
+https://www.korg.com/cl/products/dj/volca_sample/index.php
+
+![foto](./../recursos/)
+
 Volca Kick: Generador de bombo analógico de Korg
 
 https://www.korg.com/cl/products/dj/volca_kick/
+
+![foto](./../recursos/)
+
+SQ-64: Secuenciador, polifonico
 
 ![foto](./../recursos/)
 
