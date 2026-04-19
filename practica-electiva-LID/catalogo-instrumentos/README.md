@@ -14,71 +14,63 @@ descropción, tabla con datos, recursos y foto
 
 que son los sintetizadores...
 
-### Dave Smith Instruments Mopho
+### Dave Smith Instruments 
 
-Sintetizador monofónico analógico 
+Mopho: Sintetizador monofónico analógico 
 
-![foto uno](./../recursos/registro-01.jpeg)
+![foto](./../recursos/)
 
-### Grandmother
+### Moog
 
-Sintetizador semimodular analógico Moog
+Grandmother: Sintetizador semimodular analógico
 
-![foto uno](./../recursos/registro-02.jpeg)
+![foto](./../recursos/)
 
-### Minilogue
+Mother-32: Sintetizador semimodular analógico de Moog
 
-Sintetizador polifonico analógico de Korg
+![foto](./../recursos/)
 
-![foto uno](./../recursos/registro-03.jpeg)
+DFMA: Sintetizador semimodular de percutoción analógico de Moog
 
-### Mother-32
+![foto](./../recursos/)
 
-Sintetizador semimodular analógico de Moog
+### Korg
 
-![foto uno](./../recursos/registro-04.jpeg)
+Minilogue: Sintetizador polifonico analógico
 
-### DFMA
+![foto](./../recursos/)
 
-Sintetizador semimodular de percutoción analógico de Moog
+Volca sample: Secuenciador sample digital
 
-![foto uno](./../recursos/registro-05.jpeg)
+https://www.korg.com/cl/products/dj/volca_sample/index.php
+
+![foto](./../recursos/)
+
+Volca Kick: Generador de bombo analógico de Korg
+
+https://www.korg.com/cl/products/dj/volca_kick/
+
+![foto](./../recursos/)
 
 ## Controladores y Secuenciadores
 
 que son los controladores...
 
-### Minilab 3
+### Arturia
 
-Controlador MIDI de Arturia
+Minilab 3: Controlador MIDI
 
 https://www.arturia.com/es/products/hybrid-synths/minilab-3/overview
 
-![foto uno](./../recursos/registro-06.jpeg)
+![foto](./../recursos/)
 
-### 0-CTRL
+### Make Noise
 
-Controlador y secuenciador de Make Noise
+0-CTRL: Controlador y secuenciador
 
 https://www.makenoisemusic.com/synthesizers-and-controllers/0-ctrl/
 
-![foto uno](./../recursos/registro-07.jpeg)
-
-### Volca sample
-
-Secuenciador sample digital por Korg
-
-https://www.korg.com/cl/products/dj/volca_sample/index.php
-
-![foto uno](./../recursos/registro-09.jpeg)
-
-### Volca Kick
-
-Generador de bombo analógico de Korg
-
-https://www.korg.com/cl/products/dj/volca_kick/
-
-![foto uno](./../recursos/registro-10.jpeg)
+![foto](./../recursos/)
 
 ## POR DEFINIIIR
 
