@@ -14,6 +14,10 @@ descropción, tabla con datos, recursos y foto
 
 que son los sintetizadores...
 
+### Asturia
+
+![foto](./../recursos/asturia-01.jpeg)
+
 ### Dave Smith Instruments 
 
 Mopho: Sintetizador monofónico analógico 
@@ -24,47 +28,47 @@ Mopho: Sintetizador monofónico analógico
 
 Grandmother: Sintetizador semimodular analógico
 
-![foto](./../recursos/)
+![foto](./../recursos/moog-01.jpeg)
 
 Mother-32: Sintetizador semimodular analógico de Moog
 
-![foto](./../recursos/)
+![foto](./../recursos/moog-02.jpeg)
 
 DFMA: Sintetizador semimodular de percutoción analógico de Moog
 
-![foto](./../recursos/)
+![foto](./../recursos/moog-03.jpeg)
+
+Subharmonicon: 
+
+![foto](./../recursos/moog-04.jpeg)
 
 ### Korg
 
 Minilogue: Sintetizador polifonico analógico
 
-![foto](./../recursos/)
+![foto](./../recursos/korg-01.jpeg)
 
 Volca sample: Secuenciador sample digital
 
 https://www.korg.com/cl/products/dj/volca_sample/index.php
 
-![foto](./../recursos/)
+![foto](./../recursos/korg-02.jpeg)
 
 Volca sample: Secuenciador sample digital
 
 https://www.korg.com/cl/products/dj/volca_sample/index.php
 
-![foto](./../recursos/)
+![foto](./../recursos/korg-03.jpeg)
 
 Volca Kick: Generador de bombo analógico de Korg
 
 https://www.korg.com/cl/products/dj/volca_kick/
 
-![foto](./../recursos/)
+![foto](./../recursos/korg-04.jpeg)
 
 SQ-64: Secuenciador, polifonico
 
-![foto](./../recursos/)
-
-## Controladores y Secuenciadores
-
-que son los controladores...
+![foto](./../recursos/korg-05.jpeg)
 
 ### Arturia
 
@@ -81,6 +85,19 @@ https://www.arturia.com/es/products/hybrid-synths/minilab-3/overview
 https://www.makenoisemusic.com/synthesizers-and-controllers/0-ctrl/
 
 ![foto](./../recursos/)
+
+### Dave smith instruments
+
+![foto](./../recursos/)
+
+### electro-faustus-01.jpeg
+
+![foto](./../recursos/electro-faustus-01.jpeg)
+
+![foto](./../recursos/electro-faustus-02.jpeg)
+
+![foto](./../recursos/electro-faustus-03.jpeg)
+
 
 ## POR DEFINIIIR
 
