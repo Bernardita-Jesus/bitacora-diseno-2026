@@ -32,6 +32,14 @@ Entonces, como mencioné, existen tres tipos principales: los modulares, los de 
 
 ### Emvolventes ADSR
 
+A: Attack, cuánto demora el sonido en llegar a su punto máximo.
+
+D: Decay, qué pasa con ese sonido hasta el sostenimiento.
+
+S: Sustain, qué pasa luego de decaer, mientras se presione la nota, en lo que se mantiene.
+
+R: Release, qué pasa después de soltar la nota.
+
 ### LFO
 
 ---
