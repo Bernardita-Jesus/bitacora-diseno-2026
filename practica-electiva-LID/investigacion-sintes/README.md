@@ -62,5 +62,6 @@ Abajo están el VCO 1 LEVEL y VCO 2 LEVEL, que controlan el volumen con el que v
 
 ### Juego con el sinte
 
-Generalmente, lo que hago yo es crear una secuencia en escala ascendente o descendente con la secuencia 1, a la que le doy una frecuencia un poco aguda, y crear con la secuencia 2 una repetitiva, más plana, y darle una frecuencia grave. Utilizo el ritmo 1 con la secuencia 1, con la perilla en la mitad, y el ritmo 2 con la secuencia 2, con la perilla al máximo. Por el momento, no he utilizado mucho las subfrecuencias, ya que recién logré comprender esta primera parte del sintetizador.
+Generalmente, lo que hago yo es crear una secuencia en escala ascendente o descendente con la secuencia 1, a la que le doy una frecuencia un poco aguda, y crear con la secuencia 2 una repetitiva, más plana, y darle una frecuencia grave. Utilizo el ritmo 1 con la secuencia 1, con la perilla en la mitad, y el ritmo 2 con la secuencia 2, con la perilla al máximo. 
+Por el momento, no he utilizado mucho las subfrecuencias, ya que recién logré comprender esta primera parte del sintetizador.
 
