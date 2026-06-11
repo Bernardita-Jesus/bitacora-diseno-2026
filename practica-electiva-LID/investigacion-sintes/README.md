@@ -24,7 +24,7 @@ Entonces, como mencioné, existen tres tipos principales: los modulares, los de 
 
 ---
 
-## Módulos
+## Principales módulos y sus funciones
 
 ### Osciladores
 
