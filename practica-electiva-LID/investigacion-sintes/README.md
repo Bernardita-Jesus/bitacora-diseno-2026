@@ -42,6 +42,8 @@ R: Release, qué pasa después de soltar la nota.
 
 ### LFO
 
+El LFO es el oscilador de baja frecuencia, utilizado para modular parámetros en el sonido, creando efectos o vibratos.
+
 ---
 
 ## Subharmonicon
