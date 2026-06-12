@@ -70,6 +70,8 @@ El Subharmonicon tiene dos secuenciadores de cuatro pasos. Son cuatro perillas l
 
 ![foto](./../recursos/is-secuenciadores.jpg)
 
+![foto](./../recursos/is-vco-level.jpg)
+
 ### Polirritmos
 
 Justo abajo de las secuencias se encuentran los polirritmos. Estos ritmos corresponden a la velocidad en la que se va a reproducir esta frecuencia; es el tiempo específico para cierta secuencia. Se le pueden determinar a la secuencia 1 o a la secuencia 2, o incluso a ambas.
