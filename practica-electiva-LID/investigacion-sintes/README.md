@@ -10,7 +10,7 @@ Un sinte es un instrumento electrónico que genera, procesa y modifica señales 
 
 Primero que nada, me parece sensato expresar que los sintetizadores tienen muchísimas funciones, puede llegar a ser agobiante comprender la profundidad de su funcionamiento, pero no es necesario comprenderlo todo para disfrutar y jugar con un sinte.
 
-FOTO SINTES
+![foto](./../recursos/is-sintes.jpeg)
 
 ### Rutas de conexión
 
@@ -68,7 +68,7 @@ FOTO SUBHARMONICON
 
 El Subharmonicon tiene dos secuenciadores de cuatro pasos. Son cuatro perillas las cuales conforman el orden, o las notas que van a sonar. La secuencia 1 corresponde al oscilador 1 y la secuencia 2 corresponde al oscilador 2.
 
-FOTO SECUENCIADORES
+![foto](./../recursos/is-secuenciadores.jpg)
 
 ### Polirritmos
 
