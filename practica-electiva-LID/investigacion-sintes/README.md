@@ -72,7 +72,7 @@ Los ritmos están regidos por el tempo, que es el tiempo general del sintetizado
 
 ### Osciladores
 
-Los osciladores son lo que produce y comienza el sonido. Estos tienen formas de onda, que es el tipo de señal que va a producir el oscilador. La de arriba es una onda cuadrada, abajo es una onda diente de sierra y, por último, en medio incluye un modo híbrido donde se asigna una onda cuadrada al oscilador y ondas de diente de sierra a los subarmónicos.
+Los osciladores son lo que produce y comienza el sonido. Estos tienen formas de onda, VCO 1 WAVE y VCO 2 WAVE, que es el tipo de señal que va a producir el oscilador. La de arriba es una onda cuadrada, abajo es una onda diente de sierra y, por último, en medio incluye un modo híbrido donde se asigna una onda cuadrada al oscilador y ondas de diente de sierra a los subarmónicos.
 
 Los osciladores tienen frecuencias: VCO 1 FREQ y VCO 2 FREQ. VCO quiere decir Voltage Controlled Oscillator / Oscilador controlado por voltaje. Esto controla los agudos o graves, es la cantidad de frecuencias por segundo. También tenemos las subfrecuencias, SUB 1 FREQ y SUB 2 FREQ, que son como divisiones deL sonido del oscilador, para crear armónicos. Estas perillas controlan la distancia con el oscilador. 
 
