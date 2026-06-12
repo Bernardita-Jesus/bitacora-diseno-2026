@@ -1,12 +1,14 @@
 # Guía de mi aprendizaje con los sintetizadores
 
-Apuntes en proceso sobre lo que considero necesario comprender
+Apuntes en proceso de registro de mi investigación sobre lo que considero necesario comprender y expresar.
 
 ## ¿Qué es un sintetizador?
 
 Un sinte es un instrumento electrónico que genera, procesa y modifica señales eléctricas a través de módulos para convertirlas en sonido.
 
 Primero que nada, me parece sensato expresar que los sintetizadores tienen muchísimas funciones, puede llegar a ser agobiante comprender la profundidad de su funcionamiento, pero no es necesario comprenderlo todo para disfrutar y jugar con un sinte.
+
+Como contexto, provengo de la disciplina del diseño industrial. Los sintetizadores han sido lo más cercano que he estado realmente al mundo del arte sonoro. Esta pasión llegó en un momento en que necesitaba conectar con algo que me acompañara y me ayudara a entenderme. La adopté como un acto de resistencia, un espacio donde podía crear y escuchar con atención cosas de mí misma.
 
 ### Rutas de conexión
 
@@ -43,6 +45,12 @@ R: Release, qué pasa después de soltar la nota.
 ### LFO
 
 El LFO es el oscilador de baja frecuencia, utilizado para modular parámetros en el sonido, creando efectos o vibratos.
+
+VCO: Oscilador controlado por voltaje.
+
+VCF: Filtro controlado por voltaje.
+
+VCA: Amplificador controlado por voltaje.
 
 ---
 
