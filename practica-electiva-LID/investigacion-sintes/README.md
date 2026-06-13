@@ -102,5 +102,7 @@ Generalmente, lo que hago yo es crear una secuencia en escala ascendente o desce
 
 Por el momento, no he utilizado mucho las subfrecuencias, ya que recién logré comprender esta primera parte del sintetizador.
 
+ESCRIBIR EL SIGUIENTE PASO DE APRENDIZAJE CON EL SECUENCIADOR Y LA INTERFAZ
+
 ![foto](./../recursos/is-subharmonicon.jpeg)
 
