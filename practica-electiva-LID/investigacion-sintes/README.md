@@ -61,8 +61,6 @@ VCA: Amplificador controlado por voltaje.
 Lo que escribo es solamente lo que he logrado comprender, aún me faltan módulos que explicar.
 
 ESCRIBIR CUANDO COMENCE A UTILIZAR EL SUBHARMONICON
-
-FOTO SUBHARMONICON
  
 ### Secuenciadores
 
