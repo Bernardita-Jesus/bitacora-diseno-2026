@@ -27,7 +27,7 @@ Como contexto, provengo de la disciplina del diseño industrial. Los sintetizado
 - Tempo
 - Osciladores
 
-
+---
 
 ## ¿Qué es un sintetizador?
 
