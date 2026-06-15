@@ -66,7 +66,7 @@ VCA: Amplificador controlado por voltaje.
 
 ### Cómo llegué a utilizar el Subharmonicon
 
-El primer semestre de 2025 tomé el taller Diseño de Máquinas Electrónicas, en donde todo este universo de la electrónica se me hizo fascinante. Comencé a ir mucho más al Laboratorio de Interacción Digital, en donde me encontré, en una de estas ocasiones, con Aarón utilizando un sinte. Él estaba utilizando un tríptico de sintes modulares Moog. Ahí le pedí si me podía enseñar a utilizarlos, y me mostró unos sonidos que me dejaron encantada.
+El primer semestre de 2025 tomé el taller Diseño de Máquinas Electrónicas, en donde todo este universo de la electrónica se me hizo fascinante. Comencé a ir mucho más al Laboratorio de Interacción Digital, en donde me encontré, en una de estas ocasiones, con Aarón utilizando un sinte. Estaba utilizando un tríptico de sintes modulares Moog. Ahí le pedí si me podía enseñar a utilizarlos, y me mostró unos sonidos que me dejaron encantada.
 
 Recuerdo que hablamos de que me gustaba escuchar música tranquila y me dijo que utilizara el Subharmonicon, ya que es un sinte con armónicos muy interesantes. Desde ahí aprendí a encenderlo y conectarlo al adaptador y al amplificador, e iba al laboratorio a utilizarlo cuando no estaba en clases.
 
