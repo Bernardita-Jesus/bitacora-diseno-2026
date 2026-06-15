@@ -24,7 +24,11 @@ Entonces, como mencioné, existen tres tipos principales: los modulares, los de 
 
 ### Analógico o Digital
 
-tenemos lo que son las señales analogicas y las señales digitales, entendiendo las señales como informacion que se traslada, las señales analogicas, varian y pueden tener infinitos valores, en cambio
+Tenemos lo que son las señales analógicas y las señales digitales, entendiendo las señales como información que se traslada.
+
+Las señales analógicas varían de manera continua y pueden tomar infinitos valores dentro de un rango. En cambio, las señales digitales están compuestas por valores definidos, representados mediante números, por lo que la información se almacena y procesa en pasos específicos.
+
+A partir de esta diferencia, un sintetizador analógico genera y procesa el sonido mediante circuitos electrónicos que trabajan con señales continuas. Por otro lado, un sintetizador digital genera y procesa el sonido mediante cálculos realizados por un procesador, representando la señal como información digital.
 
 ### Monofónico y Polifónico
 
