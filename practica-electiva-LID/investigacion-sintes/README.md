@@ -62,9 +62,9 @@ VCA: Amplificador controlado por voltaje.
 
 ---
 
-## Subharmonicon
+## Mi aprendizaje con el Subharmonicon
 
-Lo que escribo es solamente lo que he logrado comprender, aún me faltan módulos que explicar.
+### Cómo llegué a utilizar el Subharmonicon
 
 El primer semestre de 2025 tomé el taller Diseño de Máquinas Electrónicas, en donde todo este universo de la electrónica se me hizo fascinante. Comencé a ir mucho más al Laboratorio de Interacción Digital, en donde me encontré, en una de estas ocasiones, con Aarón utilizando un sinte. Él estaba utilizando un tríptico de sintes modulares Moog. Ahí le pedí si me podía enseñar a utilizarlos, y me mostró unos sonidos que me dejaron encantada.
 
@@ -72,8 +72,10 @@ Recuerdo que hablamos de que me gustaba escuchar música tranquila y me dijo que
 
 No podría decir que entendía lo que hacía; solo me gustaba hacer sonidos, filtrar los agudos y escuchar cómo se repetían. Como mencioné, para mí esto fue una manera de mantenerme distraída y acompañada durante ese semestre.
 
-Ahora, en el primer semestre de 2026, junto con la práctica electiva, le pedí a Aarón si podía llevarme el Subharmonicon. No era la primera vez que me había llevado un sinte; también me había llevado el Moog Mavis, el cual, supongo que por la falta de secuenciador, no me terminó de encantar y lo devolví, ya que me agobié por mi falta de conocimiento.
- 
+Ahora, en el primer semestre de 2026, junto con la práctica electiva, pedí prestado al Laboratorio de Interacción Digital el Subharmonicon. No era la primera vez que me había llevado un sinte; también me había llevado el Moog Mavis, el cual, supongo que por la falta de secuenciador, no me terminó de encantar y lo devolví, ya que me agobié por mi falta de conocimiento.
+
+---
+
 ### Secuenciadores
 
 El Subharmonicon tiene dos secuenciadores de cuatro pasos. Son cuatro perillas las cuales conforman el orden, o las notas que van a sonar. La secuencia 1 corresponde al oscilador 1 y la secuencia 2 corresponde al oscilador 2.
