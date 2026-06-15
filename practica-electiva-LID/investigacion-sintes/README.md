@@ -32,6 +32,14 @@ A partir de esta diferencia, un sintetizador analógico genera y procesa el soni
 
 ### Monofónico y Polifónico
 
+Los sintetizadores pueden clasificarse como monofónicos o polifónicos según la cantidad de notas que pueden reproducir al mismo tiempo.
+
+Un sintetizador monofónico solo puede emitir una nota a la vez. Aunque puede generar sonidos complejos mediante múltiples osciladores, todas las frecuencias se organizan en torno a una única nota.
+
+Por otro lado, un sintetizador polifónico puede reproducir varias notas simultáneamente, permitiendo tocar acordes y armonías complejas. Para esto, tiene múltiples voces, cada una capaz de generar y procesar una nota de manera independiente.
+
+La diferencia principal entre ambos es la cantidad de notas que pueden sonar al mismo tiempo.
+
 ---
 
 ## Principales módulos y sus funciones
