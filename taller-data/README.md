@@ -54,6 +54,14 @@ cómo son las imágenes?? clasificar según negativo/positivo
 
 especificar más la pregunta??cómo
 
+## intereccion
 
+hay un poema desplegado en la proyecto
+
+como la ia interpreta la categoria de la cual se interactua
+
+## referentes
+
+https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953
 
 
