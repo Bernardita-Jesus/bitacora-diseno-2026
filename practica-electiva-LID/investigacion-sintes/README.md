@@ -126,3 +126,12 @@ ESCRIBIR EL SIGUIENTE PASO DE APRENDIZAJE CON EL SECUENCIADOR Y LA INTERFAZ
 
 ![foto](./../recursos/is-subharmonicon.jpeg)
 
+https://share.google/AHJt1y3yooV8h4IqP
+
+https://www.perfectcircuit.com/?srsltid=AfmBOordmY1Ce_huen9OowtZ2055P7SbcX1BBSRIkrmQMT2tmqPJ-_Tj
+
+https://share.google/cu1LgA7NmM22lK7bO
+
+https://www.perfectcircuit.com/signal/synth-glossary
+
+
