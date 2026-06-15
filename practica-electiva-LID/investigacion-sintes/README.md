@@ -24,6 +24,8 @@ Entonces, como mencioné, existen tres tipos principales: los modulares, los de 
 
 ### Analógico o Digital
 
+tenemos lo que son las señales analogicas y las señales digitales, entendiendo las señales como informacion que se traslada, las señales analogicas, varian y pueden tener infinitos valores, en cambio
+
 ### Monofónico y Polifónico
 
 ---
