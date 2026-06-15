@@ -54,7 +54,7 @@ cómo son las imágenes?? clasificar según negativo/positivo
 
 especificar más la pregunta??cómo
 
-## intereccion
+## interaccion
 
 hay un poema desplegado en la proyecto
 
