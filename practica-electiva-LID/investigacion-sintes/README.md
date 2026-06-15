@@ -4,6 +4,31 @@ Apuntes en proceso de registro de mi investigación sobre lo que considero neces
 
 Como contexto, provengo de la disciplina del diseño industrial. Los sintetizadores han sido lo más cercano que he estado realmente al mundo del arte sonoro. Esta pasión llegó en un momento en que necesitaba conectar con algo que me acompañara y me ayudara a entenderme. La adopté como un acto de resistencia, un espacio donde podía crear y escuchar con atención cosas de mí misma.
 
+## Índice 
+
+#### ¿Qué es un sintetizador?
+
+- Rutas de conexión
+- Analógico o Digital
+- Monofónico y Polifónico
+
+#### Principales módulos y sus funciones
+
+- Osciladores
+- Filtros
+- Emvolventes ADSR
+- LFO
+
+#### Mi aprendizaje con el Subharmonicon
+
+- Cómo llegué a utilizar el Subharmonicon
+- Secuenciadores
+- Polirritmos
+- Tempo
+- Osciladores
+
+
+
 ## ¿Qué es un sintetizador?
 
 Un sinte es un instrumento electrónico que genera, procesa y modifica señales eléctricas a través de módulos para convertirlas en sonido.
