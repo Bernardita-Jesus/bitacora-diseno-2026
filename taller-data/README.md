@@ -108,6 +108,10 @@ apreto el totem,
 
 porque estoy respondiendo la pregunta atravez de la interaccion.
 
+busqueda relacionada
+
+poner en negrita todas las palabras de categoria
+
 ## Montaje y elementos
 
 1 infra, edificio: todo lo que soporta el proyecto
