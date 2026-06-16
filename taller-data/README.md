@@ -78,9 +78,21 @@ https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-G
 
 ### Minar
 
+alejarnos de los academico
+
 ### Representar
 
 ### Afinar
 
 ### Interactuar
+
+## Montaje y elementos
+
+1 infra, edificio: todo lo que soporta el proyecto
+
+2: dispositivos, la tecnica, proyector, pc, i pad
+
+3: mobiliario: lienzo blanco, atril para la tela
+
+
 
