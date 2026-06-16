@@ -22,7 +22,7 @@ en torno a la pregunta
 
 ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia? 
 
-#### Adquirir
+### Adquirir
 
 primero definimos cuatro hitos sociales, revolucion pinguina, terremoto, estallido social y pandemia, recopilamos en un tiempo determinado de un año de hito todas sus fotos
 
@@ -54,14 +54,33 @@ cómo son las imágenes?? clasificar según negativo/positivo
 
 especificar más la pregunta??cómo
 
-## interaccion
+## Interaccion
 
 hay un poema desplegado en la proyecto
 
-como la ia interpreta la categoria de la cual se interactua
+*Como la ia interpreta la categoria de la cual se interactua*
 
-## referentes
+TouchDesigner
+
+## Referentes
 
 https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953
 
+---
+
+## Principales diapos
+
+### Adquirir
+
+### Analizar
+
+### Filtrar
+
+### Minar
+
+### Representar
+
+### Afinar
+
+### Interactuar
 
