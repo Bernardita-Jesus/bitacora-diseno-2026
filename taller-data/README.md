@@ -102,6 +102,8 @@ justificar que es un poema, que es incoeherente,
 
 p5 o touch Designer
 
+hacer una maqueta
+
 ## Montaje y elementos
 
 1 infra, edificio: todo lo que soporta el proyecto
