@@ -104,6 +104,10 @@ p5 o touch Designer
 
 hacer una maqueta
 
+apreto el totem, 
+
+porque estoy respondiendo la pregunta atravez de la interaccion.
+
 ## Montaje y elementos
 
 1 infra, edificio: todo lo que soporta el proyecto
