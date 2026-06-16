@@ -110,7 +110,3 @@ p5 o touch Designer
 
 3: mobiliario: lienzo blanco, atril para la tela
 
-
-
-
-
