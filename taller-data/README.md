@@ -86,6 +86,18 @@ alejarnos de los academico
 
 ### Interactuar
 
+preguntar 
+
+manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de donde viene esta palabra, jutilizar la erramienta opara no sesgar el analicis, experiencia, primero manifiesto y luego del poema, formas de la imagen texto de la imagen.
+
+no pienso tener mas de un poema.
+
+incoehente.
+
+y si el poema
+
+poner abajo el porcentaje de la categoria
+
 ## Montaje y elementos
 
 1 infra, edificio: todo lo que soporta el proyecto
@@ -93,6 +105,8 @@ alejarnos de los academico
 2: dispositivos, la tecnica, proyector, pc, i pad
 
 3: mobiliario: lienzo blanco, atril para la tela
+
+
 
 
 
