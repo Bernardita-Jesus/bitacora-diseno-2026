@@ -110,6 +110,18 @@ poner en negrita todas las palabras de categoria
 
 3: mobiliario: lienzo blanco, atril para la tela
 
+```mermaid
+---
+config:
+  theme: default
+  layout: elk
+---
+flowchart LR
+    A["se entra a la  sala"] --> B("el manifiesto te invita a explorar el poema")
+    B --> D["se desprende el poema con todas las palabras"]
+    D --> E["seleccionas una palabra"]
+    E --> F["se despliega la fotografia a la que corresponde, indicando su categoria, con el porcentaje de esa categoria y su hito social"]
+```
 
 #### hitos sociales
 
