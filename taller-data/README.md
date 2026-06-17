@@ -72,7 +72,7 @@ hacer que naveguen el parámetro que queremos mostrar
 
 incoehente.
 
-## Interaccion
+### Interaccion
 
 ```mermaid
 ---
