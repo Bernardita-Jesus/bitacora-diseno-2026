@@ -149,6 +149,8 @@ Por el momento, no he utilizado mucho las subfrecuencias, ya que recién logré 
 
 ESCRIBIR EL SIGUIENTE PASO DE APRENDIZAJE CON EL SECUENCIADOR Y LA INTERFAZ
 
+ESCRIBIR LO DE LA FUENTE DE PODER Y AMPLI
+
 ![foto](./../recursos/is-subharmonicon.jpeg)
 
 https://share.google/AHJt1y3yooV8h4IqP
