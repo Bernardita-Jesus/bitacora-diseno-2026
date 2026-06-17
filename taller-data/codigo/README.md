@@ -1,3 +1,5 @@
+
+```cpp
 let estado = "manifiesto";
 let seleccion = null;
 let ultimoMovimiento;
@@ -180,3 +182,4 @@ function mouseMoved() {
 function touchStarted() {
   ultimoMovimiento = millis();
 }
+```
