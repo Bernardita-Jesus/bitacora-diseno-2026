@@ -1,20 +1,10 @@
 # Taller Visualizacion de Datos
 
-## Introducción
-
 ### MapMapper
-
-mapeo para proyeccciones, hacer un grilla, o reticula para proyectar imagenes sobre un objeto tridimencional
-
-incandesente, leds
-
-tiro largo, tiro corto, tiro ultra corto
 
 ### Touch Designer
 
-diseño y arte generativo, creacion de contenido visual en comportamiento real, herramienta para visualizar imagenes con sensores, que responden al sonido.
-
-## Examen Hitos Sociales
+## Hitos Sociales
 
 analizar las fotografias de 40 perfiles de una base de datos que nos entego el departamento de ... y preguntarnos como era la sociedad chilena en el seglo xx xxi en torno a una tematica que en nuestro caso con braulio, son los hitos sociales
 
