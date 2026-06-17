@@ -1,26 +1,38 @@
 # Taller Visualizacion de Datos
 
-### MapMapper
-
-### Touch Designer
-
 ## Hitos Sociales
 
-analizar las fotografias de 40 perfiles de una base de datos que nos entego el departamento de ... y preguntarnos como era la sociedad chilena en el seglo xx xxi en torno a una tematica que en nuestro caso con braulio, son los hitos sociales
+### ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
 
-en torno a la pregunta 
+agregar fotos de hitos*
 
-¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia? 
+## Principales diapos
 
 ### Adquirir
 
-primero definimos cuatro hitos sociales, revolucion pinguina, terremoto, estallido social y pandemia, recopilamos en un tiempo determinado de un año de hito todas sus fotos
+#### DÓNDE MIRO
 
-descartamos a la revolución pinguina y el terremoto ya que no habían registros en esas fechas.
+Primero definimos cuatro hitos sociales, revolucion pinguina, terremoto, estallido social y pandemia.
 
-seleccionamos solo las que tienen texto
+Recopilamos mediante búsqueda manual en un tiempo determinado de un año de hito todas sus fotos.
 
-justificar porque solo utilizamos las con texto: algo como porque esas nos muestra una intención en el mensaje explícita acompañada de su contexto.
+no encontramos publicaciones en las fechas de revolucion pinguina, ni terremoto por lo que descartoamos estos hitos sociales
+
+- Revolución Pingüina: 1 de enero de 2006 – 1 de enero de 2007
+
+- Terremoto: 27 de febrero de 2010 – 27 de febrero de 2011
+
+- Estallido Social: 18 de octubre de 2019 – 18 de octubre de 2020
+
+- Pandemia: 13 de marzo de 2020 – 13 de marzo de 2021
+
+### Analizar
+
+#### ¿QUÉ MIRO?
+
+La primera variable que definimos fue el período, diferenciando entre el estallido social y la pandemia. 
+
+Posteriormente, definimos las variables que permitieran responder a la pregunta principal sobre los temas manifestados durante cada hito social, estas categorias las utilizamos para organizar, categorizarlas en una tematica.
 
 #### Variables
 
@@ -28,29 +40,39 @@ Período: Estallido social / Pandemia.
 
 Temática: Política, Salud, Humor, Economía, Espiritualidad, cultura y educación.
 
-palabras que vamos a sacar de todas las fotos
+### Filtrar
+
+#### ¿CÓMO MIRO?
+
+Seleccionamos únicamente las imágenes que contenían texto, ya que este permite identificar de manera explícita la intención del mensaje y proporciona un contexto comunicativo que facilita el análisis.
+
+para esto con una ia extraimos el texto con el cual vamos a trabajar.
+
+### Minar
+
+#### ¿QUÉ CREO?
+
+alejarnos de los academico, dimension sensible
+
+
+
+
+
+
+
+
+
+hay un poema desplegado en la proyecto
+
+
+
+
 
 hacer que naveguen el parámetro que queremos mostrar
-
-todas las fotos pueden tener más de una etiqueta
-
-lo único que podríamos necesitar es 
-
-destruye las fotos políticas, que las personas puedan filtrar y desaparecer las fotos según las temáticas
-
-partir hablando de las ideas, trabajo honesto, no mulear
-
-cómo son las imágenes?? clasificar según negativo/positivo
-
-especificar más la pregunta??cómo
 
 ## Interaccion
 
 hay un poema desplegado en la proyecto
-
-*Como la ia interpreta la categoria de la cual se interactua*
-
-TouchDesigner
 
 ## Referentes
 
@@ -58,15 +80,12 @@ https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-G
 
 ---
 
-## Principales diapos
 
-### Adquirir
 
-### Analizar
 
-### Filtrar
 
-### Minar
+
+
 
 alejarnos de los academico
 
@@ -76,25 +95,18 @@ alejarnos de los academico
 
 ### Interactuar
 
-preguntar 
-
 manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de donde viene esta palabra, jutilizar la erramienta opara no sesgar el analicis, experiencia, primero manifiesto y luego del poema, formas de la imagen texto de la imagen.
 
-no pienso tener mas de un poema.
+porque estoy respondiendo la pregunta atravez de la interaccion.
 
 incoehente.
 
-y si el poema
+
+
 
 poner abajo el porcentaje de la categoria
 
 justificar que es un poema, que es incoeherente, 
-
-p5 o touch Designer
-
-hacer una maqueta
-
-apreto el totem, 
 
 porque estoy respondiendo la pregunta atravez de la interaccion.
 
@@ -127,5 +139,6 @@ flowchart LR
 
 cuales fueron los temas mas abordados en el hito social estallido social y pandemia, 
 
+### MapMapper
 
-
+### Touch Designer
