@@ -87,22 +87,6 @@ flowchart LR
     E --> F["se despliega la fotografia a la que corresponde, indicando su categoria, con el porcentaje de esa categoria y su hito social"]
 ```
 
-
-## Referentes
-
-https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953
-
----
-
-
-
-
-
-
-
-
-alejarnos de los academico
-
 ### Representar
 
 ### Afinar
@@ -131,4 +115,16 @@ poner en negrita todas las palabras de categoria
 2: dispositivos, la tecnica, proyector, pc, i pad
 
 3: mobiliario: lienzo blanco, atril para la tela
+
+---
+
+## Referentes
+
+https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953
+
+alejandra pizarnik
+
+El territorio del viaje, Daniela Catrileo
+
+Mil noches de sudamerica, Alex Anwandter
 
