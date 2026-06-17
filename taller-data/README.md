@@ -120,3 +120,10 @@ poner en negrita todas las palabras de categoria
 
 3: mobiliario: lienzo blanco, atril para la tela
 
+
+#### hitos sociales
+
+cuales fueron los temas mas abordados en el hito social estallido social y pandemia, 
+
+
+
