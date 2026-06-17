@@ -64,13 +64,6 @@ MANIFESSTACION POLITICA, UNA EXIGENCIA
 
 alejarnos de los academico, dimension sensible
 
-hay un poema desplegado en la proyecto
-
-hay un poema desplegado en la proyecto
-
-hacer que naveguen el parámetro que queremos mostrar
-
-incoehente.
 
 ### Interaccion
 
@@ -86,6 +79,21 @@ flowchart LR
     D --> E["seleccionas una palabra"]
     E --> F["se despliega la fotografia a la que corresponde, indicando su categoria, con el porcentaje de esa categoria y su hito social"]
 ```
+
+
+
+
+---   
+
+NO CORREGIDO
+
+hay un poema desplegado en la proyecto
+
+hay un poema desplegado en la proyecto
+
+hacer que naveguen el parámetro que queremos mostrar
+
+incoehente.
 
 ### Representar
 
@@ -110,11 +118,17 @@ poner en negrita todas las palabras de categoria
 
 ## Montaje y elementos
 
-1 infra, edificio: todo lo que soporta el proyecto
+### Infraestructura, edificio
 
-2: dispositivos, la tecnica, proyector, pc, i pad
+Solamente necesitamos espacio de piso, de 5 metros x 3 metros y coneccion electrica.
 
-3: mobiliario: lienzo blanco, atril para la tela
+### Dispositivos, la tecnica
+
+proyector, pc, Touchpad, alargador
+
+### Mobiliario
+
+lienzo blanco, atril para la tela, LIENZO EXTENDIDO Y TOTEM
 
 ---
 
