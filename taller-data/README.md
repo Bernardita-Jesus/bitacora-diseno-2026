@@ -64,21 +64,29 @@ MANIFESSTACION POLITICA, UNA EXIGENCIA
 
 alejarnos de los academico, dimension sensible
 
-
-
-
-
-
-
-
+hay un poema desplegado en la proyecto
 
 hay un poema desplegado en la proyecto
 
 hacer que naveguen el parámetro que queremos mostrar
 
+incoehente.
+
 ## Interaccion
 
-hay un poema desplegado en la proyecto
+```mermaid
+---
+config:
+  theme: default
+  layout: elk
+---
+flowchart LR
+    A["se entra a la  sala"] --> B("el manifiesto te invita a explorar el poema")
+    B --> D["se desprende el poema con todas las palabras"]
+    D --> E["seleccionas una palabra"]
+    E --> F["se despliega la fotografia a la que corresponde, indicando su categoria, con el porcentaje de esa categoria y su hito social"]
+```
+
 
 ## Referentes
 
@@ -105,10 +113,6 @@ manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de dond
 
 porque estoy respondiendo la pregunta atravez de la interaccion.
 
-incoehente.
-
-
-
 
 poner abajo el porcentaje de la categoria
 
@@ -128,23 +132,3 @@ poner en negrita todas las palabras de categoria
 
 3: mobiliario: lienzo blanco, atril para la tela
 
-```mermaid
----
-config:
-  theme: default
-  layout: elk
----
-flowchart LR
-    A["se entra a la  sala"] --> B("el manifiesto te invita a explorar el poema")
-    B --> D["se desprende el poema con todas las palabras"]
-    D --> E["seleccionas una palabra"]
-    E --> F["se despliega la fotografia a la que corresponde, indicando su categoria, con el porcentaje de esa categoria y su hito social"]
-```
-
-#### hitos sociales
-
-cuales fueron los temas mas abordados en el hito social estallido social y pandemia, 
-
-### MapMapper
-
-### Touch Designer
