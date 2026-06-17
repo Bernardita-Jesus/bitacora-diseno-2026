@@ -30,6 +30,8 @@ no encontramos publicaciones en las fechas de revolucion pinguina, ni terremoto 
 
 #### ¿QUÉ MIRO?
 
+TRABAJAR ESTA IDEA que existe un que hacer con comunicar temas que van repitiendose, a traves de nuestra observacion definimos las tematicas, variables
+
 La primera variable que definimos fue el período, diferenciando entre el estallido social y la pandemia. 
 
 Posteriormente, definimos las variables que permitieran responder a la pregunta principal sobre los temas manifestados durante cada hito social, estas categorias las utilizamos para organizar, categorizarlas en una tematica.
@@ -44,13 +46,19 @@ Temática: Política, Salud, Humor, Economía, Espiritualidad, cultura y educaci
 
 #### ¿CÓMO MIRO?
 
-Seleccionamos únicamente las imágenes que contenían texto, ya que este permite identificar de manera explícita la intención del mensaje y proporciona un contexto comunicativo que facilita el análisis.
+Seleccionamos únicamente las imágenes que contenían texto, ya que este permite identificar de manera explícita la intención del mensaje y proporciona un contexto comunicativo que facilita el análisis, no queremos tener un sessgo por lo que decidimos utilizar ia a categorizar las frases en estos textos.
 
 para esto con una ia extraimos el texto con el cual vamos a trabajar.
 
 ### Minar
 
 #### ¿QUÉ CREO?
+
+creamos un poema
+
+PORQUE UN POEMA
+
+MANIFESSTACION POLITICA, UNA EXIGENCIA
 
 alejarnos de los academico, dimension sensible
 
@@ -63,10 +71,6 @@ alejarnos de los academico, dimension sensible
 
 
 hay un poema desplegado en la proyecto
-
-
-
-
 
 hacer que naveguen el parámetro que queremos mostrar
 
