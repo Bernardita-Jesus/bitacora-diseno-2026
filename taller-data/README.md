@@ -128,3 +128,5 @@ El territorio del viaje, Daniela Catrileo
 
 Mil noches de sudamerica, Alex Anwandter
 
+Alfredo Jaar, referente artistico y grafico
+
