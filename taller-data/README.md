@@ -50,6 +50,8 @@ Seleccionamos únicamente las imágenes que contenían texto, ya que este permit
 
 para esto con una ia extraimos el texto con el cual vamos a trabajar.
 
+Ademas de sacar los conectores.
+
 ### Minar
 
 #### ¿QUÉ CREO?
