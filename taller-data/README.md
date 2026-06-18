@@ -81,10 +81,6 @@ flowchart LR
 ```
 
 
-
-
----   
-
 NO CORREGIDO
 
 hay un poema desplegado en la proyecto
@@ -97,7 +93,11 @@ incoehente.
 
 ### Representar
 
+como muestro, la exposición
+
 ### Afinar
+
+planos
 
 ### Interactuar
 
