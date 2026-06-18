@@ -126,6 +126,8 @@ Solamente necesitamos espacio de piso, de 5 metros x 3 metros y coneccion electr
 
 proyector, pc, Touchpad, alargador
 
+spot, navegadores que toman como textura y se puede mapear, obs estudio, pagina web y lo trasmite.
+
 ### Mobiliario
 
 lienzo blanco, atril para la tela, LIENZO EXTENDIDO Y TOTEM
