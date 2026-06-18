@@ -148,3 +148,5 @@ Alfredo Jaar, referente artistico y grafico
 
 Kyle McDonald es un artista que trabaja con código. Crea instalaciones interactivas, intervenciones furtivas, sitios web lúdicos, talleres y kits de herramientas para otros artistas que trabajan con código. <https://kylemcdonald.net/>
 
+
+
