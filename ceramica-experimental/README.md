@@ -18,6 +18,8 @@ Para el primero tuvimos que escoger un patrón y modelarlo para que se vea en su
 
 Para mis ladrillos escogí los patrones de los troncos de los abedules. Este tema lo llevaba desarrollando desde el año pasado, ya que había estado aprendiendo a dibujar árboles y, sobre todo, abedules, que son mi árbol favorito. Tienen una corteza llena de nudos y espirales, además de líneas horizontales segmentadas alrededor de todo el tronco.
 
+adjuntar foto de bitácora y resultados finales
+
 ## Examen bodegón cerámico
 
 ### Proyecto propio
@@ -25,6 +27,8 @@ Para mis ladrillos escogí los patrones de los troncos de los abedules. Este tem
 Para el examen tuvimos la libertad de trabajar en una pieza de mesa que formara parte de un bodegón; por tanto podíamos hacer tazas, platos, floreros o candelabros.
 
 La técnica era libre; solo tuvimos que ir presentando nuestras propuestas y escoger texturas y colores, ya que eso tenía que ser lo importante del examen.
+
+adjuntar foto de resultados finales
 
 ### Candelabro
 
