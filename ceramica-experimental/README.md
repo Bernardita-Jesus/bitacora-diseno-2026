@@ -48,5 +48,5 @@ El semestre pasado hice dos candelabros inspirados en árboles que se entrelazab
 - Teresita Marín
 - Sebastián Figueroa, alquimista de la Casa del Ceramista
 - Francisca Rojas
-- Antonieta Aguirre — trabajan técnicas y materiales tradicionales con arcilla
+- Antonieta Aguirre, trabajan técnicas y materiales tradicionales con arcilla
 
