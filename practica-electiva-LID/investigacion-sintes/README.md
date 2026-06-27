@@ -111,7 +111,7 @@ Ahora, en el primer semestre de 2026, junto con la práctica electiva, pedí pre
 
 ### Encendido y amplificación del sonido
 
-El Subharmonicon funciona con una alimentación de 12 V. En Chile la red eléctrica doméstica entrega 220–240 V, por lo que es necesario utilizar su fuente de poder, la cual transforma el voltaje de la red en 12 V para alimentar el sintetizador. La fuente acepta una entrada de 100–240 V, por lo que puede utilizarse en Chile sin problemas y únicamente requiere el adaptador de enchufe correspondiente, si fuese necesario.
+El Subharmonicon funciona con una alimentación de 12 V. En Chile la red eléctrica doméstica entrega 220-240 V, por lo que es necesario utilizar su fuente de poder, la cual transforma el voltaje de la red en 12 V para alimentar el sintetizador. La fuente acepta una entrada de 100-240 V, por lo que puede utilizarse en Chile sin problemas y únicamente requiere el adaptador de enchufe correspondiente, si fuese necesario.
 
 En el laboratorio existen varias fuentes de poder para los sintetizadores Moog, las cuales entregan una salida de 12 V. También se encuentra el transformador chocolate, una fuente de alimentación regulable que permite seleccionar distintos voltajes de salida para alimentar diversos dispositivos electrónicos.
 
