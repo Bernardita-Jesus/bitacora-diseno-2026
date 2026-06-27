@@ -131,7 +131,7 @@ Este secuenciador es una muy buena base para crear patrones interesantes, ya que
 
 ### Polirritmos
 
-Justo abajo de las secuencias se encuentran los polirritmos. Estos ritmos corresponden a la velocidad en la que se va a reproducir esta frecuencia; es el tiempo específico para cierta secuencia. Se le pueden determinar a la secuencia 1 o a la secuencia 2, o incluso a ambas.
+Justo abajo de las **secuencias** se encuentran los **polirritmos**. Estos ritmos corresponden a la velocidad en la que se va a reproducir esta frecuencia; es el tiempo específico para cierta secuencia. Se le pueden determinar a la **secuencia 1** o a la **secuencia 2**, o incluso a ambas.
 
 En un principio suele ser más difícil asignar ambas secuencias a un mismo ritmo. Trabajar cada una por separado ayuda a distinguir mejor cómo funciona cada secuencia, ya que después puedes subir o bajar su volumen de manera independiente y comprender con mayor claridad cómo interactúan entre sí.
 
@@ -139,11 +139,13 @@ En un principio suele ser más difícil asignar ambas secuencias a un mismo ritm
 
 ### Tempo
 
-Los ritmos están regidos por el tempo, que es el tiempo general del sintetizador, ya que los ritmos son divisiones que se van escalando de manera proporcional entre sí.
+Los ritmos están regidos por el **tempo**, que es el tiempo general del sintetizador, ya que los **polirritmos** son divisiones que se van escalando de manera proporcional entre sí.
+
+Al modificar el **tempo**, aumenta o disminuye la velocidad de reproducción de todas las **secuencias** y **polirritmos**, pero sin alterar la relación entre ellos. Esto permite experimentar con una misma composición a distintas velocidades, manteniendo siempre la estructura rítmica.
 
 ### Osciladores
 
-Los osciladores son lo que produce y comienza el sonido. Estos tienen formas de onda, VCO 1 WAVE y VCO 2 WAVE, que es el tipo de señal que va a producir el oscilador. La de arriba es una onda cuadrada, abajo es una onda diente de sierra y, por último, en medio incluye un modo híbrido donde se asigna una onda cuadrada al oscilador y ondas de diente de sierra a los subarmónicos.
+Los osciladores son lo que produce y comienza el sonido. Estos tienen formas de onda, **VCO 1 WAVE** y **VCO 2 WAVE**, que es el tipo de señal que va a producir el **oscilador**. La de arriba es una **onda cuadrada**, abajo es una **onda diente de sierra** y, por último, en medio incluye un **modo híbrido** donde se asigna una onda cuadrada al oscilador y ondas de diente de sierra a los subarmónicos.
 
 ![foto](./../recursos/is-vco-wave.jpeg)
 
