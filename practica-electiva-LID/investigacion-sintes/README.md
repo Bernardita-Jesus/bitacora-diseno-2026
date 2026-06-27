@@ -82,13 +82,15 @@ El LFO puede modular:
 
 ### Cómo llegué a utilizar el Subharmonicon
 
-El primer semestre de 2025 tomé el **taller Diseño de Máquinas Electrónicas**, en donde todo este universo de la electrónica se me hizo fascinante. Comencé a ir mucho más al **Laboratorio de Interacción Digital**, en donde me encontré, en una de estas ocasiones, con Aarón utilizando un sinte. Estaba utilizando un tríptico de sintes modulares Moog. Ahí le pedí si me podía enseñar a utilizarlos, y me mostró unos sonidos que me dejaron encantada.
+El primer semestre de 2025 tomé el **taller Diseño de Máquinas Electrónicas**, en donde todo este universo de la electrónica se me hizo fascinante. Comencé a ir mucho más al **Laboratorio de Interacción Digital**, en donde me encontré, en una de estas ocasiones, con Aarón utilizando un sintetizador. Estaba utilizando un tríptico de **sintetizadores modulares Moog**. Ahí le pedí si me podía enseñar a utilizarlos, y me mostró unos sonidos que me dejaron encantada.
 
-Recuerdo que hablamos de que me gustaba escuchar música tranquila y me dijo que utilizara el Subharmonicon, ya que es un sinte con armónicos muy interesantes. Desde ahí aprendí a encenderlo y conectarlo al adaptador y al amplificador, e iba al laboratorio a utilizarlo cuando no estaba en clases.
+Recuerdo que hablamos de que me gustaba escuchar música más lenta, casi espiritual, ya que en ese momento estaba pasando por mucho estrés, y me dijo que utilizara el sintetizador Subharmonicon, ya que es un sintetizador con armónicos muy interesantes. Además me enseñó la música de **Kaitlyn Aurelia Smith**, la cual ha sido una referente constante dentro de la música electrónica para mí.
 
-No podría decir que entendía lo que hacía; solo me gustaba hacer sonidos, filtrar los agudos y escuchar cómo se repetían. Como mencioné, para mí esto fue una manera de mantenerme distraída y acompañada durante ese semestre.
+Desde ahí **aprendí a encenderlo** y conectarlo al adaptador y al amplificador, e iba al laboratorio a utilizarlo cuando no estaba en clases.
 
-Ahora, en el primer semestre de 2026, junto con la práctica electiva, pedí prestado al Laboratorio de Interacción Digital el Subharmonicon. No era la primera vez que me había llevado un sinte; también me había llevado el Moog Mavis, el cual, supongo que por la falta de secuenciador, no me terminó de encantar y lo devolví, ya que me agobié por mi falta de conocimiento.
+No podría decir que entendía lo que hacía; **solo me gustaba hacer sonidos**, filtrar los agudos y escuchar cómo se repetían. Como mencioné, para mí esto fue una manera de mantenerme distraída y acompañada durante ese semestre.
+
+Ahora, en el primer semestre de 2026, junto con la **práctica electiva**, pedí prestado al **Laboratorio de Interacción Digital** el Subharmonicon. No era la primera vez que me había llevado un sinte; también me había llevado el **Moog Mavis**, el cual, supongo que por la falta de secuenciador, no me terminó de encantar y lo devolví, ya que me agobié por mi falta de conocimiento.
 
 ---
 
