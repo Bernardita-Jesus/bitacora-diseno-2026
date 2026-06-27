@@ -4,36 +4,11 @@ Apuntes en proceso de registro de mi investigación sobre lo que considero neces
 
 Como contexto, provengo de la disciplina del diseño industrial. Los sintetizadores han sido lo más cercano que he estado realmente al mundo del arte sonoro. Esta pasión llegó en un momento en que necesitaba conectar con algo que me acompañara y me ayudara a entenderme. La adopté como un acto de resistencia, un espacio donde podía crear y escuchar con atención cosas de mí misma.
 
-## Índice 
-
-#### ¿Qué es un sintetizador?
-
-- Rutas de conexión
-- Analógico o Digital
-- Monofónico y Polifónico
-
-#### Principales módulos y sus funciones
-
-- Osciladores
-- Filtros
-- Emvolventes ADSR
-- LFO
-
-#### Mi aprendizaje con el Subharmonicon
-
-- Cómo llegué a utilizar el Subharmonicon
-- Secuenciadores
-- Polirritmos
-- Tempo
-- Osciladores
-
----
-
 ## ¿Qué es un sintetizador?
 
-Un sinte es un instrumento electrónico que genera, procesa y modifica señales eléctricas a través de módulos para convertirlas en sonido.
+Un sintetizador es un instrumento electrónico que genera, procesa y modifica señales eléctricas a través de distintos módulos para convertirlas en sonido. Cada módulo cumple una función específica, algunos generan el sonido, otros lo modifican, otros controlan su volumen o hacen que cambie con el tiempo. Al combinar estos módulos es posible obtener una enorme variedad de resultados sonoros.
 
-Primero que nada, me parece sensato expresar que los sintetizadores tienen muchísimas funciones, puede llegar a ser agobiante comprender la profundidad de su funcionamiento, pero no es necesario comprenderlo todo para disfrutar y jugar con un sinte.
+Primero que nada, me parece sensato expresar que los sintetizadores tienen muchísimas funciones. Puede llegar a ser agobiante comprender la profundidad de su funcionamiento, pero no es necesario entenderlo todo para disfrutar y jugar con un sinte. Gran parte del aprendizaje consiste en mover perillas, escuchar qué cambia y comenzar a relacionar cada control con el resultado que produce.
 
 ![foto](./../recursos/is-sintes.jpeg)
 
