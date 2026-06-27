@@ -39,7 +39,7 @@ Primero que nada, me parece sensato expresar que los sintetizadores tienen much�
 
 ### Rutas de conexión
 
-Los sintetizadores son máquinas que modifican señales, en un comienzo, todos eran modulares. Esto quiere decir que las funciones con las que podían alterar estas señales, como el oscilador, el filtro o el amplificador, existían en módulos independientes que debían conectarse mediante cables.
+Los sintetizadores son máquinas que modifican señales, en un comienzo, todos eran modulares. Esto quiere decir que las funciones con las que podían alterar estas señales, como el oscilador, el filtro o el secuenciador, existían en módulos independientes que debían conectarse mediante cables.
 
 Esto permite personalización y control de cada componente, creando rutas de señal. Actualmente, estas conexiones también pueden estar preestablecidas, como ocurre en los sintetizadores de arquitectura fija, que cuentan con un cableado integrado.
 
