@@ -2,7 +2,13 @@
 
 Apuntes en proceso de registro de mi investigación sobre lo que considero necesario comprender y expresar.
 
-Como contexto, provengo de la disciplina del diseño industrial. Los sintetizadores han sido lo más cercano que he estado realmente al mundo del arte sonoro. Esta pasión llegó en un momento en que necesitaba conectar con algo que me acompañara y me ayudara a entenderme. La adopté como un acto de resistencia, un espacio donde podía crear y escuchar con atención cosas de mí misma.
+Como contexto, provengo de la disciplina del diseño industrial. Los sintetizadores fueron lo que me acercó al mundo del arte sonoro. Esta motivación surgió a raíz de mi curso de Máquinas Electrónicas, donde realizábamos proyectos con circuitos y sensores que producían sonido y como parte de las tareas, investigábamos sobre sintetizadores, su historia, álbumes y artistas.
+
+Esta pasión llegó en un momento en que necesitaba conectar con algo que me acompañara y me ayudara a entenderme. La adopté como un acto de resistencia, un espacio donde podía crear y escuchar con atención cosas de mí misma.
+
+Estos apuntes nacen desde ese proceso de aprendizaje. No buscan ser un manual técnico exhaustivo, sino registrar aquello que desde mi experiencia, considero necesario comprender para comenzar a utilizar un sintetizador sin sentirse abrumado. Son una recopilación de conceptos, observaciones y formas de aproximarse al instrumento que me han ayudado a entender cómo funciona y a disfrutar el proceso de explorarlo.
+
+Más que explicar todas las posibilidades del sintetizador, este registro reúne las bases que me permitieron comenzar a utilizarlo.
 
 ## ¿Qué es un sintetizador?
 
