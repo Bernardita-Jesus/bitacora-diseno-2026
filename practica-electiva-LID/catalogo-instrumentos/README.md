@@ -6,13 +6,11 @@ Además, sería útil tener una tabla con el nombre del modelo, marca, voltaje y
 
 ## Definición
 
-En sintetizadores, controladores y secuenciadores
+tres categorias principales
+
+En sintetizadores, controladores midi y pedales
 
 descropción, tabla con datos, recursos y foto
-
-## Sintetizadores 
-
-que son los sintetizadores...
 
 ### Asturia
 
