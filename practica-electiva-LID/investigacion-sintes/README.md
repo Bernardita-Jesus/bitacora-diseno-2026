@@ -123,7 +123,9 @@ Para poder escuchar el sonido del Subharmonicon es necesario conectar la salida 
 
 ### Secuenciadores
 
-El Subharmonicon tiene dos secuenciadores de cuatro pasos. Son cuatro perillas las cuales conforman el orden, o las notas que van a sonar. La secuencia 1 corresponde al oscilador 1 y la secuencia 2 corresponde al oscilador 2.
+El Subharmonicon tiene dos secuenciadores de cuatro pasos. Son cuatro perillas las que conforman el orden, o las notas que van a sonar. La Secuencia 1 corresponde al Oscilador 1 y la Secuencia 2 corresponde al Oscilador 2.
+
+Este secuenciador es una muy buena base para crear patrones interesantes, ya que posteriormente se pueden modificar muchos parámetros y obtener resultados más variados. De todas maneras, si lo que más te interesa es crear secuencias más complejas o de mayor longitud, recomiendo utilizar un secuenciador analógico externo o un controlador MIDI.
 
 ![foto](./../recursos/is-secuenciadores.jpeg)
 
