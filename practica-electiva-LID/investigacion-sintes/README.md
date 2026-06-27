@@ -109,6 +109,18 @@ Ahora, en el primer semestre de 2026, junto con la práctica electiva, pedí pre
 
 ---
 
+### Encendido y amplificación del sonido
+
+El Subharmonicon funciona con una alimentación de 12 V. En Chile la red eléctrica doméstica entrega 220–240 V, por lo que es necesario utilizar su fuente de poder, la cual transforma el voltaje de la red en 12 V para alimentar el sintetizador. La fuente acepta una entrada de 100–240 V, por lo que puede utilizarse en Chile sin problemas y únicamente requiere el adaptador de enchufe correspondiente, si fuese necesario.
+
+En el laboratorio existen varias fuentes de poder para los sintetizadores Moog, las cuales entregan una salida de 12 V. También se encuentra el transformador chocolate, una fuente de alimentación regulable que permite seleccionar distintos voltajes de salida para alimentar diversos dispositivos electrónicos.
+
+El Subharmonicon, y en general los sintetizadores semimodulares de Moog, no tienen un botón de encendido y apagado. Una vez que se conecta correctamente a su fuente de poder, el sintetizador se enciende automáticamente y los botones se iluminan con luces rojas, indicando que está funcionando. El botón Play no enciende el sintetizador, solo inicia o detiene el secuenciador interno.
+
+Para poder escuchar el sonido del Subharmonicon es necesario conectar la salida de audio a un amplificador para instrumentos electrónicos que entregan una señal de línea, o a una interfaz de audio. La salida de audio utiliza un cable jack de 1/4 mono, el cual transmite la señal desde el sintetizador hasta el dispositivo de audio.
+
+---
+
 ### Secuenciadores
 
 El Subharmonicon tiene dos secuenciadores de cuatro pasos. Son cuatro perillas las cuales conforman el orden, o las notas que van a sonar. La secuencia 1 corresponde al oscilador 1 y la secuencia 2 corresponde al oscilador 2.
@@ -141,17 +153,19 @@ Abajo están el VCO 1 LEVEL y VCO 2 LEVEL, que controlan el volumen con el que v
 
 ![foto](./../recursos/is-vco-level.jpeg)
 
-### Juego con el sinte
+### Mi uso con el sintetizador Subharmonicon
 
-Generalmente, lo que hago yo es crear una secuencia en escala ascendente o descendente con la secuencia 1, a la que le doy una frecuencia un poco aguda, y crear con la secuencia 2 una repetitiva, más plana, y darle una frecuencia grave. Utilizo el ritmo 1 con la secuencia 1, con la perilla en la mitad, y el ritmo 2 con la secuencia 2, con la perilla al máximo.
+Generalmente, lo que hago es crear una secuencia en escala ascendente o descendente con la Secuencia 1, a la que le doy una frecuencia un poco más aguda. Luego con la Secuencia 2, creo un patrón más repetitivo y plano, asignándole una frecuencia más grave para que funcione como base.
 
-Por el momento, no he utilizado mucho las subfrecuencias, ya que recién logré comprender esta primera parte del sintetizador.
+Utilizo el Ritmo 1 con la Secuencia 1, dejando la perilla aproximadamente en la mitad y el Ritmo 2 con la Secuencia 2, con la perilla al máximo.
 
-ESCRIBIR EL SIGUIENTE PASO DE APRENDIZAJE CON EL SECUENCIADOR Y LA INTERFAZ
+En un principio no utilicé mucho las subfrecuencias, ya que recién lograba comprender esta primera parte del sintetizador. Mi intención era familiarizarme primero con el funcionamiento de las secuencias y los ritmos antes de comenzar a experimentar con las subfrecuencias y el resto de las posibilidades que ofrece el instrumento.
 
-ESCRIBIR LO DE LA FUENTE DE PODER Y AMPLI
+### Interfaz
 
 ![foto](./../recursos/is-subharmonicon.jpeg)
+
+## Bibliografia
 
 https://share.google/AHJt1y3yooV8h4IqP
 
