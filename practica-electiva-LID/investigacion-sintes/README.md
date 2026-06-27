@@ -71,27 +71,35 @@ La diferencia principal entre ambos es la cantidad de notas que pueden sonar al 
 
 ### Osciladores
 
+Los osciladores **VCO**, Voltage Controlled Oscillator son la fuente principal de sonido del sintetizador. Generan la onda sonora y determinan su frecuencia, si el sonido será más agudo o más grave. En muchos sintetizadores pueden generar distintos tipos de onda, como seno, triángulo, diente de sierra o cuadrada.
+
 ### Filtros
 
-### Emvolventes ADSR
+Los filtros **VCF**, Voltage Controlled Filter modifican el contenido armónico del sonido generado por los osciladores. Permiten atenuar frecuencias, haciendo que el sonido sea más brillante, más opaco. El filtro no genera sonido, solo transforma.
 
-A: Attack, cuánto demora el sonido en llegar a su punto máximo.
+### Envolventes ADSR
 
-D: Decay, qué pasa con ese sonido hasta el sostenimiento.
+Las envolventes ADSR controlan cómo evoluciona un sonido en el tiempo, dividiéndolo en distintas etapas.
 
-S: Sustain, qué pasa luego de decaer, mientras se presione la nota, en lo que se mantiene.
+- A (Attack): cuánto demora el sonido en llegar a su volumen máximo.
 
-R: Release, qué pasa después de soltar la nota.
+- D (Decay): qué ocurre después del ataque, el tiempo que tarda en bajar desde el volumen máximo hasta el nivel de sostenimiento.
+
+- S (Sustain): el nivel de volumen en el que se mantiene el sonido mientras la nota continúa activa.
+
+- R (Release): qué ocurre después de soltar la nota, el tiempo que tarda el sonido en desaparecer.
 
 ### LFO
 
-El LFO es el oscilador de baja frecuencia, utilizado para modular parámetros en el sonido, creando efectos o vibratos.
+El LFO Low Frequency Oscillator (Oscilador de Baja Frecuencia) se utiliza para modular distintos parámetros del sonido, creando efectos como vibrato, trémolo o movimientos en el filtro. Esta sección no agrega un sonido nuevo, sino que modifica el comportamiento de otros parámetros del sintetizador.
 
-VCO: Oscilador controlado por voltaje.
+El LFO puede modular:
 
-VCF: Filtro controlado por voltaje.
+- VCO (Voltage Controlled Oscillator): Oscilador controlado por voltaje. Modifica la afinación del oscilador, generando un efecto de vibrato.
 
-VCA: Amplificador controlado por voltaje.
+- VCF (Voltage Controlled Filter): Filtro controlado por voltaje. Modifica la frecuencia de corte del filtro, haciendo que el sonido se abra y se cierre de manera periódica.
+
+- VCA (Voltage Controlled Amplifier): Amplificador controlado por voltaje. Modifica el volumen del sonido, generando un efecto de trémolo.
 
 ---
 
@@ -162,6 +170,10 @@ Abajo están el **VCO 1 LEVEL** y **VCO 2 LEVEL**, que controlan el volumen con 
 Estas perillas permiten mezclar la cantidad de sonido que aporta cada oscilador y cada subfrecuencia. Solo ajustan su volumen, pero esto puede ayudar a darle más presencia o jerarquía a ciertos sonidos dentro de la composición.
 
 ![foto](./../recursos/is-vco-level.jpeg)
+
+### Envolventes ADSR
+
+En el caso del Subharmonicon, este utiliza una envolvente **Attack Decay**, por lo que no cuenta con controles de Sustain ni Release. Esto significa que el sonido solo tiene una etapa de ataque y una de decaimiento. Aun así, comprender el funcionamiento de una envolvente ADSR ayuda a entender cómo se modela el comportamiento del sonido en otros sintetizadores.
 
 ### Mi uso con el sintetizador Subharmonicon
 
