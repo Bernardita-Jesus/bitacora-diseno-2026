@@ -149,13 +149,17 @@ Los osciladores son lo que produce y comienza el sonido. Estos tienen formas de 
 
 ![foto](./../recursos/is-vco-wave.jpeg)
 
-Los osciladores tienen frecuencias: VCO 1 FREQ y VCO 2 FREQ. VCO quiere decir Voltage Controlled Oscillator / Oscilador controlado por voltaje. Esto controla los agudos o graves, es la cantidad de frecuencias por segundo. 
+Los osciladores tienen frecuencias, **VCO 1 FREQ** y **VCO 2 FREQ**. VCO quiere decir Voltage Controlled Oscillator (Oscilador Controlado por Voltaje). Estas perillas controlan la altura del sonido, haciéndolo más agudo o más grave, ya que modifican la frecuencia a la que oscila la señal.
 
-También tenemos las subfrecuencias, SUB 1 FREQ y SUB 2 FREQ, que son como divisiones deL sonido del oscilador, para crear armónicos. Estas perillas controlan la distancia con el oscilador. 
+También tenemos las subfrecuencias, **SUB 1 FREQ** y **SUB 2 FREQ**, que generan divisiones de la frecuencia del oscilador para crear subarmónicos. Estas perillas controlan la relación entre el oscilador y sus subfrecuencias, permitiendo obtener sonidos más complejos.
+
+Al combinar los dos osciladores con sus respectivas subfrecuencias es posible crear intervalos y acordes, esta es una de las secciones que le da su sonido tan particular a este sintetizador.
 
 ![foto](./../recursos/is-vco-freq.jpeg)
 
-Abajo están el VCO 1 LEVEL y VCO 2 LEVEL, que controlan el volumen con el que van a sonar los osciladores. También están el SUB 1 LEVEL y SUB 2 LEVEL, que controlan el volumen con el que van a sonar las sub frecuencias.
+Abajo están el **VCO 1 LEVEL** y **VCO 2 LEVEL**, que controlan el volumen con el que van a sonar los osciladores. También están el **SUB 1 LEVEL** y **SUB 2 LEVEL**, que controlan el volumen con el que van a sonar las sub frecuencias.
+
+Estas perillas permiten mezclar la cantidad de sonido que aporta cada oscilador y cada subfrecuencia. Solo ajustan su volumen, pero esto puede ayudar a darle más presencia o jerarquía a ciertos sonidos dentro de la composición.
 
 ![foto](./../recursos/is-vco-level.jpeg)
 
