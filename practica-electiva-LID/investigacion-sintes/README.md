@@ -133,6 +133,8 @@ Este secuenciador es una muy buena base para crear patrones interesantes, ya que
 
 Justo abajo de las secuencias se encuentran los polirritmos. Estos ritmos corresponden a la velocidad en la que se va a reproducir esta frecuencia; es el tiempo específico para cierta secuencia. Se le pueden determinar a la secuencia 1 o a la secuencia 2, o incluso a ambas.
 
+En un principio suele ser más difícil asignar ambas secuencias a un mismo ritmo. Trabajar cada una por separado ayuda a distinguir mejor cómo funciona cada secuencia, ya que después puedes subir o bajar su volumen de manera independiente y comprender con mayor claridad cómo interactúan entre sí.
+
 ![foto](./../recursos/is-polirritmos.jpeg)
 
 ### Tempo
