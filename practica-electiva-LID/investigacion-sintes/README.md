@@ -24,7 +24,7 @@ Entonces, como mencioné, existen tres tipos principales: los modulares, los de 
 
 ### Analógico o Digital
 
-Tenemos lo que son las señales analógicas y las señales digitales, entendiendo las señales como información que se traslada.
+Tenemos lo que son las **señales analógicas** y las **señales digitales**, entendiendo las señales como información que se traslada.
 
 Las señales analógicas varían de manera continua y pueden tomar infinitos valores dentro de un rango. En cambio, las señales digitales están compuestas por valores definidos, representados mediante números, por lo que la información se almacena y procesa en pasos específicos.
 
@@ -32,7 +32,7 @@ A partir de esta diferencia, un sintetizador analógico genera y procesa el soni
 
 ### Monofónico y Polifónico
 
-Los sintetizadores pueden clasificarse como monofónicos o polifónicos según la cantidad de notas que pueden reproducir al mismo tiempo.
+Los sintetizadores pueden clasificarse como **monofónicos** o **polifónicos** según la cantidad de notas que pueden reproducir al mismo tiempo.
 
 Un sintetizador monofónico solo puede emitir una nota a la vez. Aunque puede generar sonidos complejos mediante múltiples osciladores, todas las frecuencias se organizan en torno a una única nota.
 
@@ -46,35 +46,35 @@ La diferencia principal entre ambos es la cantidad de notas que pueden sonar al 
 
 ### Osciladores
 
-Los osciladores **VCO**, Voltage Controlled Oscillator son la fuente principal de sonido del sintetizador. Generan la onda sonora y determinan su frecuencia, si el sonido será más agudo o más grave. En muchos sintetizadores pueden generar distintos tipos de onda, como seno, triángulo, diente de sierra o cuadrada.
+Los osciladores **VCO Voltage Controlled Oscillator** son la fuente principal de sonido del sintetizador. Generan la onda sonora y determinan su frecuencia, si el sonido será más agudo o más grave. En muchos sintetizadores pueden generar distintos tipos de onda, como seno, triángulo, diente de sierra o cuadrada.
 
 ### Filtros
 
-Los filtros **VCF**, Voltage Controlled Filter modifican el contenido armónico del sonido generado por los osciladores. Permiten atenuar frecuencias, haciendo que el sonido sea más brillante, más opaco. El filtro no genera sonido, solo transforma.
+Los filtros **VCF Voltage Controlled Filter** modifican el contenido armónico del sonido generado por los osciladores. Permiten atenuar frecuencias, haciendo que el sonido sea más brillante, más opaco. El filtro no genera sonido, solo transforma.
 
 ### Envolventes ADSR
 
-Las envolventes ADSR controlan cómo evoluciona un sonido en el tiempo, dividiéndolo en distintas etapas.
+Las **envolventes ADSR** controlan cómo evoluciona un sonido en el tiempo, dividiéndolo en distintas etapas.
 
-- A (Attack): cuánto demora el sonido en llegar a su volumen máximo.
+- **A (Attack)**: cuánto demora el sonido en llegar a su volumen máximo.
 
-- D (Decay): qué ocurre después del ataque, el tiempo que tarda en bajar desde el volumen máximo hasta el nivel de sostenimiento.
+- **D (Decay)**: qué ocurre después del ataque, el tiempo que tarda en bajar desde el volumen máximo hasta el nivel de sostenimiento.
 
-- S (Sustain): el nivel de volumen en el que se mantiene el sonido mientras la nota continúa activa.
+- **S (Sustain)**: el nivel de volumen en el que se mantiene el sonido mientras la nota continúa activa.
 
-- R (Release): qué ocurre después de soltar la nota, el tiempo que tarda el sonido en desaparecer.
+- **R (Release)**: qué ocurre después de soltar la nota, el tiempo que tarda el sonido en desaparecer.
 
 ### LFO
 
-El LFO Low Frequency Oscillator (Oscilador de Baja Frecuencia) se utiliza para modular distintos parámetros del sonido, creando efectos como vibrato, trémolo o movimientos en el filtro. Esta sección no agrega un sonido nuevo, sino que modifica el comportamiento de otros parámetros del sintetizador.
+El **LFO Low Frequency Oscillator** (Oscilador de Baja Frecuencia) se utiliza para modular distintos parámetros del sonido, creando efectos como vibrato, trémolo o movimientos en el filtro. Esta sección no agrega un sonido nuevo, sino que modifica el comportamiento de otros parámetros del sintetizador.
 
 El LFO puede modular:
 
-- VCO (Voltage Controlled Oscillator): Oscilador controlado por voltaje. Modifica la afinación del oscilador, generando un efecto de vibrato.
+- **VCO (Voltage Controlled Oscillator)**: Oscilador controlado por voltaje. Modifica la afinación del oscilador, generando un efecto de vibrato.
 
-- VCF (Voltage Controlled Filter): Filtro controlado por voltaje. Modifica la frecuencia de corte del filtro, haciendo que el sonido se abra y se cierre de manera periódica.
+- **VCF (Voltage Controlled Filter)**: Filtro controlado por voltaje. Modifica la frecuencia de corte del filtro, haciendo que el sonido se abra y se cierre de manera periódica.
 
-- VCA (Voltage Controlled Amplifier): Amplificador controlado por voltaje. Modifica el volumen del sonido, generando un efecto de trémolo.
+- **VCA (Voltage Controlled Amplifier)**: Amplificador controlado por voltaje. Modifica el volumen del sonido, generando un efecto de trémolo.
 
 ---
 
@@ -82,7 +82,7 @@ El LFO puede modular:
 
 ### Cómo llegué a utilizar el Subharmonicon
 
-El primer semestre de 2025 tomé el taller Diseño de Máquinas Electrónicas, en donde todo este universo de la electrónica se me hizo fascinante. Comencé a ir mucho más al Laboratorio de Interacción Digital, en donde me encontré, en una de estas ocasiones, con Aarón utilizando un sinte. Estaba utilizando un tríptico de sintes modulares Moog. Ahí le pedí si me podía enseñar a utilizarlos, y me mostró unos sonidos que me dejaron encantada.
+El primer semestre de 2025 tomé el **taller Diseño de Máquinas Electrónicas**, en donde todo este universo de la electrónica se me hizo fascinante. Comencé a ir mucho más al **Laboratorio de Interacción Digital**, en donde me encontré, en una de estas ocasiones, con Aarón utilizando un sinte. Estaba utilizando un tríptico de sintes modulares Moog. Ahí le pedí si me podía enseñar a utilizarlos, y me mostró unos sonidos que me dejaron encantada.
 
 Recuerdo que hablamos de que me gustaba escuchar música tranquila y me dijo que utilizara el Subharmonicon, ya que es un sinte con armónicos muy interesantes. Desde ahí aprendí a encenderlo y conectarlo al adaptador y al amplificador, e iba al laboratorio a utilizarlo cuando no estaba en clases.
 
