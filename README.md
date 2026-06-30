@@ -12,8 +12,6 @@ Al igual que el año pasado, voy a tomar apuntes de mis ramos en mi séptimo y o
 
 ### Talleres
 
-[Taller de investigación y desarrollo material](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/taller-inv-desarr-mat) (no finalizado)
-
 [Taller Data]()
 
 ### Ramos de profundización
