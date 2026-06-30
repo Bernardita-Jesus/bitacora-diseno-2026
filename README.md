@@ -12,7 +12,7 @@ Al igual que el año pasado, voy a tomar apuntes de mis ramos en mi séptimo y o
 
 ### Talleres
 
-[Taller Data]()
+[Taller Data](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/taller-data)
 
 ### Ramos de profundización
 
