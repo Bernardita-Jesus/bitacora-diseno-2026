@@ -67,5 +67,3 @@ Esta fue una reunión / entrevista que le hice a Aarón; Le pedí tareas para se
 [intelligent instruments](https://intelligentinstruments.notion.site/a3963e0f894e46e7a43eadd17d69a857?v=8bad66a774774f9b9549a76da6edd450)
 
 [Mitchel Resnick](https://web.media.mit.edu/~mres/)
-
-https://negritasycursivas.wordpress.com/2022/09/23/los-caligramas-de-vicente-huidobro-previos-a-vicente-huidobro/
