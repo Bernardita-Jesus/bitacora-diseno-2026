@@ -28,11 +28,11 @@ Para el examen tuvimos la libertad de trabajar en una pieza de mesa que formara 
 
 La técnica era libre; solo tuvimos que ir presentando nuestras propuestas y escoger texturas y colores, ya que eso tenía que ser lo importante del examen.
 
-adjuntar foto de resultados finales
-
 ### Candelabro
 
 El semestre pasado hice dos candelabros inspirados en árboles que se entrelazaban. Para mi proyecto pasé por un largo período de ideación, hasta que acepté que realmente quería realizar nuevamente un candelabro morfológicamente parecido a los anteriores, y probar las pinturas con cristales, que tienen colores y luego en el horno estos cristales explotan y dejan manchas dispersas de otros colores.
+
+adjuntar foto de resultados finales
 
 ## Materiales utilizados en el semestre
 
@@ -50,7 +50,7 @@ El semestre pasado hice dos candelabros inspirados en árboles que se entrelazab
 - Andrés Sepúlveda
 - Pilar Maturana
 - Teresita Marín
-- Sebastián Figueroa, alquimista de la Casa del Ceramista
+- Sebastián Figueroa
 - Francisca Rojas
-- Antonieta Aguirre, trabajan técnicas y materiales tradicionales con arcilla
+- Antonieta Aguirre
 
