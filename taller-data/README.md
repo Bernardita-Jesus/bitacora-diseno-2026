@@ -2,13 +2,17 @@
 
 ## Hitos Sociales
 
-### que hicimos
+**¿Qué hicimos?**
 
-### por que lo hicimos
+Recopilamos y analizamos publicaciones de Instagram, Facebook y TikTok relacionadas con el estallido social y la pandemia. A partir de los textos presentes en las imágenes, generamos un poema compuesto por las palabras extraídas y desarrollamos una instalación interactiva para responder la pregunta: ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
 
-### como lo hicimos
+**¿Por qué lo hicimos?**
 
-¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
+Utilizamos el recurso del poema porque permite reunir múltiples voces y formas de expresión en una única composición. Su carácter fragmentado refleja la diversidad, las contradicciones y la carga emocional presentes en ambos hitos, transformando los datos en una experiencia que invita a explorar los resultados del análisis.
+
+**¿Cómo lo hicimos?**
+
+Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que contenían texto, extrajimos y clasificamos las palabras con apoyo de inteligencia artificial, organizamos la información en una base de datos y generamos una experiencia interactiva donde cada palabra del poema permite acceder a su fotografía, frase de origen, temática y porcentaje de aparición.
 
 ## láminas taller data presentación
 
