@@ -2,7 +2,13 @@
 
 ## Hitos Sociales
 
-### ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
+### que hicimos
+
+### por que lo hicimos
+
+### como lo hicimos
+
+¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
 
 ## láminas taller data presentación
 
