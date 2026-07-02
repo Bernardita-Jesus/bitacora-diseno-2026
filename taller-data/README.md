@@ -4,15 +4,15 @@
 
 **¿Qué hicimos?**
 
-Recopilamos y analizamos publicaciones de Instagram, Facebook y TikTok relacionadas con el estallido social y la pandemia. A partir de los textos presentes en las imágenes, generamos un poema compuesto por las palabras extraídas y desarrollamos una instalación interactiva para responder la pregunta: ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
+Recopilamos y analizamos publicaciones de Instagram, Facebook y TikTok relacionadas con el estallido social y la pandemia. A partir de los textos presentes en las imágenes, generamos un poema procedural compuesto por las palabras extraídas y desarrollamos una instalación interactiva para responder la pregunta: ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
 
 **¿Por qué lo hicimos?**
 
-Utilizamos el recurso del poema porque permite reunir múltiples voces y formas de expresión en una única composición. Su carácter fragmentado refleja la diversidad, las contradicciones y la carga emocional presentes en ambos hitos, transformando los datos en una experiencia que invita a explorar los resultados del análisis.
+Utilizamos el recurso de la poesía procedural porque permite construir un poema a partir de reglas y datos, en lugar de una escritura subjetiva. De esta forma, el poema surge de las palabras recopiladas en las publicaciones, reuniendo múltiples voces y formas de expresión sin intervenir su contenido. Esto convierte los datos en una experiencia interactiva que evidencia las temáticas presentes durante ambos hitos sociales.
 
 **¿Cómo lo hicimos?**
 
-Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que contenían texto, extrajimos y clasificamos las palabras con apoyo de inteligencia artificial, organizamos la información en una base de datos y generamos una experiencia interactiva donde cada palabra del poema permite acceder a su fotografía, frase de origen, temática y porcentaje de aparición.
+Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que contenían texto, extrajimos y clasificamos las palabras con apoyo de inteligencia artificial, organizamos la información en una base de datos y desarrollamos una aplicación web con p5.js, donde cada palabra del poema permite acceder a su fotografía, frase de origen, temática y porcentaje de aparición.
 
 ## láminas taller data presentación
 
