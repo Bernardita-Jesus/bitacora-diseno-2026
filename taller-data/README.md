@@ -30,7 +30,7 @@ agregar fotos de hitos*
 
 - **Pandemia:** 13 de marzo de 2020 – 13 de marzo de 2021
 
- ### Analizar: ¿QUÉ MIRO?
+ ### ANALIZAR: ¿QUÉ MIRO?
 
 - miro todos los elementos dentro de la fotografía que hagan alusión directa a los hitos de estallido social y pandemia (no se encontró registro de los demás hitos), esto puede ser mediante objetos físicos o expresiones directas (textuales) acerca del hito o una combinación de ambos (elementos materiales y textuales dentro de la foto)
 
@@ -45,7 +45,7 @@ agregar fotos de hitos*
 
 - la clasificación de las fotos dentro de estas imágenes fue hecha con inteligencia artificial, sólo enviándole los textos (filtrado más adelante) esto con motivo de no tener sesgos propios al momento de categorizar cada fotografía.
 
-### Filtrar: **¿CÓMO MIRO?**
+### FILTRAR: **¿CÓMO MIRO?**
 
 - seleccionamos únicamente las imágenes que contenían texto, ya que este permite identificar de manera explícita la intención del mensaje y proporciona un contexto comunicativo que facilita el análisis.
 
@@ -113,8 +113,7 @@ flowchart LR
 
 - lienzo blanco, atril para la tela, lienzo extendido, tótem
 
-aaaaaaaaaaaaaaa
-
+---
 
 manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de donde viene esta palabra, jutilizar la erramienta opara no sesgar el analicis, experiencia, primero manifiesto y luego del poema, formas de la imagen texto de la imagen.
 
