@@ -4,68 +4,86 @@
 
 ### ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
 
+## láminas taller data presentación
+
 agregar fotos de hitos*
 
 ## Principales diapos
 
-### Adquirir
+### ADQUIRIR: DÓNDE MIRO
 
-#### DÓNDE MIRO
+- busco en los 40 perfiles fotos de hitos nacionales, esta búsqueda es dentro de instagram, facebook y tiktok
 
-Primero definimos cuatro hitos sociales, revolucion pinguina, terremoto, estallido social y pandemia.
+- definimos cuatro hitos sociales más importantes, revolucion pinguina, terremoto, estallido social y pandemia.
 
-Recopilamos mediante búsqueda manual en un tiempo determinado de un año de hito todas sus fotos.
+- Recopilamos mediante búsqueda manual en un tiempo determinado de un año de hito todas sus fotos.
 
-no encontramos publicaciones en las fechas de revolucion pinguina, ni terremoto por lo que descartoamos estos hitos sociales
+- no encontramos publicaciones en las fechas de revolucion pinguina, ni terremoto por lo que descartoamos estos hitos sociales
 
-- Revolución Pingüina: 1 de enero de 2006 – 1 de enero de 2007
+**hitos y fechas de búsqueda**
 
-- Terremoto: 27 de febrero de 2010 – 27 de febrero de 2011
+- **Revolución Pingüina**: 1 de enero de 2006 – 1 de enero de 2007
 
-- Estallido Social: 18 de octubre de 2019 – 18 de octubre de 2020
+- **Terremoto:** 27 de febrero de 2010 – 27 de febrero de 2011
 
-- Pandemia: 13 de marzo de 2020 – 13 de marzo de 2021
+- **Estallido Social:** 18 de octubre de 2019 – 18 de octubre de 2020
 
-### Analizar
+- **Pandemia:** 13 de marzo de 2020 – 13 de marzo de 2021
 
-#### ¿QUÉ MIRO?
+ ### Analizar: ¿QUÉ MIRO?
 
-TRABAJAR ESTA IDEA que existe un que hacer con comunicar temas que van repitiendose, a traves de nuestra observacion definimos las tematicas, variables
+- miro todos los elementos dentro de la fotografía que hagan alusión directa a los hitos de estallido social y pandemia (no se encontró registro de los demás hitos), esto puede ser mediante objetos físicos o expresiones directas (textuales) acerca del hito o una combinación de ambos (elementos materiales y textuales dentro de la foto)
 
-La primera variable que definimos fue el período, diferenciando entre el estallido social y la pandemia. 
+- la primera variable que definimos fue el período, diferenciando entre el estallido social y la pandemia.
 
-Posteriormente, definimos las variables que permitieran responder a la pregunta principal sobre los temas manifestados durante cada hito social, estas categorias las utilizamos para organizar, categorizarlas en una tematica.
+- posteriormente, definimos las variables que permitieran responder a la pregunta principal sobre los temas manifestados durante cada hito social, estas categorías las utilizamos para organizar los datos de las fotos y poder clasificarlos
 
-#### Variables
+**Variables a analizar**
 
-Período: Estallido social / Pandemia.
+- Período: Estallido social / Pandemia.
+-Temática: Política, Salud, Humor, Economía, Espiritualidad, cultura y educación.
 
-Temática: Política, Salud, Humor, Economía, Espiritualidad, cultura y educación.
+- la clasificación de las fotos dentro de estas imágenes fue hecha con inteligencia artificial, sólo enviándole los textos (filtrado más adelante) esto con motivo de no tener sesgos propios al momento de categorizar cada fotografía.
 
-### Filtrar
+### Filtrar: **¿CÓMO MIRO?**
 
-#### ¿CÓMO MIRO?
+- seleccionamos únicamente las imágenes que contenían texto, ya que este permite identificar de manera explícita la intención del mensaje y proporciona un contexto comunicativo que facilita el análisis.
 
-Seleccionamos únicamente las imágenes que contenían texto, ya que este permite identificar de manera explícita la intención del mensaje y proporciona un contexto comunicativo que facilita el análisis, no queremos tener un sessgo por lo que decidimos utilizar ia a categorizar las frases en estos textos.
+- este análisis fue una mezcla de extraer palabras de forma manual pero también utilizamos herramientas de inteligencia artificial para hacerlo más rápido, la IA se equivocaba a veces extrayendo palabras por lo que había que revisar bien si había incluido o no palabras extra
 
-para esto con una ia extraimos el texto con el cual vamos a trabajar.
+- un segundo filtrado fue eliminar todas las palabras que fueran conectores, de esta manera quedamos con un menor número de palabras
 
-Ademas de sacar los conectores.
+- en un excel dejamos la siguiente estructura final -->: foto - hito - texto - palabras poema (texto extraído) - temática del texto - porcentaje de la temática
 
-### Minar
+### MINAR: **QUÉ CREO CON LOS DATOS QUE TENGO**
 
-#### ¿QUÉ CREO?
+- con las palabras extraídas generamos un poema el cuál mezcla las palabras de ambas temáticas (estallido social y pandemia)
 
-creamos un poema
+- cada palabra tiene asociados sus datos respectivos los cuáles son: foto de origen - frase de origen - temática - porcentaje temática
 
-PORQUE UN POEMA
+### REPRESENTACIÓN
 
-MANIFESSTACION POLITICA, UNA EXIGENCIA
+- la instalación contempla una estructura de madera sobre la cuál va desplegada una tela, en esta tela se encuentra el poema generado y proyectado
 
-alejarnos de los academico, dimension sensible
+- el proyector se encuentra en un tótem el cuál se encuentra a 2 metros de distancia , en este tótem también se encuentra el computador (ambos ocultos) y en la parte superior existe un touchpad
 
+###  AFINAR
 
-### Interaccion
+- planos
+
+### INTERACTUAR
+
+- la persona entra a la sala y el primer objeto que se encuentra frente a ella es un totem que contiene un touchpad, delante del tótem está desplegada la tela en la estructura de madera
+
+- este touchpad permite al interactuar con lo que se muestra en la tela, la primera interacción textual con el usuario es la exposición proyectada en la tela de un manifiesto sobre la importancia de la expresión propia, el texto incita al usuario a descubrir cuáles fueron las formas de expresión durante el estallido social y la pandemia
+
+- al hacer click con el touchpad, se despliega un poema generado y mezclado a partir de todos los textos de estos hitos
+
+- si clickea una palabra, se despliega información sobre esta misma, la cuál es: foto de origen - frase de origen - temática - porcentaje temática a nivel general (ejemplo: humor está en un 26% de las fotos en pandemia)
+
+- puede clickear en la esquina superior izquierda para volver al poema, en caso de no clickear tras 20 segundos, la aplicación vuelve de manera automática al poema
+
+- si no se clickea el poema en 20 segundos más, la aplicación vuelve a mostrar el manifiesto
 
 ```mermaid
 ---
@@ -80,26 +98,23 @@ flowchart LR
     E --> F["se despliega la fotografia a la que corresponde, indicando su categoria, con el porcentaje de esa categoria y su hito social"]
 ```
 
+### Montaje y elementos
 
-NO CORREGIDO
+- infraestructura, edificio
+- solamente necesitamos espacio de piso, de 5 metros x 3 metros y conexión eléctrica.
 
-hay un poema desplegado en la proyecto
+**Dispositivos**
 
-hay un poema desplegado en la proyecto
+- proyector, pc,touchpad, alargador
 
-hacer que naveguen el parámetro que queremos mostrar
+- spot, navegadores que toman como textura y se puede mapear, obs estudio, pagina web y lo transmite.
 
-incoehente.
+**Mobiliario**
 
-### Representar
+- lienzo blanco, atril para la tela, lienzo extendido, tótem
 
-como muestro, la exposición
+aaaaaaaaaaaaaaa
 
-### Afinar
-
-planos
-
-### Interactuar
 
 manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de donde viene esta palabra, jutilizar la erramienta opara no sesgar el analicis, experiencia, primero manifiesto y luego del poema, formas de la imagen texto de la imagen.
 
@@ -116,23 +131,6 @@ busqueda relacionada
 
 poner en negrita todas las palabras de categoria
 
-## Montaje y elementos
-
-### Infraestructura, edificio
-
-Solamente necesitamos espacio de piso, de 5 metros x 3 metros y coneccion electrica.
-
-### Dispositivos, la tecnica
-
-proyector, pc, Touchpad, alargador
-
-spot, navegadores que toman como textura y se puede mapear, obs estudio, pagina web y lo trasmite.
-
-### Mobiliario
-
-lienzo blanco, atril para la tela, LIENZO EXTENDIDO Y TOTEM
-
----
 
 ## Referentes
 
