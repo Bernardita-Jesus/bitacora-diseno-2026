@@ -22,9 +22,7 @@ Utilizamos el recurso de la poesía procedural porque permite construir un poema
 
 Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que contenían texto, extrajimos y clasificamos las palabras con apoyo de inteligencia artificial, organizamos la información en una base de datos y desarrollamos una aplicación web con p5.js, donde cada palabra del poema permite acceder a su fotografía, frase de origen, temática y porcentaje de aparición.
 
-## láminas taller data presentación
-
-## Principales diapos
+## Láminas taller data presentación
 
 ### ADQUIRIR: DÓNDE MIRO
 
