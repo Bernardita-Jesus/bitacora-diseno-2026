@@ -168,6 +168,8 @@ En un principio no utilicé mucho las subfrecuencias, ya que recién lograba com
 
 ### Interfaz
 
+para poder pasar los sonidos del sinte pueden procesarse por una interfaz, yo utilizo una escarlett focuss rayd y reproduzco el audio con ableton, del sinte a la interfaz, con un cable jack y de la interfaz al computador, el computador es su fuente poder,
+
 ![foto](./../recursos/is-subharmonicon.jpeg)
 
 ## Bibliografia
