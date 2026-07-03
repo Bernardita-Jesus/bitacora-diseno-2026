@@ -168,7 +168,7 @@ En un principio no utilicé mucho las subfrecuencias, ya que recién lograba com
 
 ### Interfaz
 
-para poder pasar los sonidos del sinte pueden procesarse por una interfaz, yo utilizo una escarlett focuss rayd y reproduzco el audio con ableton, del sinte a la interfaz, con un cable jack y de la interfaz al computador, el computador es su fuente poder,
+El audio del sintetizador es enviado a una interfaz de audio Focusrite Scarlett mediante un cable jack. La interfaz convierte la señal analógica en digital y la transmite al computador a través de una conexión USB, donde es reproducida y procesada en Ableton Live. En este caso, el computador actúa como soporte para el procesamiento del audio y, cuando corresponde, también como fuente de alimentación del sintetizador.
 
 ![foto](./../recursos/is-subharmonicon.jpeg)
 
