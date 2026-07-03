@@ -158,6 +158,8 @@ Estas perillas permiten mezclar la cantidad de sonido que aporta cada oscilador 
 
 En el caso del Subharmonicon, este utiliza una envolvente **Attack Decay**, por lo que no cuenta con controles de Sustain ni Release. Esto significa que el sonido solo tiene una etapa de ataque y una de decaimiento. Aun así, comprender el funcionamiento de una envolvente ADSR ayuda a entender cómo se modela el comportamiento del sonido en otros sintetizadores.
 
+---
+
 ### Mi uso con el sintetizador Subharmonicon
 
 Generalmente, lo que hago es crear una secuencia en escala ascendente o descendente con la Secuencia 1, a la que le doy una frecuencia un poco más aguda. Luego con la Secuencia 2, creo un patrón más repetitivo y plano, asignándole una frecuencia más grave para que funcione como base.
@@ -166,11 +168,25 @@ Utilizo el Ritmo 1 con la Secuencia 1, dejando la perilla aproximadamente en la 
 
 En un principio no utilicé mucho las subfrecuencias, ya que recién lograba comprender esta primera parte del sintetizador. Mi intención era familiarizarme primero con el funcionamiento de las secuencias y los ritmos antes de comenzar a experimentar con las subfrecuencias y el resto de las posibilidades que ofrece el instrumento.
 
+Sin embargo, una vez que comencé a utilizar las subfrecuencias, comprendí que ese era el aspecto más distintivo e interesante del Subharmonicon. La posibilidad de trabajar con las divisiones de frecuencia de sus dos osciladores abre una amplia variedad de combinaciones, aportando mayor complejidad, profundidad y riqueza al sonido.
+
+![foto](./../recursos/is-subharmonicon.jpeg)
+
 ### Interfaz
 
 El audio del sintetizador es enviado a una interfaz de audio Focusrite Scarlett mediante un cable jack. La interfaz convierte la señal analógica en digital y la transmite al computador a través de una conexión USB, donde es reproducida y procesada en Ableton Live. En este caso, el computador actúa como soporte para el procesamiento del audio y, cuando corresponde, también como fuente de alimentación del sintetizador.
 
-![foto](./../recursos/is-subharmonicon.jpeg)
+### Secuenciadores y controladores MIDI
+
+Los secuenciadores o controladores MIDI permiten controlar distintos parámetros del sintetizador, como el ritmo, la secuencia de notas, la duración y otros aspectos de la interpretación, ampliando las posibilidades de composición.
+
+En esta búsqueda utilicé el **0-CTRL** para introducir variaciones en los tiempos y los silencios de la secuencia. Esto permitió que la pieza adquiriera mayor dinamismo, alejándose de un comportamiento repetitivo y monótono. Las variaciones generadas aportaron mayor riqueza rítmica y profundidad, haciendo que el sonido evolucionara constantemente.
+
+### Pedales
+
+Los pedales de efectos son dispositivos que procesan y modifican la señal de audio de un instrumento o sintetizador, ampliando sus posibilidades sonoras y expresivas. A través de efectos como la **reverb**, el **delay**, la **distorsión**, el **chorus**, el **phaser** o los **filtros**, es posible alterar el timbre, la profundidad, el espacio y el movimiento del sonido. En esta búsqueda, los pedales fueron utilizados para enriquecer la composición, incorporando variaciones y texturas que aportaron mayor complejidad y dinamismo a la pieza sonora.
+
+Por el momento solo he intentado conectar pedales al Subharmonicon, pero no he podido dedicarme a su aprendizaje como me gustaría. Definitivamente es un proceso que seguiré documentando y explorando.
 
 ## Bibliografia
 
@@ -181,5 +197,3 @@ https://www.perfectcircuit.com/?srsltid=AfmBOordmY1Ce_huen9OowtZ2055P7SbcX1BBSRI
 https://share.google/cu1LgA7NmM22lK7bO
 
 https://www.perfectcircuit.com/signal/synth-glossary
-
-
