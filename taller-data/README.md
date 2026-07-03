@@ -1,6 +1,14 @@
 # Taller Visualizacion de Datos
 
-## Hitos Sociales
+## Manifiesto Hitos Sociales
+
+Las palabras también son datos.
+
+Cada una de ellas fue escrita por alguien, en un momento de incertidumbre, conflicto o transformación. Reunidas, dejan de pertenecer a una sola voz y comienzan a construir una memoria colectiva.
+
+Este poema procedural no busca narrar una historia, sino revelar los temas que atravesaron el estallido social y la pandemia a partir de las palabras que las personas compartieron en redes sociales.
+
+Explora el poema. Descubre el origen de cada palabra y las relaciones ocultas entre los datos, las imágenes y sus clasificaciones.
 
 **¿Qué hicimos?**
 
