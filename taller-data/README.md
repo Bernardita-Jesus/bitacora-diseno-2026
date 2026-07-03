@@ -24,8 +24,6 @@ Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que co
 
 ## láminas taller data presentación
 
-agregar fotos de hitos*
-
 ## Principales diapos
 
 ### ADQUIRIR: DÓNDE MIRO
