@@ -113,13 +113,14 @@ config:
   layout: elk
 ---
 flowchart LR
-    A["te acercas al montaje"] --> B["el manifiesto te invita a explorar el poema"]
+    A(("te acercas al montaje")) --> B["el manifiesto te invita a explorar el poema"]
     B --> C["seleccionas una palabra del poema"]
     C --> D["se despliega la fotografía de origen, indicando la temática y el porcentaje de aparición en su hito social"]
-    D --> E["seleccionas otra palabra"]
-    D --> F["vuelves al manifiesto"]
+    D --> E["seleccionas otra palabra"] & F["vuelves al manifiesto"]
     E --> D
     F --> B
+
+    D@{ shape: diam}
 ```
 
 ### Montaje y elementos
