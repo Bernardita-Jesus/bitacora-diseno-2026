@@ -75,6 +75,11 @@ Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que co
 
 - cada palabra tiene asociados sus datos respectivos los cuáles son: foto de origen - frase de origen - temática - porcentaje temática
 
+**Poesía contemporánea**
+
+La poesía contemporánea abarca una amplia gama de estilos y temas, reflejando las complejidades del mundo moderno a través de un lenguaje innovador y una estructura flexible. Se caracteriza por su diversidad en formas y la inclusión de voces que representan diferentes culturas, géneros y perspectivas. 
+Además, los poetas contemporáneos a menudo exploran temas personales y sociales, utilizando la tecnología y los medios digitales como herramientas creativas y de difusión.
+
 ### REPRESENTACIÓN
 
 - la instalación contempla una estructura de madera sobre la cuál va desplegada una tela, en esta tela se encuentra el poema generado y proyectado
