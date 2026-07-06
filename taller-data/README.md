@@ -77,7 +77,8 @@ Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que co
 
 **Poesía contemporánea**
 
-La poesía contemporánea abarca una amplia gama de estilos y temas, reflejando las complejidades del mundo moderno a través de un lenguaje innovador y una estructura flexible. Se caracteriza por su diversidad en formas y la inclusión de voces que representan diferentes culturas, géneros y perspectivas. 
+La poesía contemporánea abarca una amplia gama de estilos y temas, reflejando las complejidades del mundo moderno a través de un lenguaje innovador y una estructura flexible. Se caracteriza por su diversidad en formas y la inclusión de voces que representan diferentes culturas, géneros y perspectivas.
+
 Además, los poetas contemporáneos a menudo exploran temas personales y sociales, utilizando la tecnología y los medios digitales como herramientas creativas y de difusión.
 
 ### REPRESENTACIÓN
