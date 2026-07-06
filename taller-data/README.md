@@ -136,10 +136,9 @@ flowchart LR
 
 ---
 
-manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de donde viene esta palabra, jutilizar la erramienta opara no sesgar el analicis, experiencia, primero manifiesto y luego del poema, formas de la imagen texto de la imagen.
+manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de donde viene esta palabra, jutilizar la herramienta opara no sesgar el analicis, experiencia, primero manifiesto y luego del poema, formas de la imagen texto de la imagen.
 
 porque estoy respondiendo la pregunta atravez de la interaccion.
-
 
 poner abajo el porcentaje de la categoria
 
@@ -167,6 +166,8 @@ Alfredo Jaar, referente artistico y grafico
 Kyle McDonald es un artista que trabaja con código. Crea instalaciones interactivas, intervenciones furtivas, sitios web lúdicos, talleres y kits de herramientas para otros artistas que trabajan con código. <https://kylemcdonald.net/>
 
 https://www.studysmarter.es/resumenes/antropologia/estudios-hispanicos/poesia-contemporanea/
+
+https://esferacomunicacional.ar/los-campos-electromagneticos-de-lo-surrealistas-a-la-escritura-artificial/
 
 
 
