@@ -125,18 +125,19 @@ flowchart LR
 
 ### Montaje y elementos
 
-- infraestructura, edificio
-- solamente necesitamos espacio de piso, de 5 metros x 3 metros y conexión eléctrica.
+- Infraestructura del edificio.
+
+- Solamente se requiere un espacio de piso de **5 × 3 metros** y conexión eléctrica.
 
 **Dispositivos**
 
-- proyector, pc,touchpad, alargador
+- Proyector, PC, touchpad y alargador.
 
-- spot, navegadores que toman como textura y se puede mapear, obs estudio, pagina web y lo transmite.
+- Spot, navegador web, OBS Studio y página web para la proyección y el mapeo.
 
 **Mobiliario**
 
-- lienzo blanco, atril para la tela, lienzo extendido, tótem
+- Lienzo blanco, atril para la tela, lienzo extendido y tótem.
 
 ---
 
