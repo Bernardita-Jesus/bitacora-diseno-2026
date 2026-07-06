@@ -55,6 +55,7 @@ Realizamos una búsqueda manual de publicaciones, filtramos las imágenes que co
 **Variables a analizar**
 
 - Período: Estallido social / Pandemia.
+
 -Temática: Política, Salud, Humor, Economía, Espiritualidad, cultura y educación.
 
 - la clasificación de las fotos dentro de estas imágenes fue hecha con inteligencia artificial, sólo enviándole los textos (filtrado más adelante) esto con motivo de no tener sesgos propios al momento de categorizar cada fotografía.
