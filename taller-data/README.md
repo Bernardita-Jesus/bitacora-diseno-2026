@@ -90,7 +90,25 @@ Además, los poetas contemporáneos a menudo exploran temas personales y sociale
 
 ###  AFINAR
 
-- planos
+### Montaje y elementos
+
+**Infraestructura del edificio**
+
+- Solamente se requiere un espacio de piso de 5 × 3 metros y conexión eléctrica.
+
+**Dispositivos**
+
+- Proyector, PC, touchpad y alargador.
+
+- Spot, navegador web, OBS Studio y página web para la proyección y el mapeo.
+
+**Mobiliario**
+
+- Lienzo blanco, atril para la tela, lienzo extendido y tótem.
+
+<img width="3978" height="2304" alt="bernartditaBraulioAzul" src="https://github.com/user-attachments/assets/794235f4-894d-492c-ad0d-02afc8e2b53f" />
+
+<img width="1326" height="768" alt="plano" src="https://github.com/user-attachments/assets/014be47f-10a5-48c4-a494-a0ae26e63a2a" />
 
 ### INTERACTUAR
 
@@ -122,22 +140,6 @@ flowchart LR
 
     D@{ shape: diam}
 ```
-
-### Montaje y elementos
-
-**Infraestructura del edificio**
-
-- Solamente se requiere un espacio de piso de 5 × 3 metros y conexión eléctrica.
-
-**Dispositivos**
-
-- Proyector, PC, touchpad y alargador.
-
-- Spot, navegador web, OBS Studio y página web para la proyección y el mapeo.
-
-**Mobiliario**
-
-- Lienzo blanco, atril para la tela, lienzo extendido y tótem.
 
 ---
 
