@@ -106,7 +106,7 @@ Además, los poetas contemporáneos a menudo exploran temas personales y sociale
 
 - Lienzo blanco, atril para la tela, lienzo extendido y tótem.
 
-<img width="3978" height="2304" alt="bernartditaBraulioAzul" src="https://github.com/user-attachments/assets/794235f4-894d-492c-ad0d-02afc8e2b53f" />
+<img width="1654" height="951" alt="ChatGPT Image 6 jul 2026, 22_44_10" src="https://github.com/user-attachments/assets/92e04f68-a54c-4be6-8bbc-92b5aecc7866" />
 
 <img width="1326" height="768" alt="plano" src="https://github.com/user-attachments/assets/014be47f-10a5-48c4-a494-a0ae26e63a2a" />
 
