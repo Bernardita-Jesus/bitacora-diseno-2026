@@ -125,9 +125,9 @@ flowchart LR
 
 ### Montaje y elementos
 
-- Infraestructura del edificio.
+**Infraestructura del edificio**
 
-- Solamente se requiere un espacio de piso de **5 × 3 metros** y conexión eléctrica.
+- Solamente se requiere un espacio de piso de 5 × 3 metros y conexión eléctrica.
 
 **Dispositivos**
 
