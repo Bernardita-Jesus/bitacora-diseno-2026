@@ -141,38 +141,25 @@ flowchart LR
 
 ---
 
-manifiesto te interesaria saber cuales son las tematicas mas utilizadas, de donde viene esta palabra, jutilizar la herramienta opara no sesgar el analicis, experiencia, primero manifiesto y luego del poema, formas de la imagen texto de la imagen.
+## Bibliografía
 
-porque estoy respondiendo la pregunta atravez de la interaccion.
+- *Output: An Anthology of Computer-Generated Text, 1953–2023*. MIT Press.
+  [https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953](https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953)
 
-poner abajo el porcentaje de la categoria
+- Alejandra Pizarnik.
 
-justificar que es un poema, que es incoeherente, 
+- *El territorio del viaje*. Daniela Catrileo.
 
-porque estoy respondiendo la pregunta atravez de la interaccion.
+- *Mil noches de Sudamérica*. Alex Anwandter.
 
-busqueda relacionada
+- Alfredo Jaar. Referente artístico y gráfico.
 
-poner en negrita todas las palabras de categoria
+- Kyle McDonald. Artista que trabaja con código. Crea instalaciones interactivas, intervenciones furtivas, sitios web lúdicos, talleres y herramientas para otros artistas que trabajan con programación.
+  [https://kylemcdonald.net/](https://kylemcdonald.net/)
 
+- *Poesía contemporánea*. StudySmarter.
+  [https://www.studysmarter.es/resumenes/antropologia/estudios-hispanicos/poesia-contemporanea/](https://www.studysmarter.es/resumenes/antropologia/estudios-hispanicos/poesia-contemporanea/)
 
-## Referentes
-
-https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953
-
-alejandra pizarnik
-
-El territorio del viaje, Daniela Catrileo
-
-Mil noches de sudamerica, Alex Anwandter
-
-Alfredo Jaar, referente artistico y grafico
-
-Kyle McDonald es un artista que trabaja con código. Crea instalaciones interactivas, intervenciones furtivas, sitios web lúdicos, talleres y kits de herramientas para otros artistas que trabajan con código. <https://kylemcdonald.net/>
-
-https://www.studysmarter.es/resumenes/antropologia/estudios-hispanicos/poesia-contemporanea/
-
-https://esferacomunicacional.ar/los-campos-electromagneticos-de-lo-surrealistas-a-la-escritura-artificial/
-
-
+- *Los campos electromagnéticos: de los surrealistas a la escritura artificial*. Esfera Comunicacional.
+  [https://esferacomunicacional.ar/los-campos-electromagneticos-de-lo-surrealistas-a-la-escritura-artificial/](https://esferacomunicacional.ar/los-campos-electromagneticos-de-lo-surrealistas-a-la-escritura-artificial/)
 
