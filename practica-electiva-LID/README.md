@@ -40,11 +40,11 @@ Registro y documentación de los prototipos desarrollados.
 
 ## Avances por reuniones
 
-**Primera reunión, marzo 2026**
+**- Primera reunión, marzo 2026**
 
 En esta reunión, en conjunto con Yamna, definimos cómo podíamos dividir los enfoques para mejorar el laboratorio y decidimos **catalogarlo en cuatro áreas**. Primero, desarrollo de bibliotecas de libros. Luego, bibliotecas de instrumentos, trabajando con sintetizadores, pedales y guitarras. En tercer lugar, la biblioteca de herramientas como el cautín. Y por último, una cuarta área por definir.
 
-**Segunda reunión, marzo 2026**
+**- Segunda reunión, marzo 2026**
 
 En esta segunda reunión, el miércoles, tuvimos una reunión con Aarón en una oficina para aprovechar de **ordenar los materiales** que se utilizaron para el evento de discusiones contemporáneas que realizó la universidad en Monte Carmelo, ya que algunas cosas pertenecían a Aarón, otras al LID y otras directamente a los profesores que postularon a esos fondos.
 
@@ -52,23 +52,23 @@ Organizamos las cosas de acuerdo a las boletas que se entregaron, armamos unos k
 
 Después de esto, nos pusimos un poco al día y definimos organizar y empezar con el **catálogo biblioteca de los libros en GitHub**.
 
-**Tercera reunión, abril 2026**
+**- Tercera reunión, abril 2026**
 
 Esta fue una reunión que le hice a Aarón; Le pedí tareas para seguir avanzando en la práctica electiva. Llegamos un poco a los mismos supuestos que había analizado de la información que se requería para utilizar instrumentos del laboratorio, que era en lo que más me había enfocado. Me dio datos más específicos que se necesitaban de los sintes, y en paralelo, estuve aprendiendo en profundidad **cómo se utiliza el Subharmonicon**. 
 
 Esto me va a ayudar a tener una visión más general, no solo de qué se puede hacer con estos instrumentos, sino realmente cómo aprender a usarlos, encontrar mi método, encontrar recursos y darle énfasis a lo que encuentro indispensable para involucrarse en el mundo de los sintes. En este caso, buscar y hacer manuales más amenos.
 
-**Cuarta reunión, mayo 2026**
+**- Cuarta reunión, mayo 2026**
 
 En esta reunión repasé nuevamente lo que necesitaba ir recopilando para la investigación sobre los sintetizadores. Finalmente, esto es algo que a mí particularmente me interesa muchísimo seguir desarrollando a nivel de carrera; Me interesa poder **identificar los instrumentos y adquirir lenguaje**.
 
 Debería crear grandes y pequeñas categorías para facilitar la clasificación.
 
-**Quinta reunión, junio 2026**
+**- Quinta reunión, junio 2026**
 
 Tomé muchos más apuntes y comencé a pasarlos en limpio sobre mis aprendizajes con los sintetizadores, una **guía básica de qué son, sus partes y módulos principales**. Pienso que sería una buena idea ir seleccionando cada parte y explicarla de una manera más resumida y concisa.
 
-**Sexta reunión, junio 2026**
+**- Sexta reunión, junio 2026**
 
 Esta reunión fue con la mayoría del equipo para organizar y distribuir las tareas del **Processing Community Day**. Revisamos el montaje de los proyectos, la distribución de las salas con sus respectivos expositores y los materiales necesarios para la jornada.
 
