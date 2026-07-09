@@ -1,20 +1,20 @@
 # Práctica electiva Laboratorio de Interacción
 
-Profesores [Aarón Montoya](https://github.com/montoyamoraga) y Joaquin Gonzales
+Profesores [Aarón Montoya](https://github.com/montoyamoraga) y Joaquín Gonzales
 
 ## Introducción
 
-Bueno, esta práctica electiva es una investigación en pregrado. Ya existen otras prácticas activas en la Universidad Diego Portales, como la del Laboratorio 360, la del laboratorio OTF o la del centro editorial. Ya han tenido estas prácticas.
+Bueno, esta práctica electiva es una **investigación en pregrado**. Ya existen otras prácticas activas en la Universidad Diego Portales, como la del Laboratorio 360, la del laboratorio OTF o la del centro editorial. Ya han tenido estas prácticas.
 
 ¿Primera vez que se hace práctica en el LID? Al parecer no, pero sí hace un tiempo no se realizaba. Es una práctica sin horario definido, ya que no es un curso. Por eso, cada uno tiene sus responsabilidades y tareas. De las responsabilidades nunca se liberan.
 
-El principal enfoque es ayudar a que el LID crezca, a que se haga ver, esto por medio de tres tareas, un desarrollo del espacio del LID, acompañada de una página web y por último, un cierre de semestre con la gestión del evento del Processing Community Day.
+El principal enfoque es **ayudar a que el LID crezca**, a que se haga ver, esto por medio de tres tareas, un desarrollo del **espacio del LID**, acompañada de una **página web** y por último, un cierre de semestre con la gestión del evento del **Processing Community Day**.
 
 ### Espacio LID
 
 [Link espacio LID](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/practica-electiva-LID/espacio-LID)
 
-Ayudar al LID a que crezca y se aproveche para la nueva mención. Podemos conversar y proponer. Hay que mantener el espacio LID como oficina que desarrolla proyectos. Crear bibliotecas y estandarizar los instrumentos, con criterios y sistemas para tener mayor control, mediante manuales e inducciones.
+Ayudar al LID a que crezca y se aproveche para la nueva mención. Podemos conversar y proponer. Hay que mantener el espacio LID como oficina que desarrolla proyectos. Crear **bibliotecas** y estandarizar los instrumentos, con criterios y sistemas para tener mayor control, mediante manuales e inducciones.
 
 ### Página web
 
@@ -40,31 +40,39 @@ Registro y documentación de los prototipos desarrollados.
 
 ## Avances por reuniones
 
-- Primera reunión, marzo 2026
+**Primera reunión, marzo 2026**
 
-En esta reunión, en conjunto con Yamna, definimos cómo podíamos dividir los enfoques para mejorar el laboratorio y decidimos catalogarlo en cuatro áreas. Primero, desarrollo de bibliotecas de libros. Luego, bibliotecas de instrumentos, trabajando con sintetizadores, pedales y guitarras. En tercer lugar, la biblioteca de herramientas como el cautín. Y por último, una cuarta área por definir.
+En esta reunión, en conjunto con Yamna, definimos cómo podíamos dividir los enfoques para mejorar el laboratorio y decidimos **catalogarlo en cuatro áreas**. Primero, desarrollo de bibliotecas de libros. Luego, bibliotecas de instrumentos, trabajando con sintetizadores, pedales y guitarras. En tercer lugar, la biblioteca de herramientas como el cautín. Y por último, una cuarta área por definir.
 
-- Segunda reunión, marzo 2026
+**Segunda reunión, marzo 2026**
 
-En esta segunda reunión, el miércoles, tuvimos una reunión con Aarón en una oficina para aprovechar de ordenar los materiales que se utilizaron para el evento de discusiones contemporáneas que realizó la universidad en Monte Carmelo, ya que algunas cosas pertenecían a Aarón, otras al LID y otras directamente a los profesores que postularon a esos fondos.
+En esta segunda reunión, el miércoles, tuvimos una reunión con Aarón en una oficina para aprovechar de **ordenar los materiales** que se utilizaron para el evento de discusiones contemporáneas que realizó la universidad en Monte Carmelo, ya que algunas cosas pertenecían a Aarón, otras al LID y otras directamente a los profesores que postularon a esos fondos.
 
 Organizamos las cosas de acuerdo a las boletas que se entregaron, armamos unos kit de Raspberry Pi, y muchos pero muchos cables, algunos HDMI de las Raspberry Pi, otros de las pantallas Asus, cables para las pantallas de caracteres, un poco de todo realmente.
 
-Después de esto, nos pusimos un poco al día y definimos organizar y empezar con el catálogo biblioteca de los libros en GitHub.
+Después de esto, nos pusimos un poco al día y definimos organizar y empezar con el **catálogo biblioteca de los libros en GitHub**.
 
-- Tercera reunión, abril 2026
+**Tercera reunión, abril 2026**
 
-Esta fue una reunión que le hice a Aarón; Le pedí tareas para seguir avanzando en la práctica electiva. Llegamos un poco a los mismos supuestos que había analizado de la información que se requería para utilizar instrumentos del laboratorio, que era en lo que más me había enfocado. Me dio datos más específicos que se necesitaban de los sintes, y en paralelo, supongo, estuve aprendiendo en profundidad cómo se utiliza el Subharmonicon. Esto me va a ayudar a tener una visión más general, no solo de qué se puede hacer con estos instrumentos, sino realmente cómo aprender a usarlos, encontrar mi método, encontrar recursos y darle énfasis a lo que encuentro indispensable para involucrarse en el mundo de los sintes. En este caso, buscar y hacer manuales más amenos.
+Esta fue una reunión que le hice a Aarón; Le pedí tareas para seguir avanzando en la práctica electiva. Llegamos un poco a los mismos supuestos que había analizado de la información que se requería para utilizar instrumentos del laboratorio, que era en lo que más me había enfocado. Me dio datos más específicos que se necesitaban de los sintes, y en paralelo, estuve aprendiendo en profundidad **cómo se utiliza el Subharmonicon**. 
 
-- Cuarta reunión, mayo 2026
+Esto me va a ayudar a tener una visión más general, no solo de qué se puede hacer con estos instrumentos, sino realmente cómo aprender a usarlos, encontrar mi método, encontrar recursos y darle énfasis a lo que encuentro indispensable para involucrarse en el mundo de los sintes. En este caso, buscar y hacer manuales más amenos.
 
-En esta reunión repasé nuevamente lo que necesitaba ir recopilando para la investigación sobre los sintetizadores. Finalmente, esto es algo que a mí particularmente me interesa muchísimo seguir desarrollando a nivel de carrera; Me interesa poder identificar los instrumentos y adquirir lenguaje.
+**Cuarta reunión, mayo 2026**
+
+En esta reunión repasé nuevamente lo que necesitaba ir recopilando para la investigación sobre los sintetizadores. Finalmente, esto es algo que a mí particularmente me interesa muchísimo seguir desarrollando a nivel de carrera; Me interesa poder **identificar los instrumentos y adquirir lenguaje**.
 
 Debería crear grandes y pequeñas categorías para facilitar la clasificación.
 
-- Quinta reunión, junio 2026
+**Quinta reunión, junio 2026**
 
-Tomé muchos más apuntes y comencé a pasarlos en limpio sobre mis aprendizajes con los sintetizadores, una guía básica de qué son, sus partes y módulos principales. Pienso que sería una buena idea ir seleccionando cada parte y explicarla de una manera más resumida y concisa.
+Tomé muchos más apuntes y comencé a pasarlos en limpio sobre mis aprendizajes con los sintetizadores, una **guía básica de qué son, sus partes y módulos principales**. Pienso que sería una buena idea ir seleccionando cada parte y explicarla de una manera más resumida y concisa.
+
+**Sexta reunión, junio 2026**
+
+Esta reunión fue con la mayoría del equipo para organizar y distribuir las tareas del **Processing Community Day**. Revisamos el montaje de los proyectos, la distribución de las salas con sus respectivos expositores y los materiales necesarios para la jornada.
+
+Se me solicitó diseñar y fabricar unos **soportes para las láminas** tipo cédula con los nombres de quienes exponían. Además, el día del Processing Community Day debía apoyar a Aaron en la organización general del evento.
 
 ---
 
