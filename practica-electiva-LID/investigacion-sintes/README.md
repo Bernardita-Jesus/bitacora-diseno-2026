@@ -2,17 +2,17 @@
 
 Apuntes en proceso de registro de mi investigación sobre lo que considero necesario comprender y expresar.
 
-Como contexto, provengo de la disciplina del diseño industrial. Los sintetizadores fueron lo que me acercó al mundo del arte sonoro. Esta motivación surgió a raíz de mi curso de Máquinas Electrónicas, donde realizábamos proyectos con circuitos y sensores que producían sonido y como parte de las tareas, investigábamos sobre sintetizadores, su historia, álbumes y artistas.
+Como contexto, **provengo de la disciplina del diseño industrial**. Los sintetizadores fueron lo que me acercó al mundo del arte sonoro. Esta motivación surgió a raíz de mi **curso de Máquinas Electrónicas**, donde realizábamos proyectos con circuitos y sensores que producían sonido y como parte de las tareas, investigábamos sobre sintetizadores, su historia, álbumes y artistas.
 
 Esta pasión llegó en un momento en que necesitaba conectar con algo que me acompañara y me ayudara a entenderme. La adopté como un acto de resistencia, un espacio donde podía crear y escuchar con atención cosas de mí misma.
 
-Estos apuntes nacen desde ese proceso de aprendizaje. No buscan ser un manual técnico exhaustivo, sino registrar aquello que desde mi experiencia, considero necesario comprender para comenzar a utilizar un sintetizador sin sentirse abrumado. Son una recopilación de conceptos, observaciones y formas de aproximarse al instrumento que me han ayudado a entender cómo funciona y a disfrutar el proceso de explorarlo.
+Estos apuntes nacen desde ese proceso de aprendizaje. No buscan ser un manual técnico exhaustivo, sino registrar aquello que desde mi experiencia, considero necesario comprender para **comenzar a utilizar un sintetizador** sin sentirse abrumado. Son una recopilación de conceptos, observaciones y formas de aproximarse al instrumento que me han ayudado a entender cómo funciona y a disfrutar el proceso de explorarlo.
 
 Más que explicar todas las posibilidades del sintetizador, este registro reúne las bases que me permitieron comenzar a utilizarlo.
 
 ## ¿Qué es un sintetizador?
 
-Un sintetizador es un instrumento electrónico que genera, procesa y modifica señales eléctricas a través de distintos módulos para convertirlas en sonido. Cada módulo cumple una función específica, algunos generan el sonido, otros lo modifican, otros controlan su volumen o hacen que cambie con el tiempo. Al combinar estos módulos es posible obtener una enorme variedad de resultados sonoros.
+Un sintetizador es un **instrumento electrónico que genera, procesa y modifica señales eléctricas** a través de distintos módulos para convertirlas en sonido. Cada módulo cumple una función específica, algunos generan el sonido, otros lo modifican, otros controlan su volumen o hacen que cambie con el tiempo. Al combinar estos módulos es posible obtener una enorme variedad de resultados sonoros.
 
 Primero que nada, me parece sensato expresar que los sintetizadores tienen muchísimas funciones. Puede llegar a ser agobiante comprender la profundidad de su funcionamiento, pero no es necesario entenderlo todo para disfrutar y jugar con un sinte. Gran parte del aprendizaje consiste en mover perillas, escuchar qué cambia y comenzar a relacionar cada control con el resultado que produce.
 
@@ -20,11 +20,11 @@ Primero que nada, me parece sensato expresar que los sintetizadores tienen much�
 
 ### Rutas de conexión
 
-Los sintetizadores son máquinas que modifican señales, en un comienzo, todos eran modulares. Esto quiere decir que las funciones con las que podían alterar estas señales, como el oscilador, el filtro o el secuenciador, existían en módulos independientes que debían conectarse mediante cables.
+Los sintetizadores son máquinas que modifican señales, en un comienzo, todos eran **modulares**. Esto quiere decir que las funciones con las que podían alterar estas señales, como el oscilador, el filtro o el secuenciador, existían en módulos independientes que debían conectarse mediante cables.
 
-Esto permite personalización y control de cada componente, creando rutas de señal. Actualmente, estas conexiones también pueden estar preestablecidas, como ocurre en los sintetizadores de arquitectura fija, que cuentan con un cableado integrado.
+Esto permite personalización y control de cada componente, creando rutas de señal. Actualmente, estas conexiones también pueden estar preestablecidas, como ocurre en los sintetizadores de **arquitectura fija**, que cuentan con un cableado integrado.
 
-Por último, también existen los sintetizadores semimodulares, que poseen rutas de conexión preestablecidas e integradas, pero además incluyen un patch panel, que es un panel de conexiones que permite utilizar cables para modificar estas rutas y crear diversos resultados.
+Por último, también existen los sintetizadores **semimodulares**, que poseen rutas de conexión preestablecidas e integradas, pero además incluyen un patch panel, que es un panel de conexiones que permite utilizar cables para modificar estas rutas y crear diversos resultados.
 
 Entonces, como mencioné, existen tres tipos principales: los modulares, los de arquitectura fija (o tradicionales) y los semimodulares.
 
@@ -32,7 +32,7 @@ Entonces, como mencioné, existen tres tipos principales: los modulares, los de 
 
 Tenemos lo que son las **señales analógicas** y las **señales digitales**, entendiendo las señales como información que se traslada.
 
-Las señales analógicas varían de manera continua y pueden tomar infinitos valores dentro de un rango. En cambio, las señales digitales están compuestas por valores definidos, representados mediante números, por lo que la información se almacena y procesa en pasos específicos.
+Las señales analógicas **varían de manera continua y pueden tomar infinitos valores** dentro de un rango. En cambio, las señales digitales están compuestas por **valores definidos**, representados mediante números, por lo que la información se almacena y procesa en pasos específicos.
 
 A partir de esta diferencia, un sintetizador analógico genera y procesa el sonido mediante circuitos electrónicos que trabajan con señales continuas. Por otro lado, un sintetizador digital genera y procesa el sonido mediante cálculos realizados por un procesador, representando la señal como información digital.
 
@@ -40,9 +40,9 @@ A partir de esta diferencia, un sintetizador analógico genera y procesa el soni
 
 Los sintetizadores pueden clasificarse como **monofónicos** o **polifónicos** según la cantidad de notas que pueden reproducir al mismo tiempo.
 
-Un sintetizador monofónico solo puede emitir una nota a la vez. Aunque puede generar sonidos complejos mediante múltiples osciladores, todas las frecuencias se organizan en torno a una única nota.
+Un sintetizador monofónico **solo puede emitir una nota a la vez**. Aunque puede generar sonidos complejos mediante múltiples osciladores, todas las frecuencias se organizan en torno a una única nota.
 
-Por otro lado, un sintetizador polifónico puede reproducir varias notas simultáneamente, permitiendo tocar acordes y armonías complejas. Para esto, tiene múltiples voces, cada una capaz de generar y procesar una nota de manera independiente.
+Por otro lado, un sintetizador polifónico puede **reproducir varias notas simultáneamente**, permitiendo tocar acordes y armonías complejas. Para esto, tiene múltiples voces, cada una capaz de generar y procesar una nota de manera independiente.
 
 La diferencia principal entre ambos es la cantidad de notas que pueden sonar al mismo tiempo.
 
@@ -102,9 +102,9 @@ Ahora, en el primer semestre de 2026, junto con la **práctica electiva**, pedí
 
 ### Encendido y amplificación del sonido
 
-El Subharmonicon funciona con una alimentación de 12 V. En Chile la red eléctrica doméstica entrega 220-240 V, por lo que es necesario utilizar su fuente de poder, la cual transforma el voltaje de la red en 12 V para alimentar el sintetizador. La fuente acepta una entrada de 100-240 V, por lo que puede utilizarse en Chile sin problemas y únicamente requiere el adaptador de enchufe correspondiente, si fuese necesario.
+El Subharmonicon funciona con una **alimentación de 12 V**. En Chile la **red eléctrica doméstica entrega 220-240 V**, por lo que es necesario utilizar su fuente de poder, la cual transforma el voltaje de la red en 12 V para alimentar el sintetizador. La fuente acepta una entrada de 100-240 V, por lo que puede utilizarse en Chile sin problemas y únicamente requiere el adaptador de enchufe correspondiente, si fuese necesario.
 
-En el laboratorio existen varias fuentes de poder para los sintetizadores Moog, las cuales entregan una salida de 12 V. También se encuentra el transformador chocolate, una fuente de alimentación regulable que permite seleccionar distintos voltajes de salida para alimentar diversos dispositivos electrónicos.
+En el laboratorio existen varias fuentes de poder para los sintetizadores Moog, las cuales entregan una salida de 12 V. También se encuentra el transformador Ciokolate, una fuente de alimentación regulable que permite seleccionar distintos voltajes de salida para alimentar diversos dispositivos electrónicos.
 
 El Subharmonicon, y en general los sintetizadores semimodulares de Moog, no tienen un botón de encendido y apagado. Una vez que se conecta correctamente a su fuente de poder, el sintetizador se enciende automáticamente y los botones se iluminan con luces rojas, indicando que está funcionando. El botón Play no enciende el sintetizador, solo inicia o detiene el secuenciador interno.
 
