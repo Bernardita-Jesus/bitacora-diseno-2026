@@ -12,8 +12,6 @@ El principal enfoque es **ayudar a que el LID crezca**, a que se haga ver, esto 
 
 ![foto](./recursos/practica01.jpeg)
 
-![foto](./recursos/practica02.jpeg)
-
 ### Espacio LID
 
 [Link espacio LID](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/practica-electiva-LID/espacio-LID)
@@ -33,6 +31,8 @@ A fines de junio, 27 aprox, se va a hacer el evento [Processing Community Day](h
 Una serie de proyectos reconocidos con diferentes categorías a destacar, diseñar proceso curatorial y cómo exhibir las cosas. Gestión, cómo postular a fondos, pedir plata. Concursos, cómo convocar sin sesgos, lenguaje que atraiga y no decepcione. Glosa, justificación de presupuesto, una categoría de fondos para algo.
 
 Se va a necesitar apoyo de alguien académico, privado y público y agrupaciones de personas (sociedad civil). Relacionatriz.
+
+![foto](./recursos/practica02.jpeg)
 
 ### Muestreos
 
