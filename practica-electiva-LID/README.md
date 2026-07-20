@@ -10,9 +10,9 @@ Bueno, esta práctica electiva es una **investigación en pregrado**. Ya existen
 
 El principal enfoque es **ayudar a que el LID crezca**, a que se haga ver, esto por medio de tres tareas, un desarrollo del **espacio del LID**, acompañada de una **página web** y por último, un cierre de semestre con la gestión del evento del **Processing Community Day**.
 
-![foto](./../recursos/practica01.jpeg)
+![foto](./recursos/practica01.jpeg)
 
-![foto](./../recursos/practica02.jpeg)
+![foto](./recursos/practica02.jpeg)
 
 ### Espacio LID
 
