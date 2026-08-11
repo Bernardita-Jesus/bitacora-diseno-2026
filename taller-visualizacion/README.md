@@ -2,7 +2,7 @@
 
 Sergio Mora-Días
 
-Guillermo Montecinos
+[Guillermo Montecinos](https://github.com/guillemontecinos)
 
 Martín Oguera
 
