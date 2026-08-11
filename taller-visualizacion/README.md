@@ -8,9 +8,9 @@ Martín Oguera
 
 [Escuela de Computación Poética](https://proyectoidis.org/escuela-de-computacion-poetica-de-nueva-york/)
 
-escuela de arte de nueva york
+[escuela de arte de nueva york](https://nyaa.edu/)
 
-local variable estudio
+[Local Variable Studio](https://www.localvariablestudio.com/)
 
 [Aarón Montoya](https://github.com/montoyamoraga)
 
