@@ -1,5 +1,7 @@
 # Taller visualización interactiva
 
+## Introducción
+
 **Docentes:**
 
 [Sergio Mora-Días](https://ciluz.cl/speaker/sergio-mora-diaz/)
