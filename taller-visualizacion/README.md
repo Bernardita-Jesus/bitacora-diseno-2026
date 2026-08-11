@@ -20,23 +20,24 @@ Martín Oguera
 
 [Pedro Pedraza](https://doctorado.fadeu.uc.cl/pedro-pedraza/)
 
-## que es un dato
+## ### ¿Qué es un dato?
 
-registro de algo ocurrido, esta ocurriendo o podria ocurrir
+Un dato es un **registro de algo que ocurrió, está ocurriendo o podría ocurrir**.
 
-que y como narramos atraves de los datos, como comunicamos
+¿Qué y cómo narramos a través de los datos? ¿Cómo comunicamos?
 
-como numero, palabra, imagen, sonido, posicion, movimiento, temperatura, fecha, decicion, interacion
+Un dato puede ser un número, una palabra, una imagen, un sonido, una posición, un movimiento, una temperatura, una fecha, una decisión o una interacción.
 
-dicen que solemos asociar los datos a numeros, pero yo creo que es lo que hemos combertido con la electronica, convertimos todo en numeros y lo sabemos, a mi, instintivamente tiendo a pensar en transformar esos datos en numeros
+Solemos asociar los datos a números, pero creo que esto tiene que ver con lo que hemos hecho a través de la electrónica: **convertimos todo en números y lo sabemos**. A mí, instintivamente, me cuesta no pensar en los datos como algo que debe transformarse en números.
 
-hay que trasformalos en experiencias, ojala significativas, de educacion, enseñansa(?
+Pero quizás el desafío está en **transformar los datos en experiencias**, ojalá experiencias significativas, que permitan educar, enseñar o generar algún tipo de reflexión.
 
-hacer esto interactivo, participar, envolvente, o incluso transformarnos en un dato mas, no solo como un observador
+Hacer que esto sea interactivo, participativo y envolvente; incluso, que nosotros mismos podamos transformarnos en un dato más y no ser solamente observadores.
 
-yo creo que esa diferencia debe existir, cuando algo te envuelve, te hace entender, te muestra algo, o cuando tienen una verdadera implicancia en los datos.
+Creo que esa diferencia debe existir: entre algo que simplemente observamos y algo que nos **envuelve, nos hace comprender, nos muestra algo o tiene una verdadera implicancia sobre los datos**.
 
-registrar, procesar, visualizar
+**Registrar, Procesar, Visualizar**
+
 
 **Registrar**
 
