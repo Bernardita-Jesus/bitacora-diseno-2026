@@ -12,7 +12,7 @@ escuela de arte de nueva york
 
 local variable estudio
 
-{Aarón Montoya](https://github.com/montoyamoraga)
+[Aarón Montoya](https://github.com/montoyamoraga)
 
 [Pedro Pedraza](https://doctorado.fadeu.uc.cl/pedro-pedraza/)
 
