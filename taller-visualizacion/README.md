@@ -39,3 +39,23 @@ registrar, procesar, visualizar
 **Procesar**
 
 **Visualizar**
+
+## proceso en tres escalas
+
+### escala 01 yo
+
+datos
+
+individual
+
+### escala 02 nosotros
+
+sistemas
+
+colectivo
+
+### escala 03 los otros
+
+experiencias
+
+publico y relacional
