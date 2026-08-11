@@ -96,7 +96,7 @@ por la otra la explicación
 
 - cuantas canciones me recuerdan a ti
 
-** ideas de registro grafico**
+**ideas de registro grafico**
 
 - dibujos de ramas, las ramas con las veces, las hojas algo desde la rabia, las flores el sentir desde la dulzura.
 
