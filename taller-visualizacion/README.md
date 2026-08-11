@@ -1,10 +1,14 @@
 # Taller visualización interactiva
 
+**Docentes:**
+
 [Sergio Mora-Días](https://ciluz.cl/speaker/sergio-mora-diaz/)
 
 [Guillermo Montecinos](https://github.com/guillemontecinos)
 
 Martín Oguera
+
+**Referentes y contexto**
 
 [Escuela de Computación Poética](https://proyectoidis.org/escuela-de-computacion-poetica-de-nueva-york/)
 
