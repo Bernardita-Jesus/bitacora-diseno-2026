@@ -1,6 +1,6 @@
 # Taller visualización interactiva
 
-Sergio Mora-Días
+[Sergio Mora-Días](https://ciluz.cl/speaker/sergio-mora-diaz/)
 
 [Guillermo Montecinos](https://github.com/guillemontecinos)
 
@@ -25,6 +25,8 @@ que y como narramos atraves de los datos, como comunicamos
 como numero, palabra, imagen, sonido, posicion, movimiento, temperatura, fecha, decicion, interacion
 
 dicen que solemos asociar los datos a numeros, pero yo creo que es lo que hemos combertido con la electronica, convertimos todo en numeros y lo sabemos, a mi, instintivamente tiendo a pensar en transformar esos datos en numeros
+
+registrar, procesar, visualizar
 
 hay que trasformalos en experiencias, ojala significativas, de educacion, enseñansa(?
 
