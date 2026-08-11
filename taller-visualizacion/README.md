@@ -26,10 +26,16 @@ como numero, palabra, imagen, sonido, posicion, movimiento, temperatura, fecha, 
 
 dicen que solemos asociar los datos a numeros, pero yo creo que es lo que hemos combertido con la electronica, convertimos todo en numeros y lo sabemos, a mi, instintivamente tiendo a pensar en transformar esos datos en numeros
 
-registrar, procesar, visualizar
-
 hay que trasformalos en experiencias, ojala significativas, de educacion, enseñansa(?
 
 hacer esto interactivo, participar, envolvente, o incluso transformarnos en un dato mas, no solo como un observador
 
 yo creo que esa diferencia debe existir, cuando algo te envuelve, te hace entender, te muestra algo, o cuando tienen una verdadera implicancia en los datos.
+
+registrar, procesar, visualizar
+
+**Registrar**
+
+**Procesar**
+
+**Visualizar**
