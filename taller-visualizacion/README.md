@@ -1,4 +1,4 @@
-# Taller visualización interactiva
+# Taller Visualización Interactiva
 
 ## Introducción
 
