@@ -20,7 +20,7 @@ Martín Oguera
 
 [Pedro Pedraza](https://doctorado.fadeu.uc.cl/pedro-pedraza/)
 
-## ### ¿Qué es un dato?
+## ¿Qué es un dato?
 
 Un dato es un **registro de algo que ocurrió, está ocurriendo o podría ocurrir**.
 
