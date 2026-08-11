@@ -16,4 +16,8 @@ local variable estudio
 
 [Pedro Pedraza](https://doctorado.fadeu.uc.cl/pedro-pedraza/)
 
+## que es un dato
+
+registro de algo ocurrido, esta ocurriendo o podria ocurrir
+
 que y como narramos atraves de los datos, como comunicamos
