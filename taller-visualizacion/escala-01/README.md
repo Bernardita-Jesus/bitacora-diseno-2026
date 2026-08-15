@@ -56,7 +56,9 @@ En la siguiente imagen se puede ver la primera entrega que mencioné anteriormen
 
 ### Propuestas de nuevas variables
 
-Tal vez, como manera de registro, debería anotar; surge esta pulsión o **impulso por escribir**, despierta una sensibilidad en mí, busco conectar palabras, encausarlas, ordenarlas, complejizarlas; entonces **me percato de este accionar y lo registro**. Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
+Tal vez, como manera de registro, debería tomar en cuenta cuando surge esta pulsión o **impulso por escribir**, despierta una sensibilidad en mí, y entonces busco conectar palabras, ordenarlas o narrarlas; entonces **me percato de este accionar y lo registro**. 
+
+Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
 
 De ser al revés, me parecería agobiante; estaría registrando hora a hora, como anteriormente lo realicé, si surge algún impulso por escribir en mí, o peor aún, hora a hora estar registrando cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
 
