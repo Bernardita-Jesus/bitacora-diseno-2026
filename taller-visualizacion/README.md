@@ -54,27 +54,12 @@ tomamos los datos registrados, acumulamos el material, miramos nuestros datos pa
 
 transformar los hallazgos en una visualizacion que muestre, comunique lo descubierto
 
-## organización del semestre
+## Organización del semestre
 
-proceso en tres escalas
-
-### escala 01 yo
-
-datos
-
-individual
-
-### escala 02 nosotros
-
-sistemas
-
-colectivo
-
-### escala 03 los otros
-
-experiencias
-
-publico y relacional
+| Escala 01 - Yo | Escala 02 - Nosotros | Escala 03 - Los otros |
+|----------------|----------------------|-----------------------|
+| Datos          | Sistemas             | Experiencias          |
+| Individual     | Colectivo            | Público y relacional  |
 
 ## registrar
 
