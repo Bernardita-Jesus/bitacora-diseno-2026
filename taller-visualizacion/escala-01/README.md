@@ -63,3 +63,5 @@ flowchart LR
 ```
 
 ### Primera entrega
+
+![](recursos/postal-01.jpeg)
