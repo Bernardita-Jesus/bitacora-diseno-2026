@@ -44,9 +44,9 @@ Yo sé que es un medio de resistencia para mí, y que definitivamente, en moment
 
 - Menos figurativamente, podría utilizar los colores o incluso la opacidad para representar mi sentir.
 
-En la siguiente foto realicé los primeros doodles y bocetos, imaginando cómo podría representar estos datos recopilados del día jueves.
+En la siguiente foto realicé los primeros doodles y bocetos, imaginando cómo podría representar estos datos recopilados.
 
-agregar foto bitácora*
+![foto bitácora](recursos/bitacora-01.jpeg)
 
 ## Primera postal
 
@@ -61,6 +61,8 @@ Tal vez, como manera de registro, debería tomar en cuenta cuando surge esta pul
 Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
 
 De ser al revés, me parecería agobiante; estaría registrando hora a hora, como anteriormente lo realicé, si surge algún impulso por escribir en mí, o peor aún, hora a hora estar registrando cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
+
+![foto bitácora](recursos/bitacora-02.jpeg)
 
 Por tanto, **esta es la estrategia que usaré**:
 
