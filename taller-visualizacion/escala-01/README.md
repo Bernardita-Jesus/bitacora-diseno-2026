@@ -35,3 +35,30 @@ De ser al revés, me parecería agobiante; estaría registrando hora a hora, com
 Por tanto, está en la estrategia que usaré:
 
 
+```mermaid
+---
+config:
+  theme: default
+  look: classic
+  layout: dagre
+---
+flowchart LR
+    C["Comienzo a conectar palabras,<br>encauzarlas, ordenarlas y complejizarlas"] --> D["Me percato de                este accionar"]
+    D --> E["Registro la hora y el momento en que surge"]
+    E --> F["Anoto las variables presentes en ese momento"]
+    F --> G["¿Cómo me siento?"] & H["¿Dónde estoy?"] & I["¿Qué está ocurriendo?"]
+    G --> K["Registro de datos"]
+    H --> K
+    I --> K
+    K --> L(("Encontrar patrones"))
+    A(("Surge un impulso por escribir")) --> C
+
+    C@{ shape: rounded}
+    D@{ shape: rounded}
+    E@{ shape: rounded}
+    F@{ shape: diam}
+    G@{ shape: rounded}
+    H@{ shape: rounded}
+    I@{ shape: rounded}
+    K@{ shape: rounded}
+```
