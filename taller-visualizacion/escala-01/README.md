@@ -32,8 +32,9 @@ y por tanto, me quede con mi segunda idea de la que estaba dilucidando, que era 
 
 Me gustaria mas que nada registrarlo; porque por su puesto que tengo mis suposiciones, que mas adelante obviare.
 
+me gusta por sobre todo esta inquietud, ya que este ultimo tiempo me he dejado fascinar por diferentes medios de registro como la fotografía, los video montajes, las grabaciones de campo, la escritura, me he impregnado de estas practicas artísticas que en definitiva se convirtieron en un medio de supervivencia. y la poesía, que mas que una ñoñería, por complejizar el lenguaje, además de eso, te permite crear obras sumamente personales, narrativas que llevas de referencias y interpretaciones y simbologia.
 
-
+yo se que es un medio de resistencia para mi, y que definitivamente en momentos emocionales intensos, escribir es una manera de resolver una inquietud, conversar con tus ideas, pero me reúso a solo pensar que deviene de una inestabilidad; quiero buscar esos elementos que despiertan la sensibilidad en mi.
 
 
 
