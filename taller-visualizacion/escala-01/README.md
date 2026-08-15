@@ -32,7 +32,7 @@ Tal vez, como manera de registro, debería anotar: surge esta pulsión o **impul
 
 De ser al revés, me parecería agobiante; estaría registrando hora a hora, como anteriormente lo intenté, si surge algo en mí, y peor aún, hora a hora cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
 
-Por tanto, **está en la estrategia que usaré**:
+Por tanto, **está es la estrategia que usaré**:
 
 ```mermaid
 ---
