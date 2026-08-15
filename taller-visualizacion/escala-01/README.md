@@ -8,27 +8,59 @@ Tenemos que registrar datos de algún **tema o conflicto de interés de nuestra 
 
 Es como una suerte de ejercicio de **autoobservación activa**.
 
-### Ideas de registro
+## Encargo 01
 
-- Cuánta influencia tuvo el invierno en mí.
+primero hice un listado en la misma clase de que temas podria llegar a ser de mi interes o se podrian profundizar con supuestas variables.
 
-- Cuánto pensé en la estación del año.
+**Propuestas de temas que registrar:**
 
-- Cuánto pensé en ti.
+- Cuánta influencia tuvo el invierno en mí, como cambia mi manera de relacionarme.
 
-- **por qué escribo poemas**.
+- Cuánto pensé en la estación del año o con cuantas manifestaciones del invierno me encontre.
+
+- **por qué escribo poemas que me despierta esa accion**.
 
 - Cuántas canciones me recuerdan a ti.
 
-### Ideas de comunicación gráfica
+- y respecto a lo anterior, que canciones salto y por que.
+
+dentro de las que me llamaba la atención, sin hacer un proyecto ultra personal o intimo, me quede entre estas dos opciones; 
+
+primero me interezaba registrar cuantas canciones salto, y cuantas escucho, un poco por esta dinámica en la que he estado entrando en donde muchas canciones me agobian, me remontan y realmente no las elimino, pero si las salto, practicamente entre dies canciones debo saltar unas seis. ahora, si bien es un tema interezante, el registro de esto impricacia crakearme de alguna manera que por el momento desconozco, asi que esta idea la deseche por terminos practicos.
+
+y por tanto, me quede con mi segunda idea de la que estaba dilucidando, que era por qué escribo poemas que me despierta esa accion, tal vez pueden ser las horas, mi estado del animo, ruidos, colores, pero de alguna parte surge este impulso por escribir o narrar, buscar conectar palabras, encausarlas, ordenarlas, complejizarlas; surge de algun detonante.
+
+Me gustaria mas que nada registrarlo; porque por su puesto que tengo mis suposiciones, que mas adelante obviare.
+
+
+
+
+
+
+
+
+
+
+
+### Propuestas de comunicación gráfica
 
 - Dibujos de ramas; las ramas con las veces, las hojas o flores podrían representar un sentir.
 
 - Menos figurativamente, podría utilizar los **colores o incluso la opacidad** para representar mi sentir.
 
- ### Posibles variables
+agregar fotos 
 
-Tal vez, como manera de registro, debería anotar: surge esta pulsión o **impulso por escribir**, despierta una sensibilidad en mí, busco conectar palabras, encausarlas, ordenarlas, complejizarlas; entonces **me percato de este accionar y lo registro**. Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
+en la siguiente foto realice los primeros duruls y bocetos, imaginando como podría representar estos datos recopilados del
+
+## primera postal
+
+en la siguiente imagen se pueden ser la primera entrega que mencioné anteriormente, este fue el resultado despues de cuatro iteraciones de formas de visualizar los datos recomilados a lo largo 
+
+![foto postal](recursos/postal-01.jpeg)
+
+### Propuestas de nuevas variables
+
+Tal vez, como manera de registro, debería anotar; surge esta pulsión o **impulso por escribir**, despierta una sensibilidad en mí, busco conectar palabras, encausarlas, ordenarlas, complejizarlas; entonces **me percato de este accionar y lo registro**. Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
 
 De ser al revés, me parecería agobiante; estaría registrando hora a hora, como anteriormente lo intenté, si surge algo en mí, y peor aún, hora a hora cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
 
@@ -62,6 +94,3 @@ flowchart LR
     K@{ shape: rounded}
 ```
 
-### Primera entrega
-
-![](recursos/postal-01.jpeg)
