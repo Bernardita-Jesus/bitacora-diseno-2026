@@ -52,6 +52,10 @@ En la siguiente foto realicé los primeros **doodles y bocetos**, imaginando có
 
 ## Primera postal
 
+Si mi día se redistribuyera de manera horizontal, de **izquierda a derecha pasan las horas; cada rama surge como respuesta a un impulso por escribir o narrar**.
+
+La profundidad del trazo significa la complejidad y el conflicto de la idea, reforzado por la opacidad. Cuando me refiero a complejidad, aparentemente es justo eso lo que quiero describir; una idea difícil que me pesa. Por esto me parecía bonito utilizar un material expresivo como la acuarela.
+
 En la siguiente imagen se puede ver la **primera entrega** que mencioné anteriormente. Este fue el resultado después de cuatro iteraciones de formas de visualizar los datos recopilados.
 
 ![foto postal](recursos/postal-01.jpeg)
