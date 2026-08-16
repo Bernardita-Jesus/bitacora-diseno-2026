@@ -62,7 +62,7 @@ Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me 
 
 De ser al revés, me parecería agobiante; estaría registrando hora a hora, si surge algún impulso por escribir, como anteriormente lo realicé, esto se puede evidenciar en la siguiente foto de mi bitácora.
 
-O peor aún, hora a hora estar registrando cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
+O peor aún, estar registrando hora a hora cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
 
 ![foto bitácora](recursos/bitacora-02.jpeg)
 
