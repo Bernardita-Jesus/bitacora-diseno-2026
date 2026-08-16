@@ -48,6 +48,8 @@ En la siguiente foto realicé los primeros **doodles y bocetos**, imaginando có
 
 ![foto bitácora](recursos/bitacora-01.jpeg)
 
+En la siguiente foto se pueden ver las primeras cuatro iteraciones de cómo podrían visualizarse mis datos en formato postal.
+
 ![foto postal](recursos/postal-02.jpeg)
 
 ## Primera postal
