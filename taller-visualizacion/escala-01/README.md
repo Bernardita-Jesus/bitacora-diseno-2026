@@ -60,7 +60,9 @@ Tal vez, como manera de registro, debería tomar en cuenta cuando surge esta pul
 
 Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
 
-De ser al revés, me parecería agobiante; estaría registrando hora a hora, como anteriormente lo realicé, si surge algún impulso por escribir en mí, o peor aún, hora a hora estar registrando cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
+De ser al revés, me parecería agobiante; estaría registrando hora a hora, si surge algún impulso por escribir, como anteriormente lo realicé, esto se puede evidenciar en la siguiente foto de mi bitácora.
+
+O peor aún, hora a hora estar registrando cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
 
 ![foto bitácora](recursos/bitacora-02.jpeg)
 
