@@ -48,6 +48,8 @@ En la siguiente foto realicé los primeros **doodles y bocetos**, imaginando có
 
 ![foto bitácora](recursos/bitacora-01.jpeg)
 
+![foto postal](recursos/postal-02.jpeg)
+
 ## Primera postal
 
 Si mi día se redistribuyera de manera horizontal, de **izquierda a derecha pasan las horas; cada rama surge como respuesta a un impulso por escribir o narrar**.
