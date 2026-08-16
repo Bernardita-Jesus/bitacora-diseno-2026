@@ -36,6 +36,8 @@ Me gusta, por sobre todo, esta inquietud, ya que este último tiempo me he dejad
 
 Y la poesía, que más que una ñoñería por complejizar el lenguaje, o más bien, además de eso, te permite crear obras sumamente personales, narrativas llenas de referencias, interpretaciones y simbologías.
 
+[Adjunto un link a mi repositorio de poemas.](https://github.com/Bernardita-Jesus/poemas-2026)
+
 Yo sé que es un medio de **resistencia para mí**, y que definitivamente, en momentos emocionales intensos, escribir es una manera de resolver una inquietud, conversar con tus ideas, pero me rehúso a solo pensar que deviene de una inestabilidad; quiero **buscar esos elementos que despiertan la sensibilidad en mí**.
 
 ### Propuestas de comunicación gráfica
