@@ -8,9 +8,9 @@ Tenemos que registrar datos de algún **tema o conflicto de interés de nuestra 
 
 Es como una suerte de ejercicio de **autoobservación activa**.
 
-Primero hice un listado, en la misma clase, de qué temas podrían llegar a ser de mi interés o se podrían profundizar con supuestas variables.
-
 ### Propuestas de temas que registrar
+
+Primero hice un listado, en la misma clase, de qué temas podrían llegar a ser de mi interés o se podrían profundizar con supuestas variables.
 
 - Cuánta **influencia tuvo el invierno** en mí, cómo cambia mi manera de relacionarme.
 
