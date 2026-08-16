@@ -1,6 +1,6 @@
 # Escala 01
 
-## Registrar
+## Encargo 01
 
 Encargo inspirado en el libro **Dear Data**. Vamos a hacer una lámina de 10 × 15 cm, a modo de postal, en donde por una cara esté la visualización y por la otra, la explicación.
 
@@ -8,11 +8,9 @@ Tenemos que registrar datos de algún **tema o conflicto de interés de nuestra 
 
 Es como una suerte de ejercicio de **autoobservación activa**.
 
-## Encargo 01
-
 Primero hice un listado, en la misma clase, de qué temas podrían llegar a ser de mi interés o se podrían profundizar con supuestas variables.
 
-**Propuestas de temas que registrar:**
+### Propuestas de temas que registrar
 
 - Cuánta **influencia tuvo el invierno** en mí, cómo cambia mi manera de relacionarme.
 
