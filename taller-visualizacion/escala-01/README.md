@@ -85,9 +85,9 @@ config:
 ---
 flowchart LR
     C["Comienzo a conectar palabras,<br>encauzarlas, ordenarlas y complejizarlas"] --> D["Me percato de                este accionar"]
-    D --> E["Registro la hora y el momento en que surge"]
+    D --> E["Registro la hora en el momento en que surge"]
     E --> F["Anoto las variables presentes en ese momento"]
-    F --> G["¿Cómo me siento?"] & H["¿Dónde estoy?"] & I["¿Qué está ocurriendo?"]
+    F --> G["¿Cómo me siento?"] & H["¿Dónde estoy?"] & I["¿Qué está ocurriendo a mi alrredor?"]
     G --> K["Registro de datos"]
     H --> K
     I --> K
