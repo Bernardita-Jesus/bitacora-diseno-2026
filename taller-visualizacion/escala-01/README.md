@@ -85,18 +85,16 @@ config:
 ---
 flowchart LR
     C["Comienzo a conectar palabras,<br>encauzarlas, ordenarlas y complejizarlas"] --> D["Me percato de                este accionar"]
-    D --> E["Registro la hora en el momento en que surge"]
-    E --> F["Anoto las variables presentes en ese momento"]
-    F --> G["¿Cómo me siento?"] & H["¿Dónde estoy?"] & I["¿Qué está ocurriendo a mi alrredor?"]
+    F["Anoto las variables presentes en ese momento"] --> G["Que hora el"] & H["Como me siento"] & I["Escribí o no"]
     G --> K["Registro de datos"]
     H --> K
     I --> K
     K --> L(("Encontrar patrones"))
     A(("Surge un impulso por escribir")) --> C
+    D --> F
 
     C@{ shape: rounded}
     D@{ shape: rounded}
-    E@{ shape: rounded}
     F@{ shape: diam}
     G@{ shape: rounded}
     H@{ shape: rounded}
