@@ -120,7 +120,7 @@ De **izquierda a derecha se despliegan las horas del día**, de donde surgen las
 
 ## Corrección segunda postal
 
-[Guillermo](https://github.com/guillemontecinos) me manifestó, como no perder la visualidad, la riqueza material de la acuarela con las reglas del sistema.
+[Guillermo](https://github.com/guillemontecinos) me manifestó, que intentara no perder la visualidad, la riqueza material de la acuarela con las reglas del sistema.
 
 ### Información en las ramas
 
