@@ -102,3 +102,8 @@ flowchart LR
     K@{ shape: rounded}
 ```
 
+### Nuevas variables
+
+## Segunda postal
+
+![](./imagenes/postal.03.jpeg)
