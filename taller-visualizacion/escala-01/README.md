@@ -62,7 +62,7 @@ En la siguiente imagen se puede ver la **primera entrega** que mencioné anterio
 
 ![foto postal](recursos/postal-01.jpeg)
 
-### Propuestas de nuevas variables
+### Estrategia de registro
 
 Tal vez, como manera de registro, debería tomar en cuenta cuando surge esta pulsión o **impulso por escribir**, despierta una sensibilidad en mí, y entonces busco conectar palabras, ordenarlas o narrarlas; entonces **me percato de este accionar y lo registro**. 
 
@@ -102,8 +102,41 @@ flowchart LR
     K@{ shape: rounded}
 ```
 
-### Nuevas variables
+### ## Nuevas variables
+
+Luego de recopilar datos del **día domingo 16 de agosto**, puedo darme cuenta de que la manera más cómoda, y desde donde podría utilizar a futuro y seleccionar más variables, es anotar lo siguiente:
+
+Primero que nada, me parece crucial, apenas surge un impulso por escribir, como determiné anteriormente en el diagrama de flujo, anotar **la hora**. Luego, anoto **de qué quiero escribir** y si **escribí o solo me quedé en la idea**; después, **qué estoy haciendo**, luego **dónde estoy** y, por último, **cómo me siento emocionalmente**.
+
+Sin embargo, las **únicas variables que he incorporado** por el momento en la visualización son **la hora, si escribí o no y cómo me siento**.
 
 ## Segunda postal
 
+En la siguiente fotografía se puede ver la segunda postal para el **encargo de Dear Data**, la cual es el registro de los momentos del día, en este caso del domingo 16, en donde me surgió el impulso por hacer poemas.
+
+De **izquierda a derecha se despliegan las horas del día**, de donde surgen las ramas, que **marcan la hora del día**. Estas ramas indican **cuándo fueron esos impulsos** por hacer poemas; si la **rama crece hacia arriba**, significa que la idea fue escrita de manera física y tangible; de lo contrario, si la **rama crece hacia abajo** solo se llegó a la concepción de narrarla, de conectar palabras y encauzarlas en mi psiquis. Si el **color es azul**, es un poema o una idea que deviene de un sentimiento melancólico, y **si es rosa**, de un sentimiento alegre.
+
 ![](recursos/postal-03.jpeg)
+
+## Corrección segunda postal
+
+[Guillermo](https://github.com/guillemontecinos) me manifestó, como no perder la visualidad, la riqueza material de la acuarela con las reglas del sistema.
+
+### Información en las ramas
+
+Me parece importante agregar, en la simbología de las ramas, formas que hagan referencia al lugar en el que estaba, ya que he encontrado un patrón: suelo escribir, en su mayoría, en lugares de transición.
+
+Podría determinar estas dos variables: si estoy en un lugar de residencia o si estoy en un espacio de transición o medio de transporte.
+
+### Escalar
+
+**Escalar a más datos**
+
+Sergio Mora-Díaz me consultó cómo pensaba visualizar datos de más de un día. A mí me parece importante conservar los datos por día, ya que los momentos de cada uno son relevantes dentro del registro. He encontrado la conclusión preliminar de que es durante las mañanas y en la tarde-noche cuando más escribo.
+
+Es por esto que mi propuesta para una mayor escala, es crear una suerte de bosque lleno de árboles correspondientes a cada día, y cambiar el formato horizontal a vertical. Esto también implicaría replantearme los simbolismos direccionales de las ramas, para que calcen con esta nueva visualidad.
+
+**Escalar a formato digital**
+
+trabajar con el tiempo, podrian surgir y crecer cosas, ver esa linea de tiempo en vivo.
+
