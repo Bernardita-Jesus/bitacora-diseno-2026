@@ -132,11 +132,15 @@ Podría determinar estas dos variables: si estoy en un lugar de residencia o si 
 
 **Escalar a más datos**
 
-Sergio Mora-Díaz me consultó cómo pensaba visualizar datos de más de un día. A mí me parece importante conservar los datos por día, ya que los momentos de cada uno son relevantes dentro del registro. He encontrado la conclusión preliminar de que es durante las mañanas y en la tarde-noche cuando más escribo.
+Sergio Mora-Díaz me consultó cómo pensaba **visualizar datos de más de un día**. A mí me parece importante **conservar los datos por día**, ya que los momentos de cada uno son relevantes dentro del registro. He encontrado la **conclusión preliminar** de que es durante las mañanas y en la tarde-noche cuando más escribo.
 
-Es por esto que mi propuesta para una mayor escala, es crear una suerte de bosque lleno de árboles correspondientes a cada día, y cambiar el formato horizontal a vertical. Esto también implicaría replantearme los simbolismos direccionales de las ramas, para que calcen con esta nueva visualidad.
+Es por esto que mi propuesta para una mayor escala, es crear una **suerte de bosque lleno de árboles correspondientes a cada día**, y cambiar el formato **horizontal a vertical**. Esto también implicaría replantearme los **simbolismos direccionales** de las ramas, para que calcen con esta nueva visualidad.
 
 **Escalar a formato digital**
 
-trabajar con el tiempo, podrian surgir y crecer cosas, ver esa linea de tiempo en vivo.
+Mientras mencionaban la posibilidad de tener que escalar estos datos, megadatos, los cuales yo estoy anotando en un diario, y debíamos pasarlos a formato digital, pensé que sería muy interesante **realizarlo en p5.js** y crear este bosque que mencionaba.
+
+Voy a trabajar en un **seudocódigo** para crear un proyecto en p5.js.
+
+Sergio Mora-Díaz agregó que algo interesante y aprovechable de trabajar con formatos digitales es que podemos trabajar con una **tercera dimensión o trabajar con el tiempo**, podrían surgir y crecer cosas, permitiendo ver esa **línea de tiempo en vivo**.
 
