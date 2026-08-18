@@ -106,4 +106,4 @@ flowchart LR
 
 ## Segunda postal
 
-![](./recursos/postal.03.jpeg)
+![](recursos/postal.03.jpeg)
