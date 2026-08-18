@@ -102,7 +102,7 @@ flowchart LR
     K@{ shape: rounded}
 ```
 
-### ## Nuevas variables
+### Nuevas variables
 
 Luego de recopilar datos del **día domingo 16 de agosto**, puedo darme cuenta de que la manera más cómoda, y desde donde podría utilizar a futuro y seleccionar más variables, es anotar lo siguiente:
 
