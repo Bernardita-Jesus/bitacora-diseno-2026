@@ -118,7 +118,7 @@ De **izquierda a derecha se despliegan las horas del día**, de donde surgen las
 
 ![](recursos/postal-03.jpeg)
 
-## Corrección segunda postal
+### Corrección segunda postal
 
 [Guillermo](https://github.com/guillemontecinos) me manifestó, que intentara no perder la visualidad, la riqueza material de la acuarela con las reglas del sistema.
 
@@ -143,4 +143,12 @@ Mientras mencionaban la posibilidad de tener que escalar estos datos, megadatos,
 Voy a trabajar en un **seudocódigo** para crear un proyecto en p5.js.
 
 Sergio Mora-Díaz agregó que algo interesante y aprovechable de trabajar con formatos digitales es que podemos trabajar con una **tercera dimensión o trabajar con el tiempo**, podrían surgir y crecer cosas, permitiendo ver esa **línea de tiempo en vivo**.
+
+## Tercera postal
+
+![](recursos/postal-03.jpeg)
+
+## Cuarta postal
+
+![](recursos/postal-03.jpeg)
 
