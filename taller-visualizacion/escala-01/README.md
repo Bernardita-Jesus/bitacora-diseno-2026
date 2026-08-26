@@ -1,6 +1,6 @@
 # Escala 01
 
-## Encargo 01
+## Encargo Dear Data
 
 Encargo inspirado en el libro **Dear Data**. Vamos a hacer una lámina de 10 × 15 cm, a modo de postal, en donde por una cara esté la visualización y por la otra, la explicación.
 
