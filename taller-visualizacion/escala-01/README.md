@@ -150,5 +150,17 @@ Sergio Mora-Díaz agregó que algo interesante y aprovechable de trabajar con fo
 
 ## Cuarta postal
 
+Se estructura a partir de un tronco principal que representa una línea temporal horizontal, que va de izquierda a derecha desde las 8 am hasta las 23 pm. Desde este surgen ramas que corresponden a las pulsiones por escribir, ubicadas según el momento del día. La magnitud de cada pulsión se representa mediante el tamaño de la rama.
+
+Cada rama se subdivide en seis ramillas, que funcionan como una unidad gráfica que permiten amplificar visualmente las características de cada pulsión, facilitando su lectura sin sobrecargar la estructura principal.
+
+La dirección de las ramillas representa su carga emocional, aquellas que se proyectan hacia el exterior corresponden a sentimientos alegres, mientras que las que se orientan hacia el centro del tronco representan sentimientos melancólicos. 
+
+Su morfología distingue el origen de la pulsión, las ramillas lisas corresponden a pulsiones que no surgieron a partir de un estímulo sensorial, mientras que las onduladas representan aquellas desencadenadas por un estímulo sensorial; entendido como una percepción del entorno como un olor, sonido o estímulo visual que activa la pulsión por escribir.
+
+Finalmente, el color permite distinguir los días de la semana; cada día posee un color propio que se aplica tanto a la rama como a sus ramillas, permitiendo reconocer temporalmente cada pulsión dentro de la visualización.
+
+En la siguiente fotografía se puede ver el resultado final.
+
 ![](recursos/postal-05.jpeg)
 
