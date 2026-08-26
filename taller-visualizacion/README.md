@@ -1,5 +1,7 @@
 # Taller Visualización Interactiva
 
+Segundo semestre 2026
+
 ## Introducción
 
 **Docentes:**
