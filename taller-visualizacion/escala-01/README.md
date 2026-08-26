@@ -146,7 +146,11 @@ Sergio Mora-Díaz agregó que algo interesante y aprovechable de trabajar con fo
 
 ## Tercera postal
 
+agregar descripcion*
+
 ![](recursos/postal-04.jpeg)
+
+agregar correccion*
 
 ## Cuarta postal
 
