@@ -14,6 +14,8 @@ Al igual que el año pasado, voy a tomar apuntes de mis ramos en mi séptimo y o
 
 [Taller Data](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/taller-data)
 
+[Taller Visualización Interactiva](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/taller-visualizacion)
+
 ### Ramos de profundización
 
 [Cerámica experimental](https://github.com/Bernardita-Jesus/bitacora-diseno-2026/tree/main/ceramica-experimental)
