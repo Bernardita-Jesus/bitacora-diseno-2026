@@ -170,3 +170,23 @@ En la siguiente fotografía se puede ver el resultado final.
 
 https://editor.p5js.org/coyarzun/sketches/dCQDZjh9w
 
+## Visualización digital
+
+### Sublimación poética
+
+Sublimación: Es un concepto de la psicología que describe el proceso de canalizar emociones intensas, energía vital o conflictos internos hacia la creación de una obra artística o intelectual.
+
+¿Cuándo aparece el impulso por escribir un poema? Este proyecto nace de la inquietud por registrar aquello que ocurre antes de escribir: el momento, el lugar, los estímulos y los estados emocionales que acompañan ese impulso. Los datos recopilados se convierten en ramas, formas, líneas y colores, construyendo poco a poco un paisaje de los momentos en que la escritura aparece.
+
+### Nuevos simbolismos
+
+- **Línea de tiempo vertical:** representa una semana de 7:00 a 23:00 h, de abajo hacia arriba.
+- **Escrito o no escrito:** lo escrito se representa mediante una línea ondulada, mientras que lo no escrito se representa con una línea lisa.
+- **Estímulo o no estímulo:** cuando existe un estímulo surge una flor; cuando no existe, no surge ningún elemento.
+- **Magnitud de la pulsión:** se representa mediante el tamaño de la rama.
+- **Sentimiento:** la alegría se representa con mayor opacidad, mientras que la tristeza se representa con menor opacidad.
+- **Colores:** cada día tiene asignado un color.
+
+### Tabla de datos
+
+
