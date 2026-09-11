@@ -189,4 +189,9 @@ Sublimación: Es un concepto de la psicología que describe el proceso de canali
 
 ### Tabla de datos
 
+- Mañana y noche como las franjas donde más aparece el impulso, con la tarde como el "valle" del día.
+- Sin estímulo sensorial predominando: la mayoría de las veces el impulso surge solo, no gatillado por algo externo puntual.
+- Magnitud normal como la norma — los picos intensos son la excepción, no la costumbre.
+- Jueves, pese a ser el día con más pulsiones, es paradójicamente el que menos termina escrito — como si ese día el impulso se sintiera pero no se le diera lugar.
+
 
