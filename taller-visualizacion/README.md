@@ -6,7 +6,7 @@ Segundo semestre 2026
 
 **Docentes:**
 
-[Sergio Mora-Días](https://ciluz.cl/speaker/sergio-mora-diaz/)
+[Sergio Mora-Díaz](https://ciluz.cl/speaker/sergio-mora-diaz/)
 
 [Guillermo Montecinos](https://github.com/guillemontecinos)
 
@@ -16,7 +16,7 @@ Martín Oguera
 
 [Escuela de Computación Poética](https://proyectoidis.org/escuela-de-computacion-poetica-de-nueva-york/)
 
-[escuela de arte de nueva york](https://nyaa.edu/)
+[Escuela de Arte de Nueva York](https://nyaa.edu/)
 
 [Local Variable Studio](https://www.localvariablestudio.com/)
 
@@ -44,17 +44,17 @@ Creo que esa diferencia debe existir: entre algo que simplemente observamos y al
 
 **Registrar**
 
-elegimos un fenomeno cotidiano y observamos con atencion
+Elegimos un fenómeno cotidiano y lo observamos con atención.
 
-observaciones activas en una bitacora
+Realizamos observaciones activas en una bitácora.
 
 **Procesar**
 
-tomamos los datos registrados, acumulamos el material, miramos nuestros datos para descubrir patrones, relaciones, variaciones, anolamias
+Tomamos los datos registrados, acumulamos el material y miramos nuestros datos para descubrir patrones, relaciones, variaciones y anomalías.
 
 **Visualizar**
 
-transformar los hallazgos en una visualizacion que muestre, comunique lo descubierto
+Transformamos los hallazgos en una visualización que muestre y comunique lo descubierto.
 
 ## Organización del semestre
 
@@ -63,12 +63,12 @@ transformar los hallazgos en una visualizacion que muestre, comunique lo descubi
 | Datos          | Sistemas             | Experiencias          |
 | Individual     | Colectivo            | Público y relacional  |
 
-## bibliografia
+## Bibliografía
 
-dear data, stefanie posavec
+*Dear Data*, Giorgia Lupi y Stefanie Posavec.
 
 [Escuela de Computación Poética](https://proyectoidis.org/escuela-de-computacion-poetica-de-nueva-york/)
 
-[escuela de arte de nueva york](https://nyaa.edu/)
+[Escuela de Arte de Nueva York](https://nyaa.edu/)
 
 [Local Variable Studio](https://www.localvariablestudio.com/)
