@@ -28,7 +28,7 @@ Primero, me interesaba registrar **cuántas canciones salto y cuántas escucho**
 
 Y por tanto, me quedé con mi segunda idea, de la que estaba dilucidando, que era **por qué escribo poemas**, qué me despierta esa acción. Tal vez pueden ser las horas, mi estado de ánimo, ruidos, colores, pero de alguna parte **surge este impulso por escribir o narrar**, buscar conectar palabras, encauzarlas, ordenarlas, complejizarlas; surge de algún detonante.
 
-Me gustaría, más que nada registrarlo, porque, por supuesto, tengo mis suposiciones que más adelante obviaré.
+Me gustaría, más que nada, registrarlo, porque, por supuesto, tengo mis suposiciones que más adelante obviaré.
 
 Me gusta, por sobre todo, esta inquietud, ya que este último tiempo me he dejado fascinar por diferentes **medios de registro**, como la fotografía, los videomontajes, las grabaciones de campo y la escritura. Me he impregnado de estas **prácticas artísticas** que, en definitiva, se convirtieron en un medio de supervivencia.
 
@@ -64,11 +64,11 @@ En la siguiente imagen se puede ver la **primera entrega** que mencioné anterio
 
 ### Estrategia de registro
 
-Tal vez, como manera de registro, debería tomar en cuenta cuando surge esta pulsión o **impulso por escribir**, despierta una sensibilidad en mí, y entonces busco conectar palabras, ordenarlas o narrarlas; entonces **me percato de este accionar y lo registro**. 
+Tal vez, como manera de registro, debería tomar en cuenta cuando surge esta pulsión o **impulso por escribir** que despierta una sensibilidad en mí, y entonces busco conectar palabras, ordenarlas o narrarlas; entonces **me percato de este accionar y lo registro**. 
 
-Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono**cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
+Y entonces ahí, en ese momento, anoto **qué hora es**, me cuestiono **cómo me siento**, **dónde estoy** y todas esas variables que pueden servir para desarrollarlas y **encontrar patrones**.
 
-De ser al revés, me parecería agobiante; estaría registrando hora a hora, si surge algún impulso por escribir, como anteriormente lo realicé, esto se puede evidenciar en la siguiente foto de mi bitácora.
+De ser al revés, me parecería agobiante; estaría registrando hora a hora, si surge algún impulso por escribir, como lo realicé anteriormente; esto se puede evidenciar en la siguiente foto de mi bitácora.
 
 O peor aún, estar registrando hora a hora cómo me siento, despertando un estado de **hipervigilancia** de mis emociones.
 
@@ -84,8 +84,8 @@ config:
   layout: dagre
 ---
 flowchart LR
-    C["Comienzo a conectar palabras,<br>encauzarlas, ordenarlas y complejizarlas"] --> D["Me percato de                este accionar"]
-    F["Anoto las variables presentes en ese momento"] --> G["Que hora el"] & H["Como me siento"] & I["Escribí o no"]
+    C["Comienzo a conectar palabras,<br>encauzarlas, ordenarlas y complejizarlas"] --> D["Me percato de este accionar"]
+    F["Anoto las variables presentes en ese momento"] --> G["Qué hora es"] & H["Cómo me siento"] & I["Escribí o no"]
     G --> K["Registro de datos"]
     H --> K
     I --> K
@@ -120,7 +120,7 @@ De **izquierda a derecha se despliegan las horas del día**, de donde surgen las
 
 ### Corrección segunda postal
 
-[Guillermo](https://github.com/guillemontecinos) me manifestó, que intentara no perder la visualidad, la riqueza material de la acuarela con las reglas del sistema.
+[Guillermo](https://github.com/guillemontecinos) me manifestó que intentara no perder la visualidad, la riqueza material de la acuarela con las reglas del sistema.
 
 ### Información en las ramas
 
@@ -134,7 +134,7 @@ Podría determinar estas dos variables: si estoy en un lugar de residencia o si 
 
 Sergio Mora-Díaz me consultó cómo pensaba **visualizar datos de más de un día**. A mí me parece importante **conservar los datos por día**, ya que los momentos de cada uno son relevantes dentro del registro. He encontrado la **conclusión preliminar** de que es durante las mañanas y en la tarde-noche cuando más escribo.
 
-Es por esto que mi propuesta para una mayor escala, es crear una **suerte de bosque lleno de árboles correspondientes a cada día**, y cambiar el formato **horizontal a vertical**. Esto también implicaría replantearme los **simbolismos direccionales** de las ramas, para que calcen con esta nueva visualidad.
+Es por esto que mi propuesta para una mayor escala es crear una **suerte de bosque lleno de árboles correspondientes a cada día**, y cambiar el formato **horizontal a vertical**. Esto también implicaría replantearme los **simbolismos direccionales** de las ramas, para que calcen con esta nueva visualidad.
 
 **Escalar a formato digital**
 
@@ -146,21 +146,21 @@ Sergio Mora-Díaz agregó que algo interesante y aprovechable de trabajar con fo
 
 ## Tercera postal
 
-agregar descripcion*
+agregar descripción*
 
 ![](recursos/postal-04.jpeg)
 
-agregar correccion*
+agregar corrección*
 
 ## Cuarta postal
 
-Se estructura a partir de un tronco principal que representa una **línea temporal horizontal**, que va de izquierda a derecha **desde las 8 am hasta las 23 pm**. Desde este surgen ramas que corresponden a las **pulsiones por escribir**, ubicadas según el momento del día. La **magnitud de cada pulsión** se representa mediante el **tamaño de la rama**.
+Se estructura a partir de un tronco principal que representa una **línea temporal horizontal**, que va de izquierda a derecha **desde las 8:00 hasta las 23:00 h**. Desde este surgen ramas que corresponden a las **pulsiones por escribir**, ubicadas según el momento del día. La **magnitud de cada pulsión** se representa mediante el **tamaño de la rama**.
 
-Cada rama se **subdivide en seis ramillas**, que funcionan como una unidad gráfica que permiten **amplificar visualmente las características** de cada pulsión, facilitando su lectura sin sobrecargar la estructura principal.
+Cada rama se **subdivide en seis ramillas**, que funcionan como una unidad gráfica que permite **amplificar visualmente las características** de cada pulsión, facilitando su lectura sin sobrecargar la estructura principal.
 
-La dirección de las ramillas representa su **carga emocional**, aquellas que se proyectan hacia el exterior corresponden a **sentimientos alegres**, mientras que las que se orientan hacia el centro del tronco representan **sentimientos melancólicos**. 
+La dirección de las ramillas representa su **carga emocional**: aquellas que se proyectan hacia el exterior corresponden a **sentimientos alegres**, mientras que las que se orientan hacia el centro del tronco representan **sentimientos melancólicos**. 
 
-Su morfología distingue el origen de la pulsión, las **ramillas lisas** corresponden a pulsiones que **no surgieron a partir de un estímulo sensorial**, mientras que las **ramillas onduladas** representan aquellas desencadenadas por un estímulo sensorial; entendido como una percepción del entorno como un **olor, sonido o estímulo visual** que activa la pulsión por escribir.
+Su morfología distingue el origen de la pulsión: las **ramillas lisas** corresponden a pulsiones que **no surgieron a partir de un estímulo sensorial**, mientras que las **ramillas onduladas** representan aquellas desencadenadas por un estímulo sensorial, entendido como una percepción del entorno como un **olor, sonido o estímulo visual** que activa la pulsión por escribir.
 
 Finalmente, el **color permite distinguir los días de la semana**; cada día posee un color propio que se aplica tanto a la rama como a sus ramillas, permitiendo reconocer temporalmente cada pulsión dentro de la visualización.
 
@@ -174,24 +174,32 @@ https://editor.p5js.org/coyarzun/sketches/dCQDZjh9w
 
 ### Sublimación poética
 
-Sublimación: Es un concepto de la psicología que describe el proceso de canalizar emociones intensas, energía vital o conflictos internos hacia la creación de una obra artística o intelectual.
+Sublimación: es un concepto de la psicología que describe el proceso de canalizar emociones intensas, energía vital o conflictos internos hacia la creación de una obra artística o intelectual.
 
 ¿Cuándo aparece el impulso por escribir un poema? Este proyecto nace de la inquietud por registrar aquello que ocurre antes de escribir: el momento, el lugar, los estímulos y los estados emocionales que acompañan ese impulso. Los datos recopilados se convierten en ramas, formas, líneas y colores, construyendo poco a poco un paisaje de los momentos en que la escritura aparece.
 
 ### Nuevos simbolismos
 
 - **Línea de tiempo vertical:** representa una semana de 7:00 a 23:00 h, de abajo hacia arriba.
+
 - **Escrito o no escrito:** lo escrito se representa mediante una línea ondulada, mientras que lo no escrito se representa con una línea lisa.
+
 - **Estímulo o no estímulo:** cuando existe un estímulo surge una flor; cuando no existe, no surge ningún elemento.
+
 - **Magnitud de la pulsión:** se representa mediante el tamaño de la rama.
+
 - **Sentimiento:** la alegría se representa con mayor opacidad, mientras que la tristeza se representa con menor opacidad.
+
 - **Colores:** cada día tiene asignado un color.
 
 ### Tabla de datos
 
 - Mañana y noche como las franjas donde más aparece el impulso, con la tarde como el "valle" del día.
+
 - Sin estímulo sensorial predominando: la mayoría de las veces el impulso surge solo, no gatillado por algo externo puntual.
+
 - Magnitud normal como la norma — los picos intensos son la excepción, no la costumbre.
+
 - Jueves, pese a ser el día con más pulsiones, es paradójicamente el que menos termina escrito — como si ese día el impulso se sintiera pero no se le diera lugar.
 
 
