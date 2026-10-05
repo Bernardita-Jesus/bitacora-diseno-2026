@@ -154,5 +154,4 @@ Nos imaginamos una **especie de sonar**: una pantalla que muestre los **puntos d
 
 - Voice Tunnel by Rafael Lozano-Hemmer 
 
-- [La isla [reconocimiento]](https://rkrause.cl/web/)  
-es un proyecto participativo: todos los habitantes y visitantes de Sudamérica pueden cooperar en la construcción de un mapa a base de sonidos grabados en sus costas. 
+- [La isla [reconocimiento]](https://rkrause.cl/web/?page_id=4410): Es un proyecto participativo: todos los habitantes y visitantes de Sudamérica pueden cooperar en la construcción de un mapa a base de sonidos grabados en sus costas. 
