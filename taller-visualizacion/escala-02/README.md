@@ -145,3 +145,11 @@ Nos imaginamos una **especie de sonar**: una pantalla que muestre los **puntos d
 ### Tabla de datos
 
 ### Conclusiones
+
+## Referentes 
+
+- Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001 
+
+- Messa di Voce (Performance version, 2003) 
+
+- Voice Tunnel by Rafael Lozano-Hemmer 
