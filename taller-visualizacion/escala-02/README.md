@@ -4,6 +4,8 @@
 
 ### Propuestas de temas que registrar
 
+**Susurra, te estamos transcribiendo**
+
 Nuestra propuesta es **mapear el patio central de SS a partir de un sistema mayor**, con sensores ubicados desde arriba que registren lo que ocurre en el espacio. En un principio pensamos en cámaras, pero para que no se parezca tanto al otro proyecto, nos inclinamos por **trabajar con micrófonos**.
 
 Nos interesa **detectar patrones en cómo habla la gente**: cómo se comportan las voces de las personas dentro de un espacio, sus **tonos y entonaciones**, o **cuántos segundos duran las conversaciones**. Quizá hay espacios en los que se conversa de cierta forma y otros de otra, o lugares en los que **se habla más y otros en los que se habla menos**.
@@ -148,10 +150,12 @@ Nos imaginamos una **especie de sonar**: una pantalla que muestre los **puntos d
 
 ## Referentes 
 
-- Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001 
+- [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001](https://youtu.be/dD36IajCz6A?si=ZGM9awTIY4IwuAHH)
 
-- Messa di Voce (Performance version, 2003) 
+- [Messa di Voce (Performance version, 2003)](https://youtu.be/STRMcmj-gHc?si=HiY5svI9c3RG43YW) 
 
-- Voice Tunnel by Rafael Lozano-Hemmer 
+- [Voice Tunnel by Rafael Lozano-Hemmer](https://www.youtube.com/watch?v=A3mM2rPJ-sY)
 
 - [La isla [reconocimiento]](https://rkrause.cl/web/?page_id=4410): Es un proyecto participativo: todos los habitantes y visitantes de Sudamérica pueden cooperar en la construcción de un mapa a base de sonidos grabados en sus costas. 
+
+- [https://audiomapa.org/]()
