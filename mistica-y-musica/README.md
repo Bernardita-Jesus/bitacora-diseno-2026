@@ -52,5 +52,9 @@ Un vocoder ("voice coder", codificador de voz) es un aparato electrónico que an
 
 **Amuletos**
 
-Elementos a los que se les atribuye un significado, un recuerdo o un simbolismo; objetos que provienen a veces de lo cotidiano, pero a los que se les da un peso especial.
+Elementos a los que se les atribuye un significado, un recuerdo o un simbolismo; objetos que provienen a veces de lo cotidiano, pero a los que se les da un peso especial. 
+
+Objetos con narrativas, que pueden probenir del duelo, de la desgracia, o incluso de lo milagroso.
+
+La sutileza de los objetos cotidianos, incluso la sutileza de lo cotidiano, me parece interesante. Es una búsqueda que me interesa: ¿cuándo algo se vuelve especial? ¿Cuándo un objeto se convierte en un refugio? Como puede serlo un rosario o un mala, aunque su significado provenga de un contexto que uno no construyó. Me interesa cuándo aparecen estos elementos significativos a nivel personal, objetos que adquieren una carga propia, vinculada a los recuerdos, las experiencias y los afectos.
 
