@@ -44,4 +44,13 @@ Los ensayos fotográficos y los medios de registro me parecen elementos que hace
 
 Me gusta la sensibilidad con la que describen sus proyectos. Incluso, se escuchan sumamente ricos en visualidad; delimitan el imaginario describiendo formas, acompañadas de referencias de la literatura. Me gusta lo específico de sus proyectos.
 
+**Mencionaron la música espectral.**
+
+Pensando en lo espectral desde el sonido, un buen ejemplo que podría aportar es [*Extended Voices*](https://ubu.punctumbooks.com/sound/extended_voices.html) (Odyssey, 1968). Es un disco dirigido por Alvin Lucier con el Coro de Cámara de la Universidad Brandeis, que reúne piezas para voces alteradas electrónicamente por sintetizadores y vocoder. Incluye obras de Pauline Oliveros, John Cage, Robert Ashley, Toshi Ichiyanagi y Morton Feldman, además de *North American Time Capsule 1967* del propio Lucier, donde las voces pasan por un vocoder y se vuelven casi irreconocibles.
+
+Un vocoder ("voice coder", codificador de voz) es un aparato electrónico que analiza la voz y usa ese análisis para darle forma a otro sonido.
+
+**Amuletos**
+
+Elementos a los que se les atribuye un significado, un recuerdo o un simbolismo; objetos que provienen a veces de lo cotidiano, pero a los que se les da un peso especial.
 
