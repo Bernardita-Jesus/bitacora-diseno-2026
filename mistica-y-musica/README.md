@@ -8,11 +8,15 @@ Primera clase — 19 de octubre, primavera de 2026.
 
 - Ciclos cósmicos.
 
-- Mandalas y arte simbólico.
+- Mandalas y arte simbólico, colores.
+
+- dioses, encarnacion, liberacion.
 
 ## Sufismo
 
 - *Qawwali*: poesía y música.
+
+- mundo interior iconoclasta.
 
 - Danzas sufíes.
 
