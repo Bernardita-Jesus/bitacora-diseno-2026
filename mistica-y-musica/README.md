@@ -58,3 +58,29 @@ Objetos con narrativas, que pueden probenir del duelo, de la desgracia, o inclus
 
 La sutileza de los objetos cotidianos, incluso la sutileza de lo cotidiano, me parece interesante. Es una búsqueda que me interesa: ¿cuándo algo se vuelve especial? ¿Cuándo un objeto se convierte en un refugio? Como puede serlo un rosario o un mala, aunque su significado provenga de un contexto que uno no construyó. Me interesa cuándo aparecen estos elementos significativos a nivel personal, objetos que adquieren una carga propia, vinculada a los recuerdos, las experiencias y los afectos.
 
+### Visión mística del sonido
+
+Se abordará la dimensión mística del sonido a través de referencias musicales como Caterina Barbieri, Éliane Radigue, el tópico de la música de las esferas y Javiera Mena. Hacia el final, se revisará la música medieval y el disco de Rosalía.
+
+musica egemonica, pensar atravez de las culrturas y espiritualidad y hacer vinculos entre 
+
+experiencia miestica, que es? que se entiende por eso, inetnsidad, ruptura, radicalidad.
+
+espiritual y universal o historica especifica.
+
+filoloogico
+
+musica electronica y mistica tiene un pequeño desarrollo, no es muy amplio la investigaciones
+
+minimalismo y musica india
+
+hay que respetar la fe, y respetar las creancas de las existencia admitiendo que son son refutables, existe un esácio para la coversacion, y eso es intersante, 
+
+## lecturas
+
+joselin godwin, y guibeg
+
+diccionarios de mitologia, magia y religión
+
+
+
