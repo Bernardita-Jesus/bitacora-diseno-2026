@@ -4,29 +4,33 @@
 
 ### Propuestas de temas que registrar
 
-**Susurra, te estamos transcribiendo**
+**¿Qué tienes pendiente?**
 
-Nuestra propuesta es **mapear el patio central de SS a partir de un sistema mayor**, con sensores ubicados desde arriba que registren lo que ocurre en el espacio. En un principio pensamos en cámaras, pero para que no se parezca tanto al otro proyecto, nos inclinamos por **trabajar con micrófonos**.
+Todos cargamos con algo que quedó sin cerrar: una conversación que no tuvimos, un proyecto que no terminamos, algo que no hemos soltado o a lo que no hemos vuelto. Son cosas que pesan, pero que casi nunca decimos en voz alta. Nuestra propuesta parte de ahí: **darle a la comunidad un lugar para confesar sus pendientes** y, al reunirlos, mirar qué dicen de nosotros en conjunto.
 
-Nos interesa **detectar patrones en cómo habla la gente**: cómo se comportan las voces de las personas dentro de un espacio, sus **tonos y entonaciones**, o **cuántos segundos duran las conversaciones**. Quizá hay espacios en los que se conversa de cierta forma y otros de otra, o lugares en los que **se habla más y otros en los que se habla menos**.
+Para eso instalamos en el **patio central** un **confesionario**: un módulo envuelto por una **tela en forma de cilindro**, con una **pantalla**, un **micrófono** y un **mouse** en su interior. Adentro, de forma **anónima**, cada persona responde una sola pregunta.
 
-Orientarlo hacia **de qué habla la gente** es más difícil, ya que tendríamos que incorporar algún modo de **transcripción de audio a texto** y armar oraciones. Aun así, nos parece muy interesante; nos recuerda a un referente, que alguien estaba usando en su proyecto, que mostraba en pantallas lo que la gente escribía en Twitter.
+**Pregunta de la cabina**
 
-agregar link del referente*
+> **¿Qué tienes pendiente?**
 
-Para lograrlo, estas son algunas técnicas que podríamos investigar:
+Es corta, directa y se responde sin pensarlo mucho. Una variante más ritual, que refuerza la idea de confesionario, sería **"Confiesa un pendiente"**.
 
-- **Procesamiento de audio espacial.**
+**Pregunta de investigación**
 
-- **Localización de fuente sonora (DOA):** saber desde qué dirección proviene una voz.
+> **¿Qué deja pendiente una comunidad, y qué revelan esos pendientes sobre lo que posterga?**
 
-- **Beamforming:** enfocar la escucha del sistema hacia una dirección específica.
+Un pendiente individual habla de una persona; muchos pendientes juntos hablan de una comunidad. Si la mayoría posterga lo que tiene que **decir** más que lo que tiene que **hacer**, o si lo que más se arrastra son los **vínculos** y no los **estudios**, eso revela qué estamos dejando para después y por qué. Para responderla nos preguntamos:
 
-- **Intensidad sonora (SPL):** medir qué tan fuerte se habla.
+- **¿De qué tratan** los pendientes de la comunidad?
 
-- **Filtrado y detección de eventos:** separar las voces del ruido y reconocer cuándo comienza y termina una conversación.
+- **¿Qué tipo de acción** se posterga más: hacer, decir, soltar, volver, empezar o terminar?
 
-Se nos ocurre que la pregunta podría ser **¿cómo habla la FAAD en Diseño Abierto?**, y que esto se pudiera ver en **otra facultad a través de una pantalla**, con la transcripción de lo que se está hablando en otros lugares. Sin embargo, esto podría **interferir con la privacidad** de las personas, algo que tenemos que considerar.
+- **¿Qué nos impide** cerrarlos?
+
+- **¿Cómo nos hace sentir** lo que dejamos pendiente?
+
+No trabajamos con el sonido de la voz, sino con **lo que se dice**: el audio se **transcribe a texto**, se analiza y se descarta. En pantalla nunca aparecen las palabras exactas de nadie, solo la **idea reformulada** de cada pendiente.
 
 ## Etapas de visualización de datos
 
@@ -36,111 +40,171 @@ Según **Ben Fry**:
 
 ¿Qué podemos observar y cómo podemos registrar información?
 
-Queremos que nuestros datos sean **las palabras transcritas**: a través de los micrófonos registramos las conversaciones del patio y, mediante un sistema de **transcripción de audio a texto**, las convertimos en palabras que podamos procesar y visualizar.
+Nuestros datos son **las confesiones transcritas**. La persona entra a la cabina, la pantalla le hace la pregunta, hace **clic en el mouse para empezar a hablar** y otro **clic para terminar**. Un **micrófono** conectado a un computador registra lo que dice y un sistema de **transcripción de audio a texto** (Whisper, ajustado al español de Chile) lo convierte en texto.
 
-El lugar de registro será el **patio central**. Para saber **desde dónde surge cada voz** dentro de él, pensamos en ubicar un **arreglo de micrófonos en el centro del patio**, capaz de detectar la **dirección de la fuente sonora (DOA)**. Así, cada palabra queda asociada a un **punto específico del patio**.
+Cada vez que alguien se confiesa, el sistema registra:
 
-Cada vez que se detecta una voz, el sistema registra:
+- **El texto transcrito** de lo que dijo.
 
-- **La palabra o frase transcrita.**
+- **La hora** en que lo dijo.
 
-- **La dirección** desde donde surgió, respecto al centro del patio.
+- **La duración** de la confesión.
 
-- **La hora** en que se dijo.
-
-- **La intensidad** con la que se habló.
-
-- **La duración** de la conversación.
+El audio **no se guarda**: se transcribe y se elimina en el momento.
 
 ### Analizar
 
 ¿Qué información o datos estamos obteniendo?
 
-Obtenemos una **tabla de registros**, en donde cada fila corresponde a una palabra dicha en un lugar y en un momento:
+A partir de cada texto, el sistema extrae la **idea principal** del pendiente y la clasifica. Obtenemos una **tabla de registros**, en donde cada fila corresponde a un pendiente:
 
-| Hora  | Dirección | Palabra  | Intensidad | Duración |
-|-------|-----------|----------|------------|----------|
-| 10:32 | 45°       | entrega  | media      | 12 s     |
-| 10:33 | 180°      | almuerzo | alta       | 40 s     |
-| 10:35 | 300°      | taller   | baja       | 8 s      |
+| Hora | Pendiente (reformulado) | Temática | Verbo | Desde cuándo | Emoción | Obstáculo |
+|---|---|---|---|---|---|---|
+| 10:32 | Pedirle perdón a un amigo | Vínculos | Decir | Años | Nostalgia | Miedo |
+| 13:15 | Terminar la tesis | Estudios | Terminar | Meses | Angustia | Tiempo |
+| 17:48 | Volver a dibujar por gusto | Uno mismo | Volver | Años | Calma | Cansancio |
 
 *Ejemplo ilustrativo, no corresponde a datos reales.*
 
-A partir de esta tabla podemos leer **qué se dice, dónde y cuándo**, aunque en bruto son muchas palabras sin orden aparente.
+Las categorías que usamos son:
+
+- **Temática:** de qué trata el pendiente (estudios, trabajo, vínculos, familia, uno mismo, salud y cuerpo, sueños y proyectos).
+
+- **Verbo:** qué tipo de acción quedó abierta (hacer, decir, soltar, volver, empezar, terminar).
+
+- **Desde cuándo:** días, meses o años.
+
+- **Emoción:** con qué tono se dijo (alegría, calma, nostalgia, cansancio, angustia, tristeza, rabia).
+
+- **Obstáculo:** qué lo detiene, si se menciona (tiempo, miedo, plata, cansancio, otra persona).
+
+En bruto son muchas confesiones distintas, pero las categorías permiten compararlas.
 
 ### Filtrar
 
 ¿Qué datos nos interesa conservar en nuestra investigación?
 
-No todas las palabras nos sirven. Descartamos las **palabras vacías**, como artículos, preposiciones y conectores (*el, la, de, que, y*), que se repiten en todas partes pero no dicen nada del lugar. Conservamos principalmente **sustantivos, verbos y adjetivos**, que son los que dan cuenta de los temas.
+Conservamos solo la **idea reformulada** del pendiente y sus **categorías**, junto con la **hora**.
 
-También filtramos el **ruido** y las transcripciones erróneas, que en un espacio abierto pueden ser frecuentes.
+Descartamos las **palabras vacías** (*el, la, de, que, y*), las **muletillas** (*eh, o sea, cachai*) y las **transcripciones erróneas**. Los **modismos chilenos** se traducen a un español neutro para que el sistema los entienda (*"estoy chato"* → *estoy cansado*).
 
-Por último, para **cuidar la privacidad**, no guardamos el audio original ni frases completas, solo palabras sueltas, y eliminamos **nombres propios** o cualquier dato que pueda identificar a una persona.
+Para **cuidar la privacidad**, eliminamos el **audio**, el **texto literal**, los **nombres propios**, las carreras y cualquier dato que pueda identificar a alguien. Las confesiones ofensivas o que expongan a otra persona **no se muestran**.
 
 ### Minar
 
 ¿Qué patrones o relaciones podemos descubrir en estos datos?
 
-- **Frecuencia por sector:** qué palabras se repiten más en cada parte del patio.
+- **Temáticas más frecuentes:** de qué tratan la mayoría de los pendientes.
 
-- **Palabras propias de un lugar:** aquellas que aparecen solo en un sector del patio y que, de alguna manera, lo caracterizan.
+- **Verbo predominante:** si la comunidad tiene más pendientes por **hacer** o por **decir**.
 
-- **Palabras compartidas:** las que atraviesan todo el patio y hablan de la comunidad en general.
+- **Antigüedad:** qué pendientes se arrastran hace **años** y cuáles son recientes.
 
-- **Variación en el tiempo:** si en la mañana se habla de cosas distintas que en la tarde.
+- **Temática × emoción:** de qué se habla con calma y de qué con angustia; aquí puede estar el hallazgo.
 
-- **Relaciones entre palabras:** cuáles suelen aparecer juntas en una misma conversación.
+- **Obstáculos comunes:** qué es lo que más nos impide cerrar nuestros pendientes.
+
+- **Variación en el día:** si en la mañana se confiesan cosas distintas que en la tarde o en la noche.
 
 ### Representar
 
 ¿Cómo podemos transformar estos datos en una forma perceptible?
 
-Construimos un **mapa de palabras**: una planta del patio central en donde **cada palabra aparece en el lugar desde donde surgió**.
+Construimos un **campo de círculos que no se cierran**: cada pendiente es un **círculo abierto**, como una tarea que quedó a medias.
 
-- **Posición:** la dirección desde donde se dijo, respecto al centro del patio.
+- **Abertura:** desde cuándo está pendiente; mientras más antiguo, más abierto queda el círculo.
 
-- **Tamaño:** cuántas veces se ha repetido; las palabras más dichas se vuelven más grandes.
+- **Color:** la emoción con la que se dijo.
 
-- **Opacidad:** qué tan reciente es; las palabras nuevas aparecen nítidas y se van desvaneciendo con el tiempo.
+- **Agrupación:** los círculos se reúnen por **temática**.
 
-- **Color:** el momento del día en que se dijo.
+- **Grosor del trazo:** el verbo (hacer, decir, soltar...).
 
-Retomando la idea del **sonar**, una línea podría recorrer el mapa haciendo aparecer las palabras a su paso, como si el patio se escuchara a sí mismo.
+- **Texto:** la idea reformulada recorre el borde del círculo, como un **caligrama**.
+
+El pendiente más reciente aparece **destacado** unos segundos y luego se suma al conjunto. Al final de la jornada, la pantalla muestra **todo lo que la comunidad dejó abierto**.
 
 ### Afinar
 
-¿Cómo podemos desarrollar un sistema funcional?
+¿Cómo hacemos que la visualización se entienda mejor?
 
-Tenemos que lograr que el sistema funcione **en tiempo real**: captar el audio, transcribirlo, filtrarlo y enviarlo a la visualización, que podríamos desarrollar en **p5.js**.
+- **Forma:** que cada círculo se lea como algo **inconcluso** sin necesidad de explicación.
 
-Debemos **calibrar los micrófonos** para que distingan bien las direcciones, ajustar la **legibilidad** del mapa cuando se acumulan muchas palabras en un mismo lugar y definir **cuánto tiempo permanece** cada palabra en pantalla.
+- **Color:** una paleta clara por emoción, que también se distinga por forma y no solo por color.
+
+- **Legibilidad:** un largo máximo para cada frase, letra legible a distancia y círculos que no se tapen cuando se acumulan.
+
+- **Movimiento:** el pendiente nuevo se dibuja y brilla unos segundos; los anteriores se atenúan.
+
+- **Simbología:** una leyenda simple que explique abertura, color y agrupación.
+
+Antes de Diseño Abierto mostramos el boceto a compañeros y, si no leen lo que esperamos, ajustamos formas, colores o etiquetas.
 
 ### Interactuar
 
 ¿Cómo se relacionan las personas con el sistema?
 
-Las personas que transitan por el patio **se convierten en parte de los datos**: al conversar, sus palabras aparecen en el mapa, y pueden ver cómo su voz se suma a la de los demás.
+**Dentro de la cabina**, la persona:
 
-Al mismo tiempo, desde **otra facultad**, una pantalla permite **escuchar el patio a distancia**, leyendo de qué se habla en Diseño Abierto sin estar ahí. Quien mira podría **seleccionar un sector del patio** para ver sus palabras más frecuentes o recorrer cómo cambió la conversación durante el día.
+1. Lee la pregunta en pantalla y que todo es **anónimo** y el audio **no se guarda**.
+
+2. Hace **clic** para empezar y **confiesa** su pendiente.
+
+3. Hace **clic** para terminar.
+
+4. **Ve su pendiente reformulado** y decide si **lo suelta** (se suma a la visualización) o **se lo guarda** (se descarta).
+
+5. Al salir, ve su **círculo** aparecer junto al de los demás.
+
+**Fuera de la cabina**, quienes pasan por el patio ven la visualización en una **pantalla exterior**. Pueden **filtrar por temática o emoción** y **recorrer la jornada** hora a hora para ver cómo cambiaron los pendientes durante el día.
+
+La cabina también muestra los **servicios de apoyo** de la universidad: [servicio y contacto].
 
 ## Propuestas de comunicación gráfica
 
-Más que mostrar el audio tal cual, queremos buscar una forma de **transformar el sonido en una visualización que demuestre algo**; tiene que **responder una pregunta**.
+Más que mostrar lo que se dijo tal cual, queremos **transformar las confesiones en una imagen que responda la pregunta**: qué deja pendiente la comunidad y qué revela eso sobre lo que posterga.
 
-Nos imaginamos una **especie de sonar**: una pantalla que muestre los **puntos de audio** en el espacio, indicando **en qué parte del patio se está hablando** y **de qué se está hablando** en cada una.
+La propuesta principal son los **círculos que no se cierran**. Otras alternativas que exploramos:
+
+- **Hilos sueltos:** cada pendiente es un hilo que cuelga sin amarrar; los hilos de una misma temática se entrelazan.
+
+- **Estratos:** los pendientes se acumulan como capas según su antigüedad; abajo los de hace años, arriba los de hoy.
+
+- **La lista que nadie tachó:** una gran lista de tareas colectiva, sin ningún ítem marcado.
+
+- **Cartas sin enviar:** cada pendiente de **decir** aparece como un sobre cerrado.
+
+- **Frases que se desvanecen:** las confesiones aparecen nítidas y se borran lentamente, como algo que se suelta.
+
+La cabina forma parte de la comunicación gráfica: la **tela coral** que envuelve el módulo hace visible desde lejos que ahí ocurre algo íntimo.
 
 ## Proceso
 
 ### Estrategia de registro
 
+- **Lugar:** patio central, con la cabina al medio.
+
+- **Horario:** jornada de Diseño Abierto, de 8:00 a 20:00.
+
+- **Dispositivo:** cabina cilíndrica de tela con pantalla, micrófono y mouse sobre una repisa.
+
+- **Captura:** una confesión por persona; el audio se transcribe y se elimina en el momento.
+
+- **Anonimato:** no se registra quién habla, solo qué dice y cuándo.
+
 ### Variables
 
-## Primera entrega
-
-### Correcciones
-
-## Entrega final
+| Variable | Tipo | Cómo se obtiene |
+|---|---|---|
+| Hora | Cuantitativa | Registro automático |
+| Duración | Cuantitativa | Registro automático |
+| Pendiente | Texto | Idea principal extraída del texto |
+| Temática | Categórica | Clasificación del texto |
+| Verbo | Categórica | Clasificación del texto |
+| Desde cuándo | Ordinal | Detectado en el texto (días, meses, años) |
+| Emoción | Categórica | Análisis de emoción (pysentimiento + reglas propias) |
+| Intensidad | Ordinal (1–5) | Análisis de emoción |
+| Obstáculo | Categórica | Detectado en el texto, si se menciona |
 
 ### Simbología
 
@@ -148,14 +212,14 @@ Nos imaginamos una **especie de sonar**: una pantalla que muestre los **puntos d
 
 ### Conclusiones
 
-## Referentes 
+## Referentes
 
-- [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001](https://youtu.be/dD36IajCz6A?si=ZGM9awTIY4IwuAHH)
+- [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001](https://youtu.be/dD36IajCz6A?si=ZGM9awTIY4IwuAHH): muestra en pantallas fragmentos de lo que la gente escribe en internet, como una conversación colectiva.
 
-- [Messa di Voce (Performance version, 2003)](https://youtu.be/STRMcmj-gHc?si=HiY5svI9c3RG43YW) 
+- **Before I Die, Candy Chang (2011):** un muro público donde las personas completan con tiza "Antes de morir quiero ___". Es el referente más cercano a nuestros pendientes.
 
-- [Voice Tunnel by Rafael Lozano-Hemmer](https://www.youtube.com/watch?v=A3mM2rPJ-sY)
+- **PostSecret, Frank Warren (2004):** personas envían secretos anónimos en postales que luego se exhiben; muestra cómo el anonimato permite confesar.
 
-- [La isla [reconocimiento]](https://rkrause.cl/web/?page_id=4410): Es un proyecto participativo: todos los habitantes y visitantes de Sudamérica pueden cooperar en la construcción de un mapa a base de sonidos grabados en sus costas. 
+- **¿Es usted feliz?, Alfredo Jaar (1979–1981):** intervención en Santiago que llevó una pregunta íntima al espacio público.
 
-- [https://audiomapa.org/]()
+- [La isla [reconocimiento]](https://rkrause.cl/web/?page_id=4410): proyecto participativo en el que las personas construyen colectivamente un mapa a partir de sus aportes.
