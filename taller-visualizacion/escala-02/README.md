@@ -160,7 +160,7 @@ Antes de Diseño Abierto mostramos el boceto a compañeros y, si no leen lo que 
 
 La cabina también muestra los **servicios de apoyo** de la universidad: [servicio y contacto].
 
-![](/recursos/ilustracion_confesionario (1).png)
+![Ilustración del confesionario: cabina cilíndrica de tela en el patio central](./recursos/confesionario.png)
 
 ## Propuestas de comunicación gráfica
 
