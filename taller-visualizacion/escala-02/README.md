@@ -162,6 +162,8 @@ La cabina también muestra los **servicios de apoyo** de la universidad: [servic
 
 ![Ilustración del confesionario: cabina cilíndrica de tela en el patio central](./recursos/confesionario.png)
 
+![Vistas del módulo: exterior, desde arriba e interior con pantalla, mouse y micrófono](./recursos/modulo_vistas.png)
+
 ## Propuestas de comunicación gráfica
 
 Más que mostrar lo que se dijo tal cual, queremos **transformar las confesiones en una imagen que responda la pregunta**: qué deja pendiente la comunidad y qué revela eso sobre lo que posterga.
