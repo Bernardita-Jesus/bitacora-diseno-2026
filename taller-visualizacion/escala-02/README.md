@@ -160,6 +160,8 @@ Antes de Diseño Abierto mostramos el boceto a compañeros y, si no leen lo que 
 
 La cabina también muestra los **servicios de apoyo** de la universidad: [servicio y contacto].
 
+![](/recursos/ilustracion_confesionario (1).png)
+
 ## Propuestas de comunicación gráfica
 
 Más que mostrar lo que se dijo tal cual, queremos **transformar las confesiones en una imagen que responda la pregunta**: qué deja pendiente la comunidad y qué revela eso sobre lo que posterga.
