@@ -220,6 +220,8 @@ La cabina forma parte de la comunicación gráfica: la **tela coral** que envuel
 
 - [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001](https://youtu.be/dD36IajCz6A?si=ZGM9awTIY4IwuAHH): muestra en pantallas fragmentos de lo que la gente escribe en internet, como una conversación colectiva.
 
+- [Las llamadas que nunca hice, Juan José Acuña (2023)](https://paisajepublico.com/catalogo/las-llamadas-que-nunca-hice/): instalación sonora con un teléfono público que invita a llamar para decirle a alguien algo que nunca se le dijo. Las llamadas se graban y luego las escuchan otras personas, de modo que la confesión es íntima y a la vez compartida. Se presentó en el GAM y en el MAC de Santiago. Es muy cercano a nuestra cabina: un dispositivo cerrado, una voz que confiesa algo pendiente y un registro colectivo.
+
 - **Before I Die, Candy Chang (2011):** un muro público donde las personas completan con tiza "Antes de morir quiero ___". Es el referente más cercano a nuestros pendientes.
 
 - **PostSecret, Frank Warren (2004):** personas envían secretos anónimos en postales que luego se exhiben; muestra cómo el anonimato permite confesar.
