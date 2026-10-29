@@ -162,9 +162,9 @@ La cabina también muestra los **servicios de apoyo** de la universidad: [servic
 
 ![Ilustración del confesionario: cabina cilíndrica de tela en el patio central](./recursos/confesionario.png)
 
-![Vistas del módulo: exterior, desde arriba e interior con pantalla, mouse y micrófono](./recursos/modulo_vistas.png)
-
 ![El confesionario en uso: personas recorren el patio central mientras alguien se confiesa dentro de la cabina](./recursos/personas.png)
+
+![Vistas del módulo: exterior, desde arriba e interior con pantalla, mouse y micrófono](./recursos/modulo_vistas.png)
 
 ## Propuestas de comunicación gráfica
 
