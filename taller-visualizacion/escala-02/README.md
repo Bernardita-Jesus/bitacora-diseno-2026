@@ -212,7 +212,44 @@ La cabina forma parte de la comunicación gráfica: la **tela coral** que envuel
 | Intensidad | Ordinal (1–5) | Análisis de emoción |
 | Obstáculo | Categórica | Detectado en el texto, si se menciona |
 
+### Maqueta web: el telar
+
+Hicimos una maqueta web para el Diseño Abierto, junto a Braulio y Benjamín: [ver la maqueta](https://bernardita-jesus.github.io/web-visualizacion-sonora/) · [repositorio](https://github.com/Bernardita-Jesus/web-visualizacion-sonora).
+
+En la maqueta, las respuestas a **¿Qué tienes pendiente?** se tejen en un **telar**:
+
+- **Franjas de media hora:** cada media hora de la jornada es una franja, desde las 8:00 arriba hasta las 19:00 abajo. Su alto depende solo de cuánto se dijo en ella; si se habló mucho, la franja **se llena de líneas** y el telar se alarga. Las medias horas sin pendientes quedan vacías.
+
+- **Costuras:** una costura blanca marca cada cambio de hora. Con registros reales se ven solo las de las horas que ya empezaron.
+
+- **Hilo:** lo dicho en una media hora es un hilo del mismo grosor que cruza el telar de lado a lado y ondula entre una urdimbre de hilos verticales. Cada pendiente es un tramo del hilo, del **color de su temática** y del **largo de su frase**. Si un pendiente habla de dos temáticas, su hilo mezcla ambos colores, como dos hebras torcidas.
+
+- **Frases que se tejen:** sobre el tejido pasan las frases de a una, en orden de hora; cada una se escribe sobre su hilo y vuelve a ser hilo.
+
+La pantalla se divide en dos mitades:
+
+- **Registro (izquierda):** la pregunta, el aviso de que todo es anónimo y un botón para **dictar con la voz**; el pendiente no se puede escribir. Un reloj muestra en qué franja del telar se tejerá. Antes de enviar se muestra la temática detectada, y si no es la correcta se puede elegir otra a mano.
+
+- **Telar (derecha):** la simbología y el telar. Al hacer clic en una temática se destacan sus pendientes, y el botón **Simular registros** muestra una jornada completa de ejemplo.
+
+Todos los relatos son anónimos: solo se guarda **el texto y la hora**, nunca quién habla ni su voz.
+
+**Cómo se clasifican las temáticas.** El navegador transcribe la voz en español de Chile y quita las muletillas (*eh, o sea, cachai, po*). Luego un script propio, por **palabras clave**, busca raíces de palabras de cada temática: *estudi* reconoce *estudiar*, *estudios* y *estudiando*. Reconoce también palabras del habla chilena, como *pega*, *pituto*, *pololo*, *tata* o *guagua*. Gana la temática con más palabras y, si otra también aparece, se suma como segunda. Si nada calza, el pendiente queda en **Otros**. No usa inteligencia artificial ni servicios externos, y el texto no sale del equipo.
+
 ### Simbología
+
+Cada temática tiene un color en el telar:
+
+| Temática | Color | Algunas palabras que la delatan |
+|---|---|---|
+| Estudios | Rojo anaranjado `#e4572e` | tesis, ramo, prueba, solemne, entrega, profe |
+| Trabajo | Azul `#1f5fd1` | trabajo, pega, jefe, pituto, sueldo, práctica |
+| Familia | Amarillo ocre `#d18f00` | mamá, papá, hermano, abuela, tata, guagua |
+| Vínculos | Rosado `#e0317a` | amigo, pololo, pareja, perdón, conversar, llamar |
+| Uno mismo | Verde `#2e9d3f` | soltar, dibujar, descansar, paciencia, ordenar |
+| Salud y cuerpo | Turquesa `#0a9a96` | médico, dentista, gimnasio, dormir, terapia |
+| Sueños y proyectos | Morado `#8e3fd6` | viajar, sueño, proyecto, emprender, inglés |
+| Otros | Gris `#5a6472` | lo que no calza en ninguna temática |
 
 ### Tabla de datos
 
