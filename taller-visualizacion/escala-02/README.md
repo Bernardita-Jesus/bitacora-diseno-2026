@@ -251,7 +251,11 @@ Cada temática tiene un color en el telar:
 | Sueños y proyectos | Morado `#8e3fd6` | viajar, sueño, proyecto, emprender, inglés |
 | Otros | Gris `#5a6472` | lo que no calza en ninguna temática |
 
-### Tabla de datos
+## nueva propuesta
+
+telar, correcciones respecto a la forma, y el reagrupamiento de la información, como se navega y se presenta, como se registran los datos.
+
+corregir como se 
 
 ### Conclusiones
 
