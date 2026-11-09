@@ -83,4 +83,20 @@ joselin godwin, y guibeg
 diccionarios de mitologia, magia y religión
 
 
+DICCIONARIO DE MUSICA, MITOLOGIA, MAGIA Y RELIGION
+
+enrrique lin
+
+
+
+## musica de las esferas
+
+armonica proporcion musical, escala atonica
+
+el perfeccionismo de la proporcion ausea, las armonia de las proporciones, esta muy cerca de poder volverse algo fascista, este orden excesivo
+
+somos capaces de tolerar mas sisonancia en ptros sentidoa, como utilizamos el senguaje de la armonia, de la musica, de la onda, la sintonia, el ritmo
+
+
+https://sfsound.bandcamp.com/track/johanna-beyer-music-of-the-spheres-1938
 
