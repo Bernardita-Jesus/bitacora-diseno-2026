@@ -2,6 +2,12 @@
 
 ## Encargo visualización Diseño Abierto
 
+Actualmente vivimos en una época de **hiperproductividad**, donde nuestras acciones, responsabilidades y pendientes pueden convertirse en motivos de culpa. Los fines de año suelen intensificar esta sensación, al convertirse en momentos de balance personal en los que cuestionamos aquello que hicimos, lo que dejamos de hacer y todo lo que continúa pendiente.
+
+Este proyecto busca abrir un espacio para **reconocer, cuestionar y dimensionar nuestros pendientes**, observando cuánto tiempo llevamos postergándolos y cómo nos relacionamos con ellos. Sin embargo, la intención no es generar una nueva exigencia ni medir nuestra productividad, sino permitirnos mirar estas experiencias desde otra perspectiva.
+
+Al construir una **visualización colectiva**, los pendientes individuales se encuentran y conviven en un mismo espacio. Esto permite reconocer experiencias compartidas y transformar el registro en una instancia de **reflexión empática y apoyo mutuo**, donde podamos comprender que no somos las únicas personas que postergan, que no todos los pendientes tienen la misma urgencia y que también está bien no poder con todo.
+
 El trabajo consiste en una **experiencia de registro** frente a una computadora y una grabadora, a partir de la pregunta «¿Qué tienes pendiente y hace cuánto lo pospones?». Cada participante responde mediante un **relato oral**, que se registra temporalmente como texto. A partir de las **palabras clave**, se identifica la temática del pendiente y se clasifica dentro de una de las cinco categorías propuestas, **estudios, trabajo, vínculos** (amigos, pareja y familia), **salud o pasatiempos**. A cada categoría se le asigna un **color**, mientras que el tiempo que lleva postergado determina la **extensión del hilo** que lo representa.
 
 Esta información se proyecta en una pantalla, donde cada participante puede consultar una **guía de correspondencias** que indica el color y la longitud correspondiente a su registro. A partir de estas indicaciones, debe **medir y cortar un tramo de hilo** para luego incorporarlo a un **lienzo colectivo**. Cada hilo se agrega de manera individual, siguiendo el orden en que se registran los pendientes, construyendo progresivamente una **composición física** que reúne las distintas temáticas y los tiempos de postergación de una comunidad.
